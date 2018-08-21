@@ -1,0 +1,52 @@
+subject	PLC½âÃÜÈí¼þÃâ·ÑÊÔÓÃodhq
+from	shi@kzqcjv.com
+to	cen@ccert.edu.cn
+
+                      PLC½âÃÜÈí¼þÌØ¼Û³ê±ö!  ÏêÏ¸½éÉÜ
+   
+   ¿ª·¢±³¾°£º
+
+       ÎÒÃÇ¾­
+   ³£Óöµ½Ò»Ð©¼ÓÃÜµÄPLC£¬²»ÄÜÖ±½Ó¶Á³ö³ÌÐò,²¢½øÐÐ¸Ä½øÑ§Ï°£¬ÔÚ¹¤×÷Êµ¼ùÖÐ×Ü½á
+   ³ö½â¿ªPLCÃÜÂëµÄ·½·¨£¬Ê¹½âÃÜ¸ü¼Ó·½±ã£¬Òò´Ë±àÐ´ÁË´Ë½âÃÜ³ÌÐò£¬Ö±½Ó¶Á³öPLC
+   µÄÃÜÂë£¬Ä¿Ç°ÒÑ¾­
+   ¿ª·¢ÁËÓÃÓÚÈýÁâFXÏµÁÐ¡¢ËÉÏÂFPÏµÁÐºÍÅ·Ä·ÁúCÏµÁÐµÄPLC½âÃÜÈí¼þ¡£ÎªÁË´ó¼Ò¹²
+   Í¬Ñ§Ï°£¬ÌØÌá¹©PLC½âÃÜ·þÎñºÍ½âÃÜÈí¼þÏúÊÛ¡£
+
+   ½âÃÜPLCÀàÐÍ£º
+
+   1¡¢ ÈýÁâFX2¡¢FX0N¡¢FX0S¡¢FX1N¡¢FX1S¡¢FX2N¡¢FX2-EEPROMµÈFXÈ«ÏµÁÐPLC£»
+
+            Ãâ·ÑÏÂÔØÊÔÓÃ
+
+   2¡¢ËÉÏÂFP0¡¢FP1¡¢FPM¡¢FP2¡¢FP2SH¡¢FP3¡¢FPC¡¢FP5¡¢FP10¡¢FP10S¡¢FP10SHµÈ
+   FPÈ«ÏµÁÐPLC¡£
+
+             Ãâ·ÑÏÂÔØÊÔÓÃ
+
+   3¡¢Å·Ä·ÁúC200H,   C200HS,   C1000H,   C2000H,  CPM1,  CPM2*-S*,  CQM1,
+   IDSC£¬C200HX µÈCÏµÁÐPLC¡£
+
+   ×îÐÂÐÅÏ¢.×ð¾´µÄ¿Í»§£¬Å·Ä·ÁúCÏµÁÐPLC½âÃÜÈí¼þÒÑ¾­
+   È«ÃæÉý¼¶£¬ÐÂÔöÇå³ýÃÜÂë¹¦ÄÜ£¬Ê¹µÃÈí¼þÊ¹ÓÃ¸ü·½±ã£¬»¶ÓÐÂÀÏ¿Í»§ÏÂÔØ¡£
+
+   Ð»Ð»£¡
+
+             Ãâ·ÑÏÂÔØÊÔÓÃ
+
+   ²¢ÇÒ²»»á¸Ä±äPLCÄÚ²¿µÄÈÎºÎÊý¾Ý¡£
+
+          ¸ü¶àÏêÇéÇë¿´ÎÒÃÇÍøÕ¾
+
+   ÁªÏµ·½·¨£º
+   
+   µç»°£º020-62773332    13632350456
+
+   ´«Õæ£º020-62773332
+
+   QQ£º24951093
+
+   ÁªÏµÈË£ºÖÓÏÈÉú
+
+
+

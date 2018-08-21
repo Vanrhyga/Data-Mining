@@ -1,0 +1,21 @@
+subject	¡ñ IBM CDL ÕÐÆ¸Intern
+from	yu@mail.nisac.gov.cn
+to	gong@ccert.edu.cn
+Job Title:      Intern (software developer)
+ 
+Opening Seats:  2
+  
+Contact Person: wangqf@cn.ibm.com
+  
+Job Description:
+Software developer to aide in the development of DB2 II product. 
+This individual will be responsible for the development of DB2 II relational/non-relational wrappers, including the build/test environment setup and configuration, coding, debugging and problem determination, etc.
+ 
+Requirements:
+Database:   Relational Database experience 
+Language:   C++ must,  Perl is a plus. 
+Platform:   Unix, Windows 
+English:    Good English Reading/Writing 
+Education:  B.S or higher in Computer Science or related 
+Time:       At lease 3 days per week 
+Others:     Good team player 

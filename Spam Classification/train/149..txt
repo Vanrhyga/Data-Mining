@@ -1,0 +1,11 @@
+subject	● 美国泰码公司诚聘软件工程师
+from	lai@jdl.ac.cn
+to	shi@ccert.edu.cn
+Teragram Corporation is the leading business software provider of fast and scalable language technologies: Categorization, Taxonomy Management, Entity Extraction, Spelling Correction, Indexing, and Crawling. For more details, please visit our website at http://www.teragram.com
+职位要求
+大学本科以上学历，计算机或相关专业毕业。
+精通Linux/Windows操作系统。
+精通C/C++语言编程。
+熟悉MFC或QT。
+具备较强的英语读写能力。
+请将简历以非附件的形式发送到meiguotaima-zhaopin@yahoo.com.cn

@@ -1,0 +1,8 @@
+subject	=?GB2312?Q?Re: =C7=EB=B0=D1=B8=F7=CE=BB=D0=E8=D2=AA=D4=DAMC=C9=CF=BA=F3=CC=A8=D2=D4crontab
+ =D4=CB=D0=D0=B5=C4=C3=FC=C1=EE=D0=D0=B7=A2=B8=F8=CE=D2?=
+from	liu@mails.tsinghua.edu.cn
+to	cao@ccert.edu.cn
+Ê²Ã´½Ðµ¥ÔªÊ½¹«Ô¢
+     ÐÂ½¨¸ßÐ£Ñ§Éú¹«Ô¢×¡ËÞ·Ñ±ê×¼²»±ä
+     ±¾±¨Ñ¶£¨¼ÇÕß¹ùÏþ¾ü£©´Ó½ñÄêÇï¼¾¿ªÑ§¿ªÊ¼£¬±¾ÊÐ¸ßÐ£ÄÚµ¥ÔªÊ½Ñ§Éú¹«Ô¢×¡ËÞ·ÑÃ¿ÉúÃ¿Ñ§Äê²»³¬¹ý1200Ôª£¬·Çµ¥ÔªÊ½Ñ§Éú¹«Ô¢Ã¿ÉúÃ¿Ñ§Äê²»³¬¹ý900Ôª£»Éç»áÁ¦Á¿Í¶×Ê½¨ÉèµÄÐ£ÍâÑ§Éú¹«Ô¢Ã¿ÉúÃ¿Ñ§Äê²»³¬¹ý1500Ôª¡£¸÷Ð£¿É¸ù¾ÝÌá¹©µÄ×¡ËÞÌõ¼þ£¬ÔÚ¹æ¶¨ÊÕ·Ñ±ê×¼ÄÚÖÆ¶¨¾ßÌåÊÕ·Ñ±ê×¼¡£Ñ§É
+     ×òÌì£¬ÊÐ·¢¸ÄÎ¯ÔÚ¹Ù·½ÍøÕ¾¹«²¼»Ø¸´¸øÊÐ½ÌÎ¯µÄ¡¶¹ØÓÚ2005Äê±±¾©¸ßÐ£ÐÂ½¨Ñ§Éú¹«Ô¢×¡ËÞ·Ñ±ê×¼µÄº¯¡·£¬Ã÷È·¹æ¶¨£¬2005Äê¸ßÐ£ÐÂ½¨Ñ§Éú¹«Ô¢×¡ËÞ·Ñ±ê×¼²»×öµ÷Õû¡£

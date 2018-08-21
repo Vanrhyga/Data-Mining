@@ -1,0 +1,40 @@
+subject	Re: 问一个c语言文件的问题，在线等
+from	pan@cernet.com
+to	wen@ccert.edu.cn
+手里没有编译器，应该大致是这个样子
+-------------------------------------------------------------------------
+struct student_type
+{
+  char name;
+  int num;
+  int age;
+  char address;
+}stud[SIZE];
+student_type student;
+int i=0;
+void readin()    //读入数据文件
+{     
+    fp=fopen("data.txt","r+t");
+    if(fp=NULL)
+    {
+        printf("\\ncan not open this data text file.\\n");
+        getchar();
+        return;
+    }
+    printf("reading data from data.txt...\\n");
+    while(fscanf(fp,"%s%d%d%s",&amp;student.name,&amp;student.num,&amp;student.age,&amp;student.address)&gt;=1)
+    {
+        strcp(student.name,stud[i].name);
+        stud[i].num=student.num;
+        stud[i].age=student.age;
+        strcp(student.address,stud[i].address);
+        i++;    
+    }
+    printf("ok!");
+    getchar();    
+    fclose(fp);
+}
+----------------------------------------------------------------------------
+     一个文本文件，内容比如
+     zhang 1001 19 room_101
+     fun   1002 20 room_102

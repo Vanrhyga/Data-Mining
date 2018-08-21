@@ -1,0 +1,34 @@
+subject	ÓòÃû×¢²á£¬ÐéÄâÖ÷»ú£¬ÍøÕ¾½¨Éè£¬ÍøÕ¾ÍÆ¹ã£¬Ò»ÌõÁ
+from	zhou@etang.com
+to	guo@ccert.edu.cn
+ =?GB2312?B?+rXEt/7O8Q==?=
+To: report@ccert.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Reply-To: sdfhj44ddf@etang.com
+Date: Thu, 1 Sep 2005 18:41:17 +0800
+X-Priority: 3
+X-Mailer: FoxMail 3.11 Release [cn]
+
+Ó¢ÎÄ¹ú¼ÊÓòÃû£¨abc.com/abc.net/abc.org£©+100M£¨ASP¡¢ACCESS£©¿Õ¼ä+25MÆóÒµÓÊÏä£¨ÓÊÏä¿ÉÒÔÍ¨¹ýWEB¡¢POP¡¢IMAP¡¢OutlookExpress¹úÄÚÍâ¶Ô·¢ÓÊ¼þ£©=280Ôª
+Ó¢ÎÄÖÐ¹úÓòÃû£¨abc.cn/abc.com.cn/abc.org.cn£©+100M£¨ASP¡¢ACCESS£©¿Õ¼ä+25MÆóÒµÓÊÏä£¨ÓÊÏä¿ÉÒÔÍ¨¹ýWEB¡¢POP¡¢IMAP¡¢OutlookExpress¹úÄÚÍâ¶Ô·¢ÓÊ¼þ£©=320Ôª
+Ó¢ÎÄÖÐ¹úÓòÃûÒ»ÄêµÄ¼Û¸ñ110Ôª£¬¶þÄêµÄ¼Û¸ñ100Ôª/Äê£¬ÈýÄêµÄ¼Û¸ñ90Ôª/Äê£¬ÎåÄêµÄ¼Û¸ñ80Ôª/Äê
+.biz¹ú¼ÊÓòÃû 300Ôª/2Äê ÐÎÈç£º¡°abc.biz¡± 
+.info¹ú¼ÊÓòÃû 300Ôª/2Äê ÐÎÈç£º¡°abc.info¡± 
+¹ú¼ÊÖÐÎÄÓòÃû 320Ôª/¸ö/Äê ÐÎÈç£º¡°www.ÖÐÎÄ.com/net/org¡± 
+ÖÐÎÄÍ¨ÓÃÓòÃû 280Ôª/¸ö/Äê ÐÎÈç£º¡°www.ÖÐÎÄ.cn/ÖÐ¹ú/¹«Ë¾/ÍøÂç¡± 
+¹ú±ðÓòÃû.CC 400Ôª/¸ö/Äê ÐÎÈç£º¡°abc.cc ¡± ¹ú±ðÓòÃû.TV
+¹ú±ðÓòÃû.TV 500Ôª/¸ö/ÄêÐÎÈç£º¡°abc.tv
+ÍøÕ¾ÍÆ¹ã:google¡¢3721¡¢ËÑºü¡¢ÐÂÀË¡¢ÍøÒ×£¬¼Û¸ñÓÅ»Ý¡£
+Ñ¡ÔñÎÒÃÇµÄÀíÓÉ£º
+1¡£Õý¹æºÏ·¨¹«Ë¾ÓÀ¾Ã¾­Óª£¡
+2¡£×ÊÖÊ×îÈ«£¬Í¬Ê±ÓµÓÐÒòÌØÍø½ÓÈë·þÎñ£¨ISP£©ºÍ»¥ÁªÍøÐÅÏ¢·þÎñ£¨ICP£©×Ê¸ñ
+3¡£°²È«ÍøÉÏÖ§¸¶ÓòÃûÊµÊ±¿ªÍ¨
+4¡£³¬Ç¿Ö÷»ú¹ÜÀí
+5¡£×¨ÒµÍøÂç°²È«Î¬»¤£¬Êý¾Ý¿â¶¨ÆÚ±¸·Ý
+6¡£·²ÔÚ±¾¹«Ë¾Ïû·Ñ´ïµ½1000ÔªµÄ¿Í»§¾ùÏíÊÜÃâ·ÑÍÆ¹ã·þÎñ
+»¶Ó­ÄúÑ¡ÔñÈºÓ¢ÍøÂçÎªÄú·þÎñ¡£
+·þÎñÈÈÏß£º0755-82905289   82905259  82905280×ª81
+QQ£º270134883 MSN£ºzhang88712@hotmail.com  EMAIL:zhang@sz185.com
+ÁªÏµÈË£ºÕÅÐ¡½ã
+ÍøÖ·£º www.185dns.net www.185dns.com
+

@@ -1,0 +1,35 @@
+subject	=?gb2312?B?ofEgWzguMjLPwl1OZXcgdGVjaG5vbG9naWVzIGZvciBzaWduYWwgcHJvY2Vzc2luZyBhbmQgd2ly
+from	lian@sohu.com
+to	mo@ccert.edu.cn
+ZWxlc3M=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050816084018.562B8002558A@sohumx06.sohu.com>
+
+【 以下文字转载自 CampusInfo 讨论区 】
+发信人: correct (各自曲折各自悲哀), 信区: CampusInfo
+标  题: [8.22下]New technologies for signal processing and wireless
+发信人: blueworld (该怎么办就怎么办！), 信区: THUInfo
+标  题: 【学术报告】New technologies for signal processing and wire
+主题：New technologies for signal processing and wireless communication
+报告人：
+Chong-Yung Chi, Associate Editor, IEEE Trans. Signal Processing
+  Chairman, Institute of Communications Engineering, &amp;
+  Professor, Department of Electrical Engineering
+National TsingHua University
+时间：8月22日（周一） 14:30-17:00，Talk A &amp; B
+          8月23日（周二） 8:30-11:30，Tutorial
+地点：东主楼10区309会议室
+主办单位：电子工程系
+联系人：陆建华（62792550）
+        张 盛（62794445）
+内容介绍：
+Talk A: Blind Source Separation by Kurtosis Maximization with Applications
+in Wireless Communications
+Talk B: Space Time MSINR-SRAKE Receiver with Finger Assignment Strategies in
+UWB Multipath Channels
+Tutorial: Blind Equalization and System Identification: Batch Processing
+Algorithms, Performance, and Applications

@@ -1,0 +1,19 @@
+subject	● 某知名法国公司研发中心招聘高级Java工程师
+from	hua@126.com
+to	hu@ccert.edu.cn
+  
+Location : Beijing  
+Main Responsibilities:
+＃Participate in the whole cycle of development of software and system based on browser/server structure: be responsible for the design, implementation and integration. 
+Main Requirements : 
+＃Master degree in computer science or engineering;
+＃At least 4 years programming experience in Java is a must, good understanding in UML;
+＃With concrete project experience in J2EE platform design and development; be autonomous in J2EE server architectural design and implementation. 
+＃With experiences in Tomcat/Weblogic/JBoss, Oracle, Linux/Unix;
+＃Solid knowledge of software development processes;
+＃Knowledge on wireless communication is a plus;
+＃Working experience in multinational company;
+＃Good communication skills with fluency in written and oral English;
+＃Team work spirit and sense of responsibility are appreciated.　
+****
+If interested, please send your resume to cynthia.zhao@chinasterling.com ASAP

@@ -1,0 +1,9 @@
+subject	货已经发送,请查收
+from	hua@sohu.com
+to	zhuang@ccert.edu.cn
+
+                      IFRAME: http://www.28bbs.com
+
+
+
+

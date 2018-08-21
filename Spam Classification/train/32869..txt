@@ -1,0 +1,9 @@
+subject	Re: 真正的选课攻略！
+from	shen@mails.tsinghua.edu.cn
+to	kang@ccert.edu.cn
+try~~~
+一般两三次就能进入了
+在选课的时候还会出现这个问题，不用理，刷个两三遍就能正常
+     Database Log In Failed 
+     TNS is unable to connect to destination. Invalid TNS address supplied or destination is not listening. This error can also occur because of underlying network transport problems. 
+     Verify that the TNS name in the connectstring entry of the DAD for this URL is valid and the database listener is running. 

@@ -1,0 +1,9 @@
+subject	CFC国际品牌咨询服务
+from	zhu@126.cn
+to	liu@ccert.edu.cn
+
+         IFRAME: http://www.fashionline.cn/consulting/index.asp
+
+
+
+

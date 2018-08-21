@@ -1,0 +1,9 @@
+subject	一个新的体育网站 www.2sport.cn
+from	ning@hotmail.com
+to	qiu@ccert.edu.cn
+
+   你要找  球友/陪练/教练/场馆/商店吗？请上体育互动  www.2sport.cn 你要做
+   教练/陪练吗       ,       请上体育互动       www.2sport.cn      你要找
+   球友/陪练/教练/场馆/商店吗？请上体育互动 www.2sport.cn
+   你要做 教练/陪练吗 , 请上体育互动 www.2sport.cn
+

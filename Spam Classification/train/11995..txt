@@ -1,0 +1,7 @@
+subject	Re: 请教 SHL 题目的网址
+from	cen@cernet.com
+to	ke@ccert.edu.cn
+http://www.shldirect.com/shldirect-homepage/SHLDirect-1.asp
+     谢谢，请问是这个网址嘛？
+     http://www.shldirect.com/phasei/practicesection-phaseII/TestAdmin/javaok.asp?ID=5B93FDA2DF664AB20022D3D7A92CE066&amp;Target=http://www.shldirect.com/phasei/practicesection-phaseII/testadmin/TestIntro1.asp?Test=N%26ID=5B93FDA2DF664AB20022D3D7A92CE066
+     显示不了 ， 提示如下： 哪位高手说一下怎么弄啊，谢谢！

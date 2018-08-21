@@ -1,0 +1,9 @@
+subject	特惠喜讯！消费即送时尚水晶项链，您收到了吗？
+from	zhuang@96967.com
+to	weng@ccert.edu.cn
+
+         IFRAME: http://www.96967.com/shop/default.aspx?shbid=1
+
+
+
+

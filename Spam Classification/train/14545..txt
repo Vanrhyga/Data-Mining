@@ -1,0 +1,9 @@
+subject	业务
+from	xing@163.com
+to	qing@ccert.edu.cn
+本公司有发票
+可向贵公司提供。如有需要，欢迎来电。
+
+联系人：刘先生
+联系电话：13620980681
+

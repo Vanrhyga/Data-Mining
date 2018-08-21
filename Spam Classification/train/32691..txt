@@ -1,0 +1,16 @@
+subject	● acrobat 把多页pdf 打印到一页上的问题 (转载)
+from	su@mail.csu.edu.cn
+to	he@ccert.edu.cn
+【 以下文字转载自 NewSoftware 讨论区 】
+发信人: Googler (Outsider), 信区: NewSoftware
+标  题: acrobat 把多页pdf 打印到一页上的问题
+在属性中选打印4页到1　页中，
+打出来之后有每页中都一个小方框
+-------------------
+| 原来　 |         |
+| 一页   |         |
+-------------------
+|        |         |
+|        |         |
+-------------------|
+怎样把这方框线去掉啊？　

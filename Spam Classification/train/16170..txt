@@ -1,0 +1,9 @@
+subject	您的手机能看电影吗！
+from	lai@ss.com
+to	zhang@ccert.edu.cn
+
+            IFRAME: http://www.netcall.cn/include/wwwtop1.htm
+
+
+
+

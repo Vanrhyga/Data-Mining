@@ -1,0 +1,9 @@
+subject	设计师软件教学
+from	su@126.com
+to	shen@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

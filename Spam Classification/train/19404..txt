@@ -1,0 +1,46 @@
+subject	ChinaCISSP BBS新帖选编（2005年8月31日）
+from	zhou@chinacissp.com
+to	jian@ccert.edu.cn
+ChinaCISSP论坛注册用户：
+
+以下是ChinaCISSP BBS近期（2005年8月23日至8月31日）部分新帖：
+
+8 月 21 日 香港考试过了 
+http://bbsly.chinacissp.com/viewtopic.php?t=2972
+
+网络安全的历史、现状、未来和挑战
+http://bbsly.chinacissp.com/viewtopic.php?t=2990
+
+诚聘信息安全人员
+http://bbsly.chinacissp.com/viewtopic.php?t=3070
+
+绝好的 CISSP 笔记
+http://bbsly.chinacissp.com/viewtopic.php?t=3046
+
+可信安全计算机
+http://bbsly.chinacissp.com/viewtopic.php?t=2842
+
+BS 7799实施的必要性（可以为用户带来哪些好处）
+http://bbsly.chinacissp.com/viewtopic.php?t=3005
+
+信息系统安全保障等级评估准则
+http://bbsly.chinacissp.com/viewtopic.php?t=3058
+
+关于风险评估流程的几个问题？请不惜赐教
+http://bbsly.chinacissp.com/viewtopic.php?t=2854
+
+网络攻防学习小组即将开课
+http://bbsly.chinacissp.com/viewtopic.php?t=3030
+
+Security Engineer/Consultant -Beijing
+http://bbsly.chinacissp.com/viewtopic.php?t=3013
+
+ITIL该从哪一个process开始
+http://bbsly.chinacissp.com/viewtopic.php?t=2758
+
+感谢各位注册用户对论坛的支持，希望各位对论坛的建设提出意见和建议。顺祝各位工作顺利，生活愉快！
+
+ChinaCISSP网站（http://www.chinacissp.com）
+ChinaCISSP论坛（http://bbs.chinacissp.com）
+站长Phrack（webmaster@chinacissp.com）
+

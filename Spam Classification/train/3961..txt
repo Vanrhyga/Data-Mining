@@ -1,0 +1,13 @@
+subject	● 美国泰码公司招聘Linux系统管理员
+from	liao@126.com
+to	xu@ccert.edu.cn
+Teragram Corporation is the leading business software provider of fast and scalable language technologies: Categorization, Taxonomy Management, Entity Extraction, Spelling Correction, Indexing, and Crawling. For more details, please visit our website at http://www.teragram.com.
+职位要求： 
+计算机及相关专业大学本科毕业
+有较优秀英语的读、写能力
+2年以上Linux系统管理经验
+熟悉TCP/IP协议，对网络结构设计有一定认识；
+熟悉路由器、交换机，防火墙等网络设备的工作原理
+熟悉linux/unix环境下的系统脚本语言
+团结合作，富有责任心
+请应聘者将简历以非附件的方式发到meiguotaima-zhaopin@yahoo.com.cn

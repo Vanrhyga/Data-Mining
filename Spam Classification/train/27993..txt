@@ -1,0 +1,25 @@
+subject	● 招聘通信博士
+from	ni@mails.tsinghua.edu.cn
+to	hu@ccert.edu.cn
+代友发文，不要回站内信箱啊。。。。。
+某著名跨国通信行业，招聘Research Engineer, 从事IMS/VoIP研发，要求通信及相关专业PhD, 毕业工作1-2年以上，下面是具体的要求。
+KEY TASKS
+·    Carry out theoretical analysis and computer simulations
+·    Secure new ideas by actively working with patents in the projects
+·    Support the standardization work with technical contributions according to ***\'s interest
+·    Transfer know-how and results achieved in the projects by writing reports, arranging and taking part in technical seminars, etc.
+·    Present prototypes, demos and papers as well as prepare and take part in meetings with customers in order to demonstrate ***\'s technical image
+·    Co-operate with other departments/units in *** China in some common technical areas
+·    Keep good contacts with universities and research institutes 
+REQUIREMENTS
+·    Ph. D. degree in telecommunication or equivalent, or Master degree having at least 1-2 years\' relative working experience, with emphasis on computer communications
+·    Experienced in transport protocols (IP, TCP, UDP, RTP) and VoIP implementation (SIP, SDP)
+·    Knowledge in the architecture of Internet protocol Multimedia Subsystem
+·    Understanding of radio communications
+·    Skillful with Matlab, C/C++, Java
+·    Good communication skills and social ability
+·    Good team work spirit
+·    Ability to co-operate and work with people from different cultures
+·    Self-motivated, flexible and fluent in English both oral and written
+联系方式：
+Fiona.wang@agconsultant.net

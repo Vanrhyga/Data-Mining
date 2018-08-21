@@ -1,0 +1,166 @@
+subject	¹ØÓÚPHP-Zend°ïÖúºÍÖ§³Ö
+from	qian@skinova.cn
+to	shi@ccert.edu.cn
+
+   Zend°ïÖúºÍÖ§³Ö
+   ¸ÐÐ»ÄúÏÂÔØÊ¹ÓÃzend¹«Ë¾²úÆ·£¬¶ÔÓÚ²úÆ·Ê¹ÓÃÖÐµÄÎÊÌâ£¬zend¹«Ë¾¸øÄúÌá¹©×î¼°
+   Ê±¡¢×î×¨ÒµµÄÖ§³Ö£¬ÏêÇéÈçÏÂ£º  ²úÆ·Ö§³Ö¼Ò×å  ¡¤ ? Zend Studio ¡¤ ? Zend
+   WinEnabler  ¡¤  ?  Zend  Encoder  ¡¤  ? Zend SafeGuard Suite ¡¤ ? Zend
+   Optimizer   ¡¤   ?   Zend   Core   ¡¤   ?   Zend   Platform   ÁªÏµ·½Ê½
+   Zend¼¼ÊõÖ§³Ö·þÎñZend
+   µÄÖ§³ÖÖÐÐÄ¿ÉÒÔÎªÄãÌá¹©ÓÅÐãPHP²úÆ·µÄÔÚÏß×ÉÑ¯ºÍ¼¼ÊõÖ§³Ö
+   ÇëµÇÂ½£ºhttp://www.zend.com/support       Ö¸¶¨²úÆ·¼¼ÊõÖ§³Ö£¨ÖÐ¹úµØÇø£©
+   ±±¾©Ñô¹âÌì´´ÍøÂç¿Æ¼¼ÓÐÏÞ¹«Ë¾ÊÇZend¹«Ë¾ÎªÖÐ¹úµØÇøµÄÓÃ»§Ìá¹©µÄÃâ·Ñ¼¼ÊõÖ§
+   ³Ö¹«Ë¾          Ãâ·Ñ²úÆ·¼¼ÊõÖ§³Ö·½Ê½£¨ÖÐ¹úµØÇø£©          µç×ÓÓÊ¼þÖ§³Ö
+   24Ð¡Ê±ÄÚ(·¨¶¨½Ú¼ÙÈÕ¿ÉÄÜÉÔÓÐÑÓ³Ù)
+   °üÀ¨Ãâ·Ñ¼¼ÊõÖ§³Ö¡£Èç¹ûÄúÔÚÍøÉÏhttp://www.zend.com/support/Ìá½»ÎÊÌâÊ±Óö
+   µ½À§ÄÑ£¬ÇëÔÚ·¢µç×ÓÓÊ¼þÓëZend¼¼ÊõÖ§³Ö¿Í»§·þÎñ²¿ÁªÏµ  µç»°Ö§³Ö  ¹¤×÷Ê±¼ä
+   ¡££¨±±¾©Ê±¼ä      Ã¿ÖÜÒ»ÖÁÖÜÎåµÄÉÏÎç9:00~ÏÂÎç6:00.£©      µç×ÓÓÊ¼þÖ§³Ö
+   24Ð¡Ê±ÄÚ(·¨¶¨½Ú¼ÙÈÕ¿ÉÄÜÉÔÓÐÑÓ³Ù)                         ÁªÏµMSNÖ§³Ö£º
+   ¼¼ÊõÖ§³Ö¹¤³ÌÊ¦»áÍ¨¹ýMSN¼¼ÊõÖ§³ÖµÄ·½Ê½£¬¶ÔÓÃ»§ÔÚÊÔÓÃzend²úÆ·Ó¦ÓÃÊ±Åöµ½µ
+   ÄÎÊÌâÓèÒÔÃâ·Ñ²»ÏÞ´ÎÊýµÄ°ïÖúºÍ½â´ð Ãâ·Ñ×ÊÔ´ l
+   ²úÆ·Ö§³ÖÖÐÐÄ:²úÆ·Ö§³ÖÖÐÐÄ°üÀ¨·á¸»µÄ¹ØÓÚZend²úÆ·µÄÖÐÎÄ¼¼Êõ×ÊÁÏ£¬³£¼ûÎÊÌ
+   â½â´ð¼¯  l  ÊÔÓÃÆÚÏÞÑÓÊ±£º²úÆ·ÊÔÓÃÆÚºó£¬Èç¹ûÏëÔÙ´ÎÊÔÓÃ£¬Ìá¹©ÐÂµÄkey  l
+   ²úÆ·ÅäÖÃ×îÓÅÉèÖÃ£ºÌá¹©¶ÔÓÚÆóÒµ¼¶Æ½Ì¨²úÆ·ÈçplatformµÄ×î¼ÑÅäÖÃ         l
+   Zend¹«Ë¾¶¯Ì¬£ºzend¹«Ë¾µÄ×îÐÂ¶¯Ì¬¼°PHPµÄÎ´À´·¢Õ¹·½Ïò                  l
+   PHPÖÐ¹úÍÆ¹ã»î¶¯£º2005ÄêZendÈ«ÃæÍÆ¶¯ÖÐ¹úPHPÓ¦ÓÃ£¬½éÉÜ×îÐÂµÄÍÆ¹ã»î¶¯   l
+   ×îÐÂÏÂÔØºÍ¸üÐÂ³ÌÐò£ºÌá¹©¸øÄúZendÏÂÔØµ¼º½£¬°ïÖúÄúÕÒµ½ÈÈÃÅµÄ¸üÐÂºÍÏÂÔØ
+   Èç¹ûÄúÏ£Íû»ñµÃÃâ·ÑµÄ¼¼ÊõÖ§³Ö¼°×ÊÔ´£¬Çë½«´Ë»ØÖ´±í·¢ËÍÖÁhong_chen@skinov
+   a.cn£¬»òÇëÖÂµç£º010-62135566-8018
+   ³Âºç£¬ÁªÏµZendÖ¸¶¨ÖÐ¹úµØÇø²úÆ·¿Í»§·þÎñÓë¼¼ÊõÖ§³ÖÖÐÐÄ¡£            Zend
+   ²úÆ·»ñµÃ·þÎñ»ØÖ´  ¹«Ë¾Ãû³Æ  ÐÕÃû  Ö°Î» ÁªÏµ·½Ê½ ²úÆ·Ãû³Æ ËùÔÚµØÇø Best
+   Regards,     Carra     Chen,     ³Âºç     Senior    Account    Manager
+   ----------------------------------------  Skinova(Beijing)  Technology
+   Co. Ltd. Tel: +86 10 6213 5566 ext 8018 Fax: +86 10 6213 5566 ext.8088
+   MSN: nmhong@163.com hong_chen@Skinova.cn WWW.zend.com
+
+                               Zend°ïÖúºÍÖ§³Ö
+
+
+   ¸ÐÐ»ÄúÏÂÔØÊ¹ÓÃzend¹«Ë¾²úÆ·£¬¶ÔÓÚ²úÆ·Ê¹ÓÃÖÐµÄÎÊÌâ£¬zend¹«Ë¾¸øÄúÌá¹©×î¼°
+   Ê±¡¢×î×¨ÒµµÄÖ§³Ö£¬ÏêÇéÈçÏÂ£º
+
+    
+
+   ²úÆ·Ö§³Ö¼Ò×å
+
+   ¡¤                    » Zend Studio
+
+   ¡¤                    » Zend WinEnabler 
+
+   ¡¤                    » Zend Encoder
+
+   ¡¤                    » Zend SafeGuard Suite
+
+   ¡¤                    » Zend Optimizer
+
+   ¡¤                    » Zend Core
+
+   ¡¤                    » Zend Platform
+
+   ÁªÏµ·½Ê½
+
+
+   Zend¼¼ÊõÖ§³Ö·þÎñZend
+   µÄÖ§³ÖÖÐÐÄ¿ÉÒÔÎªÄãÌá¹©ÓÅÐãPHP²úÆ·µÄÔÚÏß×ÉÑ¯ºÍ¼¼ÊõÖ§³Ö
+
+   ÇëµÇÂ½£ºhttp://www.zend.com/support
+
+   Ö¸¶¨²úÆ·¼¼ÊõÖ§³Ö£¨ÖÐ¹úµØÇø£©
+
+
+   ±±¾©Ñô¹âÌì´´ÍøÂç¿Æ¼¼ÓÐÏÞ¹«Ë¾ÊÇZend¹«Ë¾ÎªÖÐ¹úµØÇøµÄÓÃ»§Ìá¹©µÄÃâ·Ñ¼¼ÊõÖ§
+   ³Ö¹«Ë¾
+
+   Ãâ·Ñ²úÆ·¼¼ÊõÖ§³Ö·½Ê½£¨ÖÐ¹úµØÇø£©
+
+   µç×ÓÓÊ¼þÖ§³Ö
+
+   24Ð¡Ê±ÄÚ(·¨¶¨½Ú¼ÙÈÕ¿ÉÄÜÉÔÓÐÑÓ³Ù)
+
+   °üÀ¨Ãâ·Ñ¼¼ÊõÖ§³Ö¡£Èç¹ûÄúÔÚÍøÉÏhttp://www.zend.com/support/Ìá½»ÎÊÌâÊ±Óö
+   µ½À§ÄÑ£¬ÇëÔÚ·¢µç×ÓÓÊ¼þÓëZend¼¼ÊõÖ§³Ö¿Í»§·þÎñ²¿ÁªÏµ
+
+   µç»°Ö§³Ö
+
+   ¹¤×÷Ê±¼ä     ¡££¨±±¾©Ê±¼ä Ã¿ÖÜÒ»ÖÁÖÜÎåµÄÉÏÎç9:00~ÏÂÎç6:00.£©
+
+   µç×ÓÓÊ¼þÖ§³Ö
+
+   24Ð¡Ê±ÄÚ(·¨¶¨½Ú¼ÙÈÕ¿ÉÄÜÉÔÓÐÑÓ³Ù) 
+
+   ÁªÏµMSNÖ§³Ö£º
+
+   ¼¼ÊõÖ§³Ö¹¤³ÌÊ¦»áÍ¨¹ýMSN¼¼ÊõÖ§³ÖµÄ·½Ê½£¬¶ÔÓÃ»§ÔÚÊÔÓÃzend²úÆ·Ó¦ÓÃÊ±Åöµ½µ
+   ÄÎÊÌâÓèÒÔÃâ·Ñ²»ÏÞ´ÎÊýµÄ°ïÖúºÍ½â´ð
+
+   Ãâ·Ñ×ÊÔ´
+
+   l
+   ²úÆ·Ö§³ÖÖÐÐÄ:²úÆ·Ö§³ÖÖÐÐÄ°üÀ¨·á¸»µÄ¹ØÓÚZend²úÆ·µÄÖÐÎÄ¼¼Êõ×ÊÁÏ£¬³£¼
+   ûÎÊÌâ½â´ð¼¯
+
+   l         ÊÔÓÃÆÚÏÞÑÓÊ±£º²úÆ·ÊÔÓÃÆÚºó£¬Èç¹ûÏëÔÙ´ÎÊÔÓÃ£¬Ìá¹©ÐÂµÄkey
+
+   l         ²úÆ·ÅäÖÃ×îÓÅÉèÖÃ£ºÌá¹©¶ÔÓÚÆóÒµ¼¶Æ½Ì¨²úÆ·ÈçplatformµÄ×î¼ÑÅäÖÃ
+
+   l         Zend¹«Ë¾¶¯Ì¬£ºzend¹«Ë¾µÄ×îÐÂ¶¯Ì¬¼°PHPµÄÎ´À´·¢Õ¹·½Ïò
+
+   l
+   PHPÖÐ¹úÍÆ¹ã»î¶¯£º2005ÄêZendÈ«ÃæÍÆ¶¯ÖÐ¹úPHPÓ¦ÓÃ£¬½éÉÜ×îÐÂµÄÍÆ¹ã»î¶¯
+
+   l
+   ×îÐÂÏÂÔØºÍ¸üÐÂ³ÌÐò£ºÌá¹©¸øÄúZendÏÂÔØµ¼º½£¬°ïÖúÄúÕÒµ½ÈÈÃÅµÄ¸üÐÂºÍÏÂÔØ
+
+    
+
+   Èç¹ûÄúÏ£Íû»ñµÃÃâ·ÑµÄ¼¼ÊõÖ§³Ö¼°×ÊÔ´£¬Çë½«´Ë»ØÖ´±í·¢ËÍÖÁhong_chen@skinov
+   a.cn£¬»òÇëÖÂµç£º010-62135566-8018
+   ³Âºç£¬ÁªÏµZendÖ¸¶¨ÖÐ¹úµØÇø²úÆ·¿Í»§·þÎñÓë¼¼ÊõÖ§³ÖÖÐÐÄ¡£
+
+                           Zend ²úÆ·»ñµÃ·þÎñ»ØÖ´
+
+   ¹«Ë¾Ãû³Æ
+
+
+   ÐÕÃû
+
+
+   Ö°Î»
+
+
+   ÁªÏµ·½Ê½
+
+
+   ²úÆ·Ãû³Æ
+
+
+   ËùÔÚµØÇø
+
+
+
+
+   Best Regards,
+
+    
+
+   Carra Chen, ³Âºç
+
+   Senior Account Manager
+
+   ----------------------------------------
+
+   Skinova(Beijing) Technology Co. Ltd.
+
+   Tel: +86 10 6213 5566 ext 8018
+
+   Fax: +86 10 6213 5566 ext.8088
+
+   MSN: nmhong@163.com
+
+   hong_chen@Skinova.cn
+
+   WWW.zend.com
+
+
+

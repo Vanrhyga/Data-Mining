@@ -1,0 +1,13 @@
+subject	CISSP课程表咨询
+from	ye@163.com
+to	bai@ccert.edu.cn
+subscribe cissp  <lhkj009@163.com>
+
+
+subscribe cissp  &lt;lhkj009@163.com&gt;<br><br><br><!-- footer --><br><br><br><br><br>
+<a href="http://www.126.com" target="_blank" style="font-size:14.8px;line-height:160%;color:blue">
+	需要一个<span style="color:red">2000兆的免费</span>邮箱吗？
+	<br>
+	网易免费邮箱是<span style="color:red">中国最多人使用</span>的电子邮箱。
+</a>
+

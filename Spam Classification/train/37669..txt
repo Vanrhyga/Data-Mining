@@ -1,0 +1,18 @@
+subject	Ò»¸ö×ðÖØµçÄÔ¸ßÊÖµÄÍøÕ¾£¡
+from	li@pchome.com.tw
+to	kang@ccert.edu.cn
+
+   ÔÚÕâ¸ö²¡¶¾¡¢Ä¾ÂíºáÐÐµÄÄê´ú£¬ÔÚ°ì¹«ÊÒµÄÄãÊÇ·ñ¾³£ÔÚÓÃµçÄÔ°ì¹«£¿   ÊÇ·ñ¾­
+   ³£ÊÜµ½ÕâÐ©¶«Î÷µÄÉ§ÈÅ¶øÎÞ¿ÉÄÎºÎ£¿            ÄãÔÚ²Ù×÷µçÄÔµÄÊ±ºò£¬ÊÇ·ñ¾­
+   ³£Óöµ½Ó²¼þºÍÈí¼þÒ»Ð©·³ÈËÎÊÌâ£¿
+   ¸ßÊÖÔÆ¼¯£¬ÖÚ½â·×ÄÑµÄÕ¾µã£ºhttp://www.qa51.com/help/web_help.asp
+   Ò»¶¨²»»áÈÃÄãÊ§Íû¶ø¹é£¡
+   Äã¿ÉÒÔÔÚÕâÀïÌá³öÄãËùÓÐÓöµ½µÄÎÊÌâ£¬ÓÉ¾Û¼¯ÔÚÕâÀïµÄ¸ßÊÖÎªÄú½â¾öËùÓöµ½µÄÀ§
+   ÄÑ£¡ ÔÚÕâ¸ö²¡¶¾¡¢Ä¾ÂíºáÐÐµÄÄê´ú£¬ÔÚ°ì¹«ÊÒµÄÄãÊÇ·ñ¾³£ÔÚÓÃµçÄÔ°ì¹«£¿
+   ÊÇ·ñ¾³£ÊÜµ½ÕâÐ©¶«Î÷µÄÉ§ÈÅ¶øÎÞ¿ÉÄÎºÎ£¿
+   ÄãÔÚ²Ù×÷µçÄÔµÄÊ±ºò£¬ÊÇ·ñ¾³£Óöµ½Ó²¼þºÍÈí¼þÒ»Ð©·³ÈËÎÊÌâ£¿
+   ¸ßÊÖÔÆ¼¯£¬ÖÚ½â·×ÄÑµÄÕ¾µã£ºhttp://www.qa51.com/help/web_help.asp
+   Ò»¶¨²»»áÈÃÄãÊ§Íû¶ø¹é£¡
+   Äã¿ÉÒÔÔÚÕâÀïÌá³öÄãËùÓÐÓöµ½µÄÎÊÌâ£¬ÓÉ¾Û¼¯ÔÚÕâÀïµÄ¸ßÊÖÎªÄú½â¾öËùÓöµ½µÄÀ§
+   ÄÑ£¡
+

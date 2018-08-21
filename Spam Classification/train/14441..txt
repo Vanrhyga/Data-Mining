@@ -1,0 +1,9 @@
+subject	adm,一些重要的资料
+from	weng@uu.com
+to	xin@ccert.edu.cn
+
+   
+
+
+
+

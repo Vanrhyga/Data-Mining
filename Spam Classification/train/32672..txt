@@ -1,0 +1,183 @@
+subject	½ÌÓıÍøIP·¢ËÍÓÊ¼şÎÊÌâ
+from	yang@mail.neu.edu.cn
+to	peng@ccert.edu.cn
+
+   ¹ÜÀíÔ±£º
+   ÄúºÃ£¬×î½ü´ÓÑ§Ğ£²¿·ÖÀÏÊ¦ÄÇÀïµÃµ½ÏûÏ¢£¬ÎÒÃÇµÄÓÊ¼ş·şÎñÆ÷±»¼ÓÈëºÚÃûµ¥ÁË£¬
+   ÍËĞÅÄÚÈİÊÇ£º > This is the Postfix program at host smtp1.neu.edu.cn. >
+   >  I'm  sorry  to  have to inform you that your message could not > be
+   delivered  to  one  or  more  recipients. It's attached below. > > For
+   further  assistance,  please  send  mail  to  > > If you do so, please
+   include  this  problem report. You can > delete your own text from the
+   attached  returned  message.  >  >  The  Postfix  program  >  > : host
+   tau.ceti.pl[62.121.128.11]  said:  554  Niedostepny > serwis / Service
+   unavailable;  [202.118.1.51]  blocked  using > cn.rbl.cluecentral.net,
+   reason:  RBL  by rbl.cluecentral.net (in reply to > RCPT TO command) >
+   ÎÒ²éÁËÒ»ÏÂÕâ¸örblÊı¾İ¿â£¬·¢ÏÖ²»Ö¹ÎÒµÄ·şÎñÆ÷ÔÚºÚÃûµ¥ÄÚ£¬½ÌÓıÍø»¹ÓĞºÜ¶àµ
+   ØÖ·¶¼ÔÚ£º  Default  Server:  ns1.neu.edu.cn  Address:  202.118.1.29  >
+   51.1.118.202.cn.rbl.cluecentral.net  Server:  ns1.neu.edu.cn  Address:
+   202.118.1.29 Non-authoritative answer: Name:
+   51.1.118.202.cn.rbl.cluecentral.net      Address:      127.0.0.2     >
+   50.1.118.202.cn.rbl.cluecentral.net  Server:  ns1.neu.edu.cn  Address:
+   202.118.1.29 Non-authoritative answer: Name:
+   50.1.118.202.cn.rbl.cluecentral.net      Address:      127.0.0.2     >
+   50.1.112.202.cn.rbl.cluecentral.net  Server:  ns1.neu.edu.cn  Address:
+   202.118.1.29 Non-authoritative answer: Name:
+   50.1.112.202.cn.rbl.cluecentral.net      Address:      127.0.0.2     >
+   85.29.118.202.cn.rbl.cluecentral.net  Server:  ns1.neu.edu.cn Address:
+   202.118.1.29 Non-authoritative answer: Name:
+   85.29.118.202.cn.rbl.cluecentral.net      Address:     127.0.0.2     >
+   85.29.112.202.cn.rbl.cluecentral.net  Server:  ns1.neu.edu.cn Address:
+   202.118.1.29 Non-authoritative answer: Name:
+   85.29.112.202.cn.rbl.cluecentral.net      Address:     127.0.0.2     >
+   11.192.30.210.cn.rbl.cluecentral.net  Server:  ns1.neu.edu.cn Address:
+   202.118.1.29 Non-authoritative answer: Name:
+   11.192.30.210.cn.rbl.cluecentral.net      Address:     127.0.0.2     >
+   25.11.205.202.cn.rbl.cluecentral.net  Server:  ns1.neu.edu.cn Address:
+   202.118.1.29 Non-authoritative answer: Name:
+   25.11.205.202.cn.rbl.cluecentral.net      Address:     127.0.0.2     >
+   Ï£ÍûccertÄÜ¸øĞµ÷Ò»ÏÂ¡£Ğ»Ğ»  Best  Wishs  --  Name: Zhankao Wen(ÎÂÕ¼¿¼)
+   Email:   wenzk@msn.com   wzk@mail.neu.edu.cn  Mobile:  +86-13604079557
+   Tel&Fax:   +86-24-83687240  Address:  Networking  Center  Northeastern
+   University Shenyang Liaoning Province P.R. China (110004)
+
+   ¹ÜÀíÔ±£º
+
+
+   ÄúºÃ£¬×î½ü´ÓÑ§Ğ£²¿·ÖÀÏÊ¦ÄÇÀïµÃµ½ÏûÏ¢£¬ÎÒÃÇµÄÓÊ¼ş·şÎñÆ÷±»¼ÓÈëºÚÃûµ¥ÁË£¬
+   ÍËĞÅÄÚÈİÊÇ£º
+
+   > This is the Postfix program at host smtp1.neu.edu.cn.
+   >
+   > I'm sorry to have to inform you that your message could not
+   > be delivered to one or more recipients. It's attached below.
+   >
+   > For further assistance, please send mail to <postmaster>
+   >
+   > If you do so, please include this problem report. You can
+   > delete your own text from the attached returned message.
+   >
+   > The Postfix program
+   >
+   >  <office@labosoft.com.pl>:  host tau.ceti.pl[62.121.128.11] said:
+   554 Niedostepny
+   >     serwis / Service unavailable; [202.118.1.51] blocked using
+   >      cn.rbl.cluecentral.net,  reason: RBL by rbl.cluecentral.net (in
+   reply to
+   >     RCPT TO command)
+   >
+
+
+
+   ÎÒ²éÁËÒ»ÏÂÕâ¸örblÊı¾İ¿â£¬·¢ÏÖ²»Ö¹ÎÒµÄ·şÎñÆ÷ÔÚºÚÃûµ¥ÄÚ£¬½ÌÓıÍø»¹ÓĞºÜ¶àµ
+   ØÖ·¶¼ÔÚ£º
+
+
+
+   Default Server:  ns1.neu.edu.cn
+   Address:  202.118.1.29
+
+
+
+   > 51.1.118.202.cn.rbl.cluecentral.net
+   Server:  ns1.neu.edu.cn
+   Address:  202.118.1.29
+
+
+
+   Non-authoritative answer:
+   Name:    51.1.118.202.cn.rbl.cluecentral.net
+   Address:  127.0.0.2
+
+
+
+   > 50.1.118.202.cn.rbl.cluecentral.net
+   Server:  ns1.neu.edu.cn
+   Address:  202.118.1.29
+
+
+
+   Non-authoritative answer:
+   Name:    50.1.118.202.cn.rbl.cluecentral.net
+   Address:  127.0.0.2
+
+
+
+   > 50.1.112.202.cn.rbl.cluecentral.net
+   Server:  ns1.neu.edu.cn
+   Address:  202.118.1.29
+
+
+
+   Non-authoritative answer:
+   Name:    50.1.112.202.cn.rbl.cluecentral.net
+   Address:  127.0.0.2
+
+
+
+   > 85.29.118.202.cn.rbl.cluecentral.net
+   Server:  ns1.neu.edu.cn
+   Address:  202.118.1.29
+
+
+
+   Non-authoritative answer:
+   Name:    85.29.118.202.cn.rbl.cluecentral.net
+   Address:  127.0.0.2
+
+
+
+   > 85.29.112.202.cn.rbl.cluecentral.net
+   Server:  ns1.neu.edu.cn
+   Address:  202.118.1.29
+
+
+
+   Non-authoritative answer:
+   Name:    85.29.112.202.cn.rbl.cluecentral.net
+   Address:  127.0.0.2
+
+
+
+   > 11.192.30.210.cn.rbl.cluecentral.net
+   Server:  ns1.neu.edu.cn
+   Address:  202.118.1.29
+
+
+
+   Non-authoritative answer:
+   Name:    11.192.30.210.cn.rbl.cluecentral.net
+   Address:  127.0.0.2
+
+
+
+   > 25.11.205.202.cn.rbl.cluecentral.net
+   Server:  ns1.neu.edu.cn
+   Address:  202.118.1.29
+
+
+
+   Non-authoritative answer:
+   Name:    25.11.205.202.cn.rbl.cluecentral.net
+   Address:  127.0.0.2
+
+
+
+   >
+
+
+
+   Ï£ÍûccertÄÜ¸øĞµ÷Ò»ÏÂ¡£Ğ»Ğ»
+
+   Best Wishs
+   --
+   Name:    Zhankao Wen(ÎÂÕ¼¿¼)
+   Email:   wenzk@msn.com
+            wzk@mail.neu.edu.cn
+   Mobile:  +86-13604079557
+   Tel&Fax: +86-24-83687240
+   Address: Networking Center Northeastern University
+            Shenyang Liaoning Province P.R. China (110004)
+
+
+

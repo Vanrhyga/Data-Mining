@@ -1,0 +1,9 @@
+subject	货已经发送,请查收
+from	zeng@sohu.com
+to	li@ccert.edu.cn
+
+                      IFRAME: http://www.28bbs.com
+
+
+
+

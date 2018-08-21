@@ -1,0 +1,9 @@
+subject	advisory,一些重要的资料
+from	long@uu.com
+to	han@ccert.edu.cn
+
+   
+
+
+
+

@@ -1,0 +1,9 @@
+subject	GOOGLE先做后付款
+from	xing@yahoo.com.cn
+to	kang@ccert.edu.cn
+
+                    IFRAME: http://www.qy365.cn/1.htm
+
+
+
+

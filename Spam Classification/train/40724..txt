@@ -1,0 +1,10 @@
+subject	国际域名注册成功通知
+from	guo@sina.com.cn
+to	tang@ccert.edu.cn
+
+                         以下不能正确显示请点此 
+
+                      IFRAME: http://www.cneso.com
+
+
+

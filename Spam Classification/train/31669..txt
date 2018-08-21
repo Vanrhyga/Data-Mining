@@ -1,0 +1,49 @@
+subject	ChinaCISSP BBS新帖选编（2005年9月8日）
+from	mo@chinacissp.com
+to	ou@ccert.edu.cn
+ChinaCISSP论坛注册用户：
+
+以下是ChinaCISSP BBS近期（2005年8月31日至9月8日）部分新帖：
+
+关于版主的相关规定（草稿）
+http://bbsly.chinacissp.com/viewtopic.php?t=3323
+
+中国信息安全产品测评认证中心隆重推出CISM培训项目
+http://bbsly.chinacissp.com/viewtopic.php?t=3243
+
+上海　BS15000 IT服务管理体系内审员课程
+http://bbsly.chinacissp.com/viewtopic.php?t=3309
+
+异常流量分析与网络性能管理
+http://bbsly.chinacissp.com/viewtopic.php?t=3089
+
+有没有那位兄弟做成过2级的证书架构？
+http://bbsly.chinacissp.com/viewtopic.php?t=3096
+
+RBL在邮件服务商中的应用
+http://bbsly.chinacissp.com/viewtopic.php?t=3092
+
+一个系统安全计划模板（英文）
+http://bbsly.chinacissp.com/viewtopic.php?t=3229
+
+一份真实的风险评估项目操作流程（我们公司使用的）
+http://bbsly.chinacissp.com/viewtopic.php?t=3108
+
+风险评估\等级保护\基线保护
+http://bbsly.chinacissp.com/viewtopic.php?t=3203
+
+请教关于CISP的三种分类？
+http://bbsly.chinacissp.com/viewtopic.php?t=2481
+
+如何在 IT 外包中运用标杆
+http://bbsly.chinacissp.com/viewtopic.php?t=3291
+
+(下载)如何建立服务目录
+http://bbsly.chinacissp.com/viewtopic.php?t=3162
+
+感谢各位注册用户对论坛的支持，希望各位对论坛的建设提出意见和建议。顺祝各位工作顺利，生活愉快！
+
+ChinaCISSP网站（http://www.chinacissp.com）
+ChinaCISSP论坛（http://bbs.chinacissp.com）
+站长Phrack（webmaster@chinacissp.com）
+

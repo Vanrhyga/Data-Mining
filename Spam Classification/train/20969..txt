@@ -1,0 +1,9 @@
+subject	report,管理方面必备的文档
+from	ling@uu.com
+to	cheng@ccert.edu.cn
+
+   
+
+
+
+

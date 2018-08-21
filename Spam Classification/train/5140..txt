@@ -1,0 +1,9 @@
+subject	平面设计教学
+from	ye@126.com
+to	che@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

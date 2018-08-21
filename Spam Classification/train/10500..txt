@@ -1,0 +1,9 @@
+subject	QQ公社免费安全挂机
+from	wua@hotmail.com
+to	gao@ccert.edu.cn
+
+                     IFRAME: http://qq.zmcq.com:81/
+
+
+
+

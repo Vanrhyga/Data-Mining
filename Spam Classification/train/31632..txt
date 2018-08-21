@@ -1,0 +1,13 @@
+subject	顶级群发助手加数千万邮址
+from	tang@yahoo.com
+to	liu@ccert.edu.cn
+
+   13个文件缺一不可，下载到同一个文件夹里解压即可使用。
+   一定记得把文件保存为以下形式的文件名，否则无法解压：
+   31MillionsEmails.part01.rar,     31MillionsEmails.part02.rar    ......
+   31MillionsEmails.part12.rar, 31MillionsEmails.part13.rar
+
+    IFRAME: http://www.139.com/Skin/1/BlogHistory.aspx?BlogId=314535
+
+
+

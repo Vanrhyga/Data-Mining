@@ -1,0 +1,5 @@
+subject	清 华 计 算 机 系 的 视 频 教 程
+from	zhong@2.cn
+to	hu@ccert.edu.cn
+清华计算机系的视频教程，教授讲解。 http://www.8cd.cn
+

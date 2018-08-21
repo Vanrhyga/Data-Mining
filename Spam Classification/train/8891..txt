@@ -1,0 +1,17 @@
+subject	=?gb2312?B?UmU6INK7tPPFo0lUuavLvtXQxrijulNldmVyIERldmVsb3BtZW50IEVuZ2luZWVyaW5nIFRlc3Qo
+from	jiang@aryasec.com
+to	
+U0Q=?=
+To: qiu@ccert.edu.cn
+Content-Type: multipart/mixed;
+ boundary="=_NextPart_2rfkindysadvnqw3nerasdf";charset="GB2312"
+MIME-Version: 1.0
+Reply-To: jiang@aryasec.com
+Date: Tue, 23 Aug 2005 10:17:39 +0800
+X-Priority: 2
+X-Mailer: FoxMail 4.0 beta 2 [cn]
+
+什么大牛公司，不说名字的。
+     Job Overview:  full ownership on your area of the product and or projects including test case design, test specifications, development of tools and test automation, suppose to participate in design and code reviews, analyze existing tools and procedu
+     # Communicate with HQ teams for testing project outsource planning and collaboration. 
+     # Refine and optimize the entire process to improve efficiency. 

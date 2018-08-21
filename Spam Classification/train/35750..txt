@@ -1,0 +1,10 @@
+subject	jinshop，企业的国际商铺
+from	cao@js715.cn
+to	zhuang@ccert.edu.cn
+
+                        
+
+
+
+   1. LYNXIMGMAP:file://localhost/home/qa/GETSET/tmp.html#Map
+

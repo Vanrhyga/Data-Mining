@@ -1,0 +1,9 @@
+subject	report,一些重要的资料
+from	guan@uu.com
+to	yun@ccert.edu.cn
+
+   
+
+
+
+

@@ -1,0 +1,9 @@
+subject	会员通知
+from	sun@aflafa.com
+to	yana@ccert.edu.cn
+
+          IFRAME: http://www.shaoguan.tiv.cn/reg.asp?action=eng
+
+
+
+

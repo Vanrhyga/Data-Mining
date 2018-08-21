@@ -1,0 +1,19 @@
+subject	● 猎头再寻:高级JAVA开发工程师
+from	han@cernet.com
+to	zhan@ccert.edu.cn
+看来找一个合适的Java工程师真是不容易啊，请应聘者务必有4年以上的Java实战项目经验，基于J2EE平台;英文交流一定要好，因为将来是要和老外一起并肩战斗的。
+合适者请发简历到：cynthia.zhao@chinasterling.com
+Location : Beijing 
+ 
+Main Responsibilities:
+&amp;#8226;    Participate in the whole cycle of development of software and system based on browser/server structure: be responsible for the design, implementation and integration. 
+Main Requirements : 
+&amp;#8226;    Master degree in computer science or engineering;
+&amp;#8226;    At least 4 years programming experience in Java is a must, good understanding in UML;
+&amp;#8226;    With concrete project experience in J2EE platform design and development; be autonomous in J2EE server architectural design and implementation. 
+&amp;#8226;    With experiences in Tomcat/Weblogic/JBoss, Oracle, Linux/Unix;
+&amp;#8226;    Solid knowledge of software development processes;
+&amp;#8226;    Knowledge on wireless communication is a plus;
+&amp;#8226;    Working experience in multinational company;
+&amp;#8226;    Good communication skills with fluency in written and oral English;
+&amp;#8226;    Team work spirit and sense of responsibility are appreciated.　

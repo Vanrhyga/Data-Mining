@@ -1,0 +1,5 @@
+subject	清华计算机系的视频教程
+from	feng@b.com
+to	tao@ccert.edu.cn
+清华计算机系的视频教程，教授讲解。　http://www.8cd.cn
+

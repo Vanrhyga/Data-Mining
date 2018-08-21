@@ -1,0 +1,10 @@
+subject	2005国庆旅游调查有奖问卷
+from	kang@mail3.ctrip.com
+to	ni@ccert.edu.cn
+
+   
+
+
+
+   1. LYNXIMGMAP:file://localhost/home/qa/GETSET/tmp.html#Map
+

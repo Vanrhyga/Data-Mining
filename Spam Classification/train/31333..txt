@@ -1,0 +1,27 @@
+subject	● 关于电磁场暴露和白血病风险的权威杂志论文结论
+from	lu@vt.edu
+to	wei@ccert.edu.cn
+Results
+The risk of childhood ALL was not linked
+to summary time-weighted average residential magnetic-
+field levels, categorized according to a priori
+criteria. The odds ratio for ALL was 1.24 (95 percent
+confidence interval, 0.86 to 1.79) at exposures of 0.200
+m
+T or greater as compared with less than 0.065
+m
+T.
+The risk of ALL was not increased among children
+whose main residences were in the highest wire-code
+category (odds ratio as compared with the lowest
+category, 0.88; 95 percent confidence interval, 0.48 to
+1.63). Furthermore, the risk was not significantly associated
+with either residential magnetic-field levels or
+the wire codes of the homes mothers resided in
+when pregnant with the subjects.
+Conclusions
+Our results provide little evidence that
+living in homes characterized by high measured timeweighted
+average magnetic-field levels or by the highest
+wire-code category increases the risk of ALL in
+children.

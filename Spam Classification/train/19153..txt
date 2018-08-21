@@ -1,0 +1,21 @@
+subject	简单易用的'好景虚设'3D网剧制作工具
+from	fu@xilu.com
+to	qiu@ccert.edu.cn
+简单易用的'好景虚设'3D网剧制作工具
+几分钟在网上创造出自己的三维虚拟世界
+中文名：好景虚设1.0	英文名：STF1.0
+主页：http://wjtx.nease.net/wjtx
+截图欣赏：http://wjtx.nease.net/wjtx/wjzp.htm
+简单教程：http://wjtx.nease.net/wjtx/tech01/helloworld.htm
+工具下载地址：http://wjtx.nease.net/wjtx/zzzq.htm
+留言：http://guestbook.nease.net/index.php?owner=wjtx
+论坛：http://wjtx.bbs.xilu.com/
+附加功能:
+美术可以用来测试自己制作的3D角色动画模型和实现真实场景漫游。
+对显卡底层程序编写感兴趣的朋友可以用来测试HLSL程序和Shader程序。
+还能把它作为显示自己个性的3D签名档，酷酷的挂在IE里。
+当然也是一款3D游戏制作工具 , 你可以尽情创造出自己的虚拟世界！
+也适用于网上商品三维虚拟展示及房地产虚拟演示
+新近推出'好景虚设1.1'版
+希望大家喜欢...
+

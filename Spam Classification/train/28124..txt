@@ -1,0 +1,24 @@
+subject	=?gb2312?B?ofEgUG9zdGRvY3RvcmFsIGFuZCBSZXNlYXJjaCBBc3NvY2lhdGUgUG9zaXRpb25zIGluIEhhcnZh
+from	mei@126.com
+to	ke@ccert.edu.cn
+cmQ=?=
+Date: Tue, 6 Sep 2005 18:23:48 +0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.3790.1830
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.3790.1830
+
+We seek outstanding candidates for postdoctoral research and research associate positions in neurogenetics and imaging genetics studies specifically oriented towards the prediction, diagnosis, monitoring, and therapies for neurodegeneration and/or neurooncology. The candidates must be a team player with extensive knowledge in bioinformatics and computational biology, good understanding of neuroimaging techniques and clinical neurosciences/cancer biology is a plus. Research involves bioinformatics, high throughput cell imaging, animal models, genetics, neurodegeneration, neurooncology, and in vivo brain imaging. 
+Please send c.v. and references to: 
+Dr. Xiaobo Zhou 
+HCNR Center for Bioinformatics 
+Brigham and Women\'s Hospital/Harvard Medical School 
+1249 Boylston Street, 
+Boston, MA 02215 USA 
+or Email: zhou@crystal.harvard.edu
+Tel: 617-525-6249, Fax: 617-525-6250 
+http://neuroinformatics.harvard.edu/home.htm

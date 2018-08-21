@@ -1,0 +1,5 @@
+subject	你好
+from	you@3.cn
+to	long@ccert.edu.cn
+清华计算机系的视频教程，教授讲解。 http://www.8cd.cn
+

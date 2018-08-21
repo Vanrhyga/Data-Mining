@@ -1,0 +1,43 @@
+subject	Ó°ÊÓÖÆ×÷´ÓÒµÕß°®ºÃÕßÇë½ø
+from	Flint/Flame
+to	cen@ccert.edu.cn
+
+   Ó°ÊÓºóÆÚÖÆ×÷¸ß¶Ë Flint/Flame Ñ§Ï°°à£¨¹ãÔº£©
+   Ò».½øÈëÓ°ÊÓºóÆÚÌØÐ§ÁìÓò¾ÍÒµµÄ×îÖ±½ÓÍ¨Â·
+   ¶þ.ÔÚÍ¼ÐÎÍ¼Ïñ¹¤×÷Õ¾ÉÏµÄ´óÐÍÊÓ¾õºÏ³ÉÏµÍ³
+   Èý.Ä¿Ç°ÊÀ½çÉÏ×î¸ß¶ËÓ°ÊÓºóÆÚÖÆ×÷Èí¼þ
+   ¡¤ÎÒ¹úÊý×Ö»¯µçÓ°µçÊÓµÄÒýÈë£¬¹úÄÚ¼±ÐèÒ»Åú¸ß¶ËÆ½Ì¨(SGI)ÔËÐÐÊý×Ö»¯Èí¼þµÄ¸
+   ß¼¶¼ô¼¼°ÌØÐ§ºÏ³ÉÊ¦¡£                  ¡¤¹úÄÚÄ¿Ç°ÔËÐÐµÄPCÆ½Ì¨ºÏ³É¼°¼ô¼­
+   Ê¦£¬Ô¶²»ÄÜÂú×ã½«À´ÎÒ¹úÔËÐÐÊý×Ö»¯Ó°ÊÓµÄÐèÇó¡£
+   ¡¤¹úÄÚÔÚSGIÆ½Ì¨ÉÏÔËÐÐFlint/FlameºÏ³ÉµÄÏµÍ³ÈË²ÅÒ²ÇüÖ¸¿ÉÊý¡£
+   ¡¤Ê×´ÎÍÆ³ö¹úÄÚµÄÕý¹æÅàÑµ»ú¹¹µÄ¸ß¶ËÖÆ×÷¿Î³Ì.
+   ¡¤Flint/Flame×÷ÎªSGIÆ½Ì¨µÄÈí¼þ£¬ÊÇ½ºÆ¬/¸ßÇå¹ã¸æ¡¢¸ßÇåÓ°ÊÓ¾çµÄºóÆÚÌØÐ§º
+   Ï³É¼ô¼ÖÆ×÷±Ø±¸¹¤¾ß¡£           ¾Í´Ë,ÎÒÃÇÍÆ³öÊ×ÆÚFlint/FlameÈí¼þÅàÑµ°à.
+   ¡¤ÅàÑµÄÚÈÝ£ºÈ«ÃæÏµÍ³Ñ§Ï°Flint/FlameÈí¼þ£¬×ÛºÏÊµ¼ÊÓ°ÊÓ¹¤×÷ÖÐµÄÊµÕ½ÑÝÊ¾£
+   ¬ÕÆÎÕ¸ß¼¶Ó°ÊÓºóÆÚºÏ³É¼ô¼ÖÆ        ×÷ÊµÕ½¼¼ÇÉ£¬´ïµ½µ¥¶ÀÍê³É²Ù×÷µÄÄÜÁ¦¡£
+   ¡¤±¨Ãûµç»°£º87732183            13801232695           ¡¤OICQ:452781085
+   ¡¤EMAIL:youngzh@263.net ¡¤ÁªÏµÈË£º³ÂÀÏÊ¦
+   ¡¤±¨ÃûÊ±¼ä£ºÖÜÒ»ÖÁÖÜÎå09:30-17:00     ÖÐ¹ú´«Ã½´óÑ§µçÊÓÑ§Ôº    ÅàÑµÖÐÐÄ
+   Ó°ÊÓºóÆÚÖÆ×÷¸ß¶Ë Flint/Flame Ñ§Ï°°à£¨¹ãÔº£©
+   Ò».½øÈëÓ°ÊÓºóÆÚÌØÐ§ÁìÓò¾ÍÒµµÄ×îÖ±½ÓÍ¨Â·
+   ¶þ.ÔÚÍ¼ÐÎÍ¼Ïñ¹¤×÷Õ¾ÉÏµÄ´óÐÍÊÓ¾õºÏ³ÉÏµÍ³
+   Èý.Ä¿Ç°ÊÀ½çÉÏ×î¸ß¶ËÓ°ÊÓºóÆÚÖÆ×÷Èí¼þ
+   ¡¤ÎÒ¹úÊý×Ö»¯µçÓ°µçÊÓµÄÒýÈë£¬¹úÄÚ¼±ÐèÒ»Åú¸ß¶ËÆ½Ì¨(SGI)ÔËÐÐÊý×Ö»¯Èí¼þµÄ¸
+   ß¼¶¼ô¼¼°ÌØÐ§ºÏ³ÉÊ¦¡£
+   ¡¤¹úÄÚÄ¿Ç°ÔËÐÐµÄPCÆ½Ì¨ºÏ³É¼°¼ô¼­
+   Ê¦£¬Ô¶²»ÄÜÂú×ã½«À´ÎÒ¹úÔËÐÐÊý×Ö»¯Ó°ÊÓµÄÐèÇó¡£
+   ¡¤¹úÄÚÔÚSGIÆ½Ì¨ÉÏÔËÐÐFlint/FlameºÏ³ÉµÄÏµÍ³ÈË²ÅÒ²ÇüÖ¸¿ÉÊý¡£
+   ¡¤Ê×´ÎÍÆ³ö¹úÄÚµÄÕý¹æÅàÑµ»ú¹¹µÄ¸ß¶ËÖÆ×÷¿Î³Ì.
+   ¡¤Flint/Flame×÷ÎªSGIÆ½Ì¨µÄÈí¼þ£¬ÊÇ½ºÆ¬/¸ßÇå¹ã¸æ¡¢¸ßÇåÓ°ÊÓ¾çµÄºóÆÚÌØÐ§º
+   Ï³É¼ô¼ÖÆ×÷±Ø±¸¹¤¾ß¡£
+   ¾Í´Ë,ÎÒÃÇÍÆ³öÊ×ÆÚFlint/FlameÈí¼þÅàÑµ°à.
+   ¡¤ÅàÑµÄÚÈÝ£ºÈ«ÃæÏµÍ³Ñ§Ï°Flint/FlameÈí¼þ£¬×ÛºÏÊµ¼ÊÓ°ÊÓ¹¤×÷ÖÐµÄÊµÕ½ÑÝÊ¾£
+   ¬ÕÆÎÕ¸ß¼¶Ó°ÊÓºóÆÚºÏ³É¼ô¼ÖÆ ×÷ÊµÕ½¼¼ÇÉ£¬´ïµ½µ¥¶ÀÍê³É²Ù×÷µÄÄÜÁ¦¡£
+   ¡¤±¨Ãûµç»°£º87732183 13801232695
+   ¡¤OICQ:452781085
+   ¡¤EMAIL:youngzh@263.net
+   ¡¤ÁªÏµÈË£º³ÂÀÏÊ¦
+   ¡¤±¨ÃûÊ±¼ä£ºÖÜÒ»ÖÁÖÜÎå09:30-17:00
+   ÖÐ¹ú´«Ã½´óÑ§µçÊÓÑ§Ôº
+   ÅàÑµÖÐÐÄ
+

@@ -1,0 +1,19 @@
+subject	=?gb2312?B?ofEgx+vOytK7z8KjrEFDTcr9vt3A77XEzsTVwtT1w7TR+bLFxNzFqrW9cGRmzsS1tbCiICjXqtTY
+from	lei@mail.tsinghua.edu.cn
+to	zheng@ccert.edu.cn
+KQ==?=
+Date: Fri, 2 Sep 2005 14:36:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00AE_01C5AFCA.F7623430"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1506
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1506
+
+【 以下文字转载自 Graduate 讨论区 】
+发信人: anger (paper！), 信区: Graduate
+标  题: 请问一下，ACM数据里的文章怎么样才能弄到pdf文档阿
+发信人: anger (paper！), 信区: DEE
+标  题: 请问一下，ACM数据里的文章怎么样才能弄到pdf文档阿
+怎么查到的都是网页形式的阿，还没法显示公式和图表

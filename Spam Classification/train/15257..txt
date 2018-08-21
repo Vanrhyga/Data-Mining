@@ -1,0 +1,13 @@
+subject	好消息！又有三折机票啦，实时预订！
+from	gu@yahoo.com.cn
+to	wua@ccert.edu.cn
+
+   
+   
+   
+
+
+   1. LYNXIMGMAP:file://localhost/home/qa/GETSET/tmp.html#MapMapMap
+   2. LYNXIMGMAP:file://localhost/home/qa/GETSET/tmp.html#MapMap
+   3. LYNXIMGMAP:file://localhost/home/qa/GETSET/tmp.html#Map
+

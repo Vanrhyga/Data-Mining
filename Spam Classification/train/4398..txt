@@ -1,0 +1,22 @@
+subject	● {急聘}高级工程应用开发工程师
+from	peng@iscas.ac.cn
+to	cao@ccert.edu.cn
+高级工程应用开发工程师
+招聘人数：2人
+性别：不限
+学历：本科以上
+年龄：40岁以下
+任职资格：
+1、工科硕士学历，掌握有限元分析和软件工程的实践知识
+2、具有3年提供工程解决方案的实践经验，具有CAE,CAD,CFD、PDM工程工具的知识
+(如：ADAMS,NASTRAN,LS-DYNA,MADYMO,Fluent,CATIA,Unigraphics,TeamCenter,
+andENOVIAetc.)
+3、熟悉面向对象的编程模式，3年JAVA开发经验
+4、具有JNI,I18N的开发经验者优先考虑
+5、具有很强的分析和沟通能力
+职位描述：
+1、了解企业工程应用信息化的需求
+2、参与完成企业工程应用信息化的软件解决方案
+3、实现工程应用信息化软件的开发
+公司网站：www.sightna.com
+有意者请将简历发送至christina@sightna.com

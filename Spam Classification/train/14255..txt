@@ -1,0 +1,9 @@
+subject	majordomo,帮你找的一些培训资料
+from	he@yyy.com
+to	peng@ccert.edu.cn
+
+   
+
+
+
+

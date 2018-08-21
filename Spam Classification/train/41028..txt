@@ -1,0 +1,9 @@
+subject	网页设计教学
+from	guan@126.com
+to	xin@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

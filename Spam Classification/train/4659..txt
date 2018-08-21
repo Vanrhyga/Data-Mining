@@ -1,0 +1,7 @@
+subject	Re: Texas A&M University 教授Jim Ji将于近期在清华做讲座
+from	xue@126.com
+to	lv@ccert.edu.cn
+  是个好信息！
+     Title:  A Signal Processing Approach to Fast Magnetic Resonance Imaging
+     Abstract: Magnetic resonance imaging (MRI) has become an important imaging modality for clinical diagnosis and scientific research. However, MRI is still a relatively slow technique. State-of-the-art technology is capable of acquiring 3D images from 
+     对该研究方向有兴趣者可以给他发邮件jimji@tamu.edu

@@ -1,0 +1,9 @@
+subject	中秋节到了，您的朋友发来了一张贺卡请查收！
+from	gan@163.com
+to	wei@ccert.edu.cn
+
+                IFRAME: http://www.fdchina.com.cn/zq.htm
+
+
+
+

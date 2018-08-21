@@ -1,0 +1,23 @@
+subject	● （代友发文）TD-SCDMA网络产品合资通信公司招人
+from	zhao@cernet.com
+to	wen@ccert.edu.cn
+朋友原来是西门子做TD-SCDMA的基站，年初和华为合资做TD-SCDMA全套网络产品，现在他们部门招人，地点在望京。
+1.requirment:
+   -Major in telecommunication, computer software, electronic engineering
+   - Good background of wireless communication and 3GPP standard
+   - Strong background in SW development, especially embedded system
+   - Master C, C++ language
+   - Fluent English in spoken and written
+   - Background with Unix/Linux
+   - Has experience in UMTS ATM/FP/MAC/RLC/PDCP/RRC/ NAS/NBAP development
+2.requirment:
+     - Master C language 
+     - Embedded real time system knowledge   
+     - Ability to work on own initiative, strategic thinking, high degree of  
+         analytical skills. 
+      - minimum 2-3 years of professional experience in the O&amp;M development. 
+      - Good background know-how in GSM and UMTS Node B 
+      - Good knowledge of O&amp;M technologies. 
+      - Operating system knowhow 
+3.好像是做FPGA的，做物理层算法的
+他们公司好像基本薪水工作三年小硕9k多吧，有加班费，年底奖金好像还可以。反正有意向的可以发简历给他，flying231508@gmail.com 。不要回我站内信箱哦。

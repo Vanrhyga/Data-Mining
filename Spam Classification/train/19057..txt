@@ -1,0 +1,6 @@
+subject	安全公告
+from	tu@mail1.hnie.edu.cn
+to	zhan@ccert.edu.cn
+subscribe advisory chinaeric@hnie.edu.cn
+
+

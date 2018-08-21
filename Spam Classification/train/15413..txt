@@ -1,0 +1,9 @@
+subject	最优惠的全国酒店预订网
+from	fu@sina.com
+to	lai@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

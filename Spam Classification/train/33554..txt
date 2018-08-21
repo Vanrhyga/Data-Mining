@@ -1,0 +1,12 @@
+subject	● [讲座]9.14全球GSM及Java(TM)卡应用开发大赛介绍会
+from	hu@163.com
+to	fan@ccert.edu.cn
+发信人: redultra (redultra), 信区: Graduate
+标  题: [讲座]9.14全球GSM及Java(TM)卡应用开发大赛介绍会
+9．14
+19：00-21：00
+FIT楼二层多功能厅
+雅斯拓，原斯伦贝谢智能卡和终端部门,03年独立，智能卡应用、创新翘楚，
+此次联合sun，三星主办，为未来的SIM卡创新开发无线应用方案。
+专家评审，奖金丰厚。
+大赛细则http://www.simagine.axalto.com/public/simagine2006_rules.pdf

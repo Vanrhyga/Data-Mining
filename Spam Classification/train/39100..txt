@@ -1,0 +1,3 @@
+subject	天蓝模具数控半工半读成才就业直通车
+from	bai@mail.com
+to	liao@ccert.edu.cn

@@ -1,0 +1,30 @@
+subject	¡ñ Lucent QingDao Recruiting
+from	chen@wnt.com.cn
+to	su@ccert.edu.cn
+POSITION:               Software Engineers
+ORGANIZATION:   Convergence Solutions R&amp;D
+# of openings:                50
+LOCATION:               Qingdao
+GENERAL REQUIREMENTS
+¡ì      B.S. or above in Computer Science, Communications, Electronics or other associated fields.
+¡ì      Good computer science knowledge, working experience in telecom software development and testing is preferred.
+¡ì      Fluent in both oral and written English (CET-6 or above).
+¡ì      Strong analytical/debugging skills.
+¡ì      Creative mindset and dedication, can learn things quickly and willing to take challenging jobs.
+¡ì      Strong communication skills and interpersonal skills.
+¡ì      Integrity, initiative, and good teamwork.
+JOB SUMMARY
+IMS  (3G, NGN) systems engineering, software design, development and testing 5EXC software design, development and testing
+JOB DESCRIPTION
+¡ì      Working with world class innovation engine - Bell Labs. 
+¡ì      Responsible for designing and developing IMS ¨C Core Network for 3G/NGN, focusing on system performance, security, QoS, next generation applications, etc.
+¡ì      Responsible for switching software design and development as well as existing system maintenance, including signaling, call processing, IN, data applications, local/toll development, PHS, switch maintenance, terminal maintenance, tools development, etc.
+¡ì      Work responsibilities include systems engineering, design, coding and testing
+REQUIREMENTS
+¡ì      Good understanding of OS architecture (LINUX/UNIX)
+¡ì      Proficient in C/C++ and LINUX/UNIX programming. 
+¡ì      Good understanding of real-time system programming. 
+¡ì      Expert knowledge of VoIP protocols (SIP, MEGACO/H.248, SIGTRAN, Diameter, etc.) and SS7 signaling.
+¡ì      Good understanding of call-processing, supplementary services, IN (Intelligent Network), and telecommunication billing mechanism.
+¡ì      Familiarity with 3GPP, 3GPP2, ITU-T, ETSI, IETF (SIP related) standards.
+¡ì      Working experience on TAPI (Telecommunication API), MGC (Media Gateway Controller) and 2G/3G wireless products could be a plus. 

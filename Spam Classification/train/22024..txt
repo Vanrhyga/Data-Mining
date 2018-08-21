@@ -1,0 +1,9 @@
+subject	最便宜有效的传播服务
+from	xing@itpr.com.cn
+to	wei@ccert.edu.cn
+
+                 IFRAME: http://www.itpr.com.cn/mail.htm
+
+
+
+

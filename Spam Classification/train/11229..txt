@@ -1,0 +1,18 @@
+subject	参加课程可获得折价券
+from	hong@msn.com
+to	gan@ccert.edu.cn
+
+   这是一封HTML格式信件！
+
+                          163培训网8月份开设的课程
+
+                                 
+
+                                 
+
+                                 
+
+                         更多课程请查阅163培训网
+
+
+

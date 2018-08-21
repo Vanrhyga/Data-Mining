@@ -1,0 +1,9 @@
+subject	天下人才网--免费招聘求职
+from	xu@126.cn
+to	qiu@ccert.edu.cn
+
+            IFRAME: http://www.hronline.cn/job/Main/index.asp
+
+
+
+

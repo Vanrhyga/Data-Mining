@@ -1,0 +1,20 @@
+subject	Re: OEM这种部门主要是干什么工作？
+from	lu@aryasec.com
+to	huang@ccert.edu.cn
+看来你还没有理解，说一个比较通俗的：
+比如你是IBM oem部门的，他们要生产大量笔记本，那么需要大量电源适配器，
+但是他们一般不自己生产，就让oem部门去大量采购或者联系厂商让他们提供给ibm。
+     标  题: Re: OEM这种部门主要是干什么工作？
+     
+     大宗采购？怎么个采购法？
+     就是厂商用到大公司的产品，大量购买？
+     
+     : 也不一定提供方案，说不定就是大宗的采购
+     
+     
+     --
+     Never give up!
+     Never give in!
+     Never say never!
+     
+     

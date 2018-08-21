@@ -1,0 +1,9 @@
+subject	report,给你一些管理方面的资料
+from	fu@bbb.com
+to	rao@ccert.edu.cn
+
+   
+
+
+
+

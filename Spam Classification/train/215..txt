@@ -1,0 +1,9 @@
+subject	设计师软件教学
+from	xu@126.com
+to	ke@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

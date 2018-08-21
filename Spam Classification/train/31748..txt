@@ -1,0 +1,9 @@
+subject	全国最大工艺品网站
+from	tu@12345.com
+to	yang@ccert.edu.cn
+
+                      IFRAME: http://www.xuyilu.com
+
+
+
+

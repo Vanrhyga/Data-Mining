@@ -1,0 +1,380 @@
+subject	Çå»ª´óÑ§Ñ§±¨2005ÄêµÚ7£¬8ÆÚ£¬Ó¢ÎÄ°æµÚ4ÆÚÄ¿´Î
+from	rao@list.cn99.com
+to	gong@ccert.edu.cn
+
+   »¶ÓÄúä¯ÀÀÇå»ª´óÑ§Ñ§±¨
+
+                                 Çå»ª
+
+                                  ´óÑ§
+
+                                  Ñ§±¨
+
+
+                                  £¨µ¼¶Á£©
+
+
+                               ³ö°æÈÕÆÚ£º2003Äê8ÔÂ24ÈÕ
+
+                      Çå»ª´óÑ§Ñ§±¨(×ÔÈ»¿ÆÑ§°æ)Ö÷Ò³
+
+                                  ×ÜµÚ24ÆÚ
+
+                         Çå»ª´óÑ§Ñ§±¨Ó¢ÎÄ°æÖ÷Ò³
+
+                     Tsinghua Science and Technology
+
+   ±¾ÆÚÄ¿Â¼
+   1.Çå»ª´óÑ§Ñ§±¨£¨×ÔÈ»¿ÆÑ§°æ£©µÚ7ÆÚÄ¿´Î
+   2.Çå»ª´óÑ§Ñ§±¨£¨×ÔÈ»¿ÆÑ§°æ£©µÚ8ÆÚÄ¿´Î
+   3.Çå»ª´óÑ§Ñ§±¨Ó¢ÎÄ°æµÚ4ÆÚÄ¿´Î
+                     
+
+
+                    Çå»ª´óÑ§Ñ§±¨£¨×ÔÈ»¿ÆÑ§°æ£©µÚ7ÆÚÄ¿´Î 
+
+   Çå»ª´óÑ§Ñ§±¨ (×ÔÈ»¿ÆÑ§°æ) ª¥ Qinghua Daxue Xuebao (Ziran Kexue Ban)
+
+    2005 Äê 7 ÔÂ µÚ 45 ¾í µÚ 7 ÆÚ
+
+   Ä¿ ´Î
+
+   ¿Æ¼¼¼òÑ¶
+
+   ÖÐ¹úÉúÎïÌØÐÔÊ¶±ð¼¼ÊõÒÑ¾´ïµ½ÊÀ½çÁìÏÈË®Æ½ª©927ªª
+
+   ¡¤µç»ú¹¤³Ì¡¤ªª
+
+   01 ¶àÏàÒì²½µç»úÐ³²¨µçÁ÷ÓëÐ³²¨´ÅÊÆµÄ¶ÔÓ¦¹ØÏµ ÎâÐÂÕñ£¬ ÍõÏéçñ£¬ ÂÞ ³É
+   865
+
+   02 ARMÇ¶ÈëÊ½ÏµÍ³ÔÚGISÔÚÏß¼à²âÖÐµÄÓ¦ÓÃ ÀîÎÄÊé£¬ Ðì¹úÕþ£¬ ¹ØÓÀ¸Õ£¬ µÈ
+   869
+
+   03 »ùÓÚ¸Ä½øMPPTËã·¨µÄµ¥¼¶Ê½¹â·ü²¢ÍøÏµÍ³ Áõ Ê÷£¬ Áõ½¨Õþ£¬ ÕÔÕùÃù£¬ µÈ
+   873
+
+   04 »ùÓÚ±äÑ¹Æ÷¸ôÀëÐÍÁ´Ê½Äæ±äÆ÷µÄDª²STATCOMª¤¼°Æä¿ØÖÆ Àî½¨¹ú£¬ ÁõÎÄ»ª£¬
+   ËÎ Ç¿£¬ µÈ 877
+
+   05 Ìá¸ß½éÖÊËðºÄÒòÊý¼à²â×¼È·¶ÈµÄËã·¨ ÕÔ Í®£¬ ÀîÇìÃñ£¬ ³Â Æ½ 881
+
+   06 ¸ºÔØÌØÐÔ¼¤·¢µÄ·ÇÏßÐÔÏîµÄ²»Á¬ÐøÐÔÌøÔ¾ Ðì ÔÆ£¬ ÕÅ½¨Ï¿£¬ ³£ ·É£¬ µÈ
+   885
+
+   ¡¤µç×Ó¹¤³Ì¡¤ªª
+
+   07 »ùÓÚ¼«»¯ºÏ³É¿×¾¶À×´ïÊý¾ÝµÄÇÅÁº¼ì²â ÓÚ´óÑó, ÖÜ Â¶£¬ Ñî ½¡, µÈ 888
+
+   08 »ùÓÚVTSµÄÎÈ½¡ÓïÒôÊ¶±ð ÕÔÏÍÓî£¬ Å·ÖÇ¼á£¬ Íõ×÷Ó¢ 892
+
+   09 ¶àÄ£Ê½ÓïÒô¶Ëµã¼ì²â Áõ Åô£¬ Íõ×÷Ó¢ 896
+
+   10 ¸ßÐ§µÄH.264Ê±ÓòÎóÂëÑÚ¸ÇËã·¨ ÖÜ î££¬ ´Þ»Û¾ê£¬ ÌÆ À¥ 900
+
+   11 ÒÔH.264Ëã·¨ÎªÆ½Ì¨µÄ¸ßÐ§ÂÊÍ¼ÏñÔöÇ¿Ëã·¨ ÍõìäÎ¢£¬ ÁõÑÇÀò£¬ ´Þ»Û¾ê£¬ µÈ
+   904
+
+   12 Õý½»Æµ·Ö¸´ÓÃ¡¼CD*2¡½¶àÌìÏßÏµÍ³µÄÃ¤ÐÅµÀ¹À¼ÆËã·¨ ¸ß´ºÑÞ, ÕÔ Ã÷,
+   ÖÜÊÀ¶«, µÈ 908
+
+   13 ¿ìËÙ¿ÚÒô×ÔÊÊÓ¦µÄ¶¯Ì¬Ëµ»°ÈËÑ¡ÔñÐÔÑµÁ· ¶ Ã÷£¬ Áõ ¼Ó£¬ ÁõÈóÉú 912
+
+   14 »ùÓÚÊÓÆµ·ÖÎöµÄ¿É·Ö²ãµÄÈÝ´í±àÂëËã·¨ ³Â Óñ£¬ ÕÅÐñ¶«£¬ ÍõµÂÉú 916
+
+   15 »úÆ÷ÈË¶¨Î»ÖÐÎÈ½¡µÄ×ÔÊÊÓ¦Á£×ÓÂË²¨Ëã·¨ ½¯ÕýÎ°£¬ ¹ÈÔ´ÌÎ£¬ ÌÆ À¥ 920
+
+   16 ·ÇÍ¹¶Î³¤·Ö²¼Òþº¬MarkovÄ£ÐÍµÄËÑË÷Ëã·¨ Îâ ¼°£¬ Ð¤ Îõ£¬ Ðí ÁÕ£¬ µÈ 924
+
+   17 ÓÃÓÚÈËÁ³Ê¶±ðµÄÕýÃæÈËÁ³Í¼ÏñÑÛ¾µÕª³ý ¶Å ³É£¬ ËÕ¹â´ó 928
+
+   18 ×¨ÓÃÍøOSPFÁ´Â·°Ú¶¯ÒÖÖÆËã·¨ Ñî Ñó£¬ Â½ Ñó£¬ ÁÖÐ¢¿µ 931
+
+   19 ¶à½ûÖ¹·ûºÅËãÊõ±àÂë¸ßÐ§´íÎó¼ì²âËã·¨ ÏÄÖ¾½ø£¬ Ñî Ãú£¬ ´Þ»Û¾ê£¬ µÈ 935
+
+   20 H.264Ç°Ïò/ºóÏòÁªºÏÊÓÆµ²î´í¿ØÖÆËã·¨ ÍõÎÄÉú£¬ ´Þ»Û¾ê£¬ ÌÆ À¥ 939
+
+   21 ÎÀÐÇATMÍøÂçÖÐ½áºÏDAÐÒéµÄ½ÓÄÉ¿ØÖÆ ÂÀ ÈØ£¬ ²ÜÖ¾¸Õ 943
+
+   22 ÇúÏßºÏ³É¿×¾¶À×´ïÖÐÉ¢ÉäµãÈýÎ¬ÌØÕ÷ÌáÈ¡·½·¨ ËÕÖ¾¸Õ£¬ ÅíÓ¦Äþ£¬ ÍõÐãÌ³
+   947
+
+   23 ²ÊÉ«¹ÇËèÏàµÄ¿ìËÙ·Ö¸î Îâ´óÎ°£¬ Óá ²ý 951
+
+   ¡¤¼ÆËã»ú¿ÆÑ§Óë¼¼Êõ¡¤ªª
+
+   24 Õë¶Ô²»È·¶¨Ö´ÐÐÊ±¼äÈÎÎñµÄÊµÊ±µ÷¶È·½°¸ Íõ»ªÓÂ£¬ ´÷Ò»Ææ 955
+
+   25 ¾°Îï¿Õ¼äµÄ¾µÃæ·´Éä£¨ÕÛÉä£©ÏÖÏó»æÖÆ·½·¨ ÀîÑÇ·å£¬ ÇØ¿ª»³ 959
+
+   26 »ùÓÚÒþÏ¢Ñ§µÄÐÅÏ¢°²È«·½°¸ ÀîË³¶«£¬ ´÷Ò»Ææ 962
+
+   27 OSPFÐÒé±¨ÎÄË¢ÐÂ»úÖÆµÄ·ÖÎöºÍ¸Ä½ø ³ÂÖÇ²¨£¬ ÐìÃ÷Î°£¬ ´Þ ÓÂ£¬ µÈ 966
+
+   28 »ùÓÚ¹âÏËÍ¨µÀµÄ¹â´«·ÉÐÐ¿ØÖÆÏµÍ³Í¨ÐÅ·½°¸ Ã× Äþ£¬ ÖÜº£ÌÎ£¬ Öì¼Íºé 969
+
+   29 Ç¶ÈëÊ½CPUÈíÓ²¼þÐÍ¬¿ª·¢ÖÐµÄ²Ù×÷ÏµÍ³Éè¼Æ ¶ Ô¨£¬ ÍõÉúÔ£¬ ³Â ¼Î£¬ µÈ
+   973
+
+   30 ÓÃ»§²ãÍ¨ÐÅÍøÂçÐÔÄÜ²âÊÔ·½·¨ Öì×ÓÓñ£¬ ÀîÈýÁ¢£¬ ¶¼Ö¾»Ô£¬ µÈ 977
+
+   31 ¶àÖÇÄÜÌåÏµÍ³ÖÐ¾ßÓÐÏÈÑéÖªÊ¶µÄQÑ§Ï°Ëã·¨ ¶Å´ºÏÀ£¬ ¸ß ÔÆ£¬ ÕÅ ÎÄ 981
+
+   ¡¤Î¢µç×ÓÑ§¡¤ªª
+
+   32 CMOSÃÅµçÂ·µÄ¹¦ÂÊÓëÊý¾ÝÏà¹ØÐÔ ÀîÏèÓî£¬ ËïÒåºÍ 985
+
+   33 ²ÉÓÃµçÈÝñîºÏµÄÄÜÁ¿»ØÊÕµçÂ· Ñî å¹£¬ ÖÜÈóµÂ 989
+
+   ¡¤×Ô¶¯»¯¡¤ªª
+
+   34 ·´Ó¦¾«Áó¹ý³ÌµÄ²Ù×÷ÓÅ»¯Óë¼¯³ÉÓÅ»¯·ÖÎö ÕÅ ÃÍ£¬ ÐìÓÃí® 992
+
+   35 »ùÓÚGauss¾¶Ïò»ù±ä»»µÄ·ÇÆ½ÎÈ¿Õ¼ä½á¹¹¹À¼Æ ¶ÅÓî½¡£¬ ÏôµÂÔÆ 996
+
+   36 »ùÓÚÉñ¾ÍøÂçµÄ¶à¹âÆ×²âÎÂÊý¾Ý´¦Àí·½·¨ ËïÏþ¸Õ£¬ Ô¹ð±ò£¬ ÁÖ¿Æ·æ£¬ µÈ
+   999
+
+   37 »ùÓÚ²¨·½³ÌµÄÔË¶¯Ä£ºýÍ¼Ïñ»Ö¸´ ÕÅ ½ø£¬ ³Â»ÛÈØ£¬ ÈÙ ¸Ö 1002
+
+   38 µ¥»ú×ÜÎó¹¤ÎÊÌâµÄ·Ö½âÆô·¢Ê½Ëã·¨ ÈÎ ÑÞ£¬ ÍõÊéÄþ 1005
+
+                                                             »Øµ½Ä¿Â¼
+
+                    Çå»ª´óÑ§Ñ§±¨£¨×ÔÈ»¿ÆÑ§°æ£©µÚ8ÆÚÄ¿´Î 
+
+   Çå»ª´óÑ§Ñ§±¨ (×ÔÈ»¿ÆÑ§°æ) ª¥ Qinghua Daxue Xuebao (Ziran Kexue Ban)
+
+   2005 Äê 8 ÔÂ µÚ 45 ¾í µÚ 8 ÆÚª¤
+
+   Ä¿ ´Îª¤
+
+   ¿Æ¼¼¼òÑ¶
+
+   Çå»ª´óÑ§»ñ2004Äê¶È±±¾©ÊÐ¿ÆÑ§¼¼Êõ½±21Ïîª©1113ªª
+
+   ¡¤»úÐµ¹¤³Ì¡¤ªª
+
+   01 ¸ÎÏ¸°ûµÄÈýÎ¬ÊÜ¿Ø×é×° Áõº£Ï¼£¬ ÑÕÓÀÄê£¬ ÍõÐ¡ºì£¬ µÈ 1009
+
+   02 µç×ÓÊøÖ±½ÓÈÛ»¯¼¼ÊõÖÐµÄ·ÛÄ©×´Ì¬·ÖÎö Æëº£²¨£¬ ÑÕÓÀÄê£¬ ÁÖ ·å£¬ µÈ
+   1012
+
+   03 ÏûÊ§Ä£ÖéÁ£ÉäÁÏ³äÌî¹ý³ÌµÄÊýÖµÄ£Äâ ³ÂÒ¢½££¬ »ÆÌìÓÓ£¬ ÕÅ ¼Î£¬ µÈ 1016
+
+   04 »ùÓÚÎïÀí¹æ»®µÄÄ£ºýÎÈ½¡ÓÅ»¯Éè¼Æ »ÆºéÖÓ£¬ ÁõºèÀò£¬ ¹ÅÓ¨¿ü£¬ µÈ 1020
+
+   ¡¤¾«ÃÜÒÇÆ÷Óë»úÐµÑ§¡¤ªª
+
+   05 Áù×ÔÓÉ¶È²¢Áª»ú´²µÄ¹¤¼þ×ø±êÏµ¶¨Î» ÀîÌúÃñ£¬ ÒüÎÄÉú 1023
+
+   06 ¹ãÒåÁª°îÂË²¨Æ÷µÄÉè¼ÆÓëÊµÑé Íõ ËÌ£¬ ¹ËÆôÌ© 1028
+
+   07 ÓÐ±ß½çÈó»¬µÄÍù¸´ÔË¶¯Ä¦²Á¸±ÖÐµÄ±íÃæÄ¤ Ê©ºéÉú£¬ ºúÔªÖÐ£¬ Íõ »Û 1032
+
+   08 ÓÃÓÚ»úÐµ¹ÊÕÏÕï¶ÏµÄÃÅÏÞ×Ô»Ø¹éÄ£ÐÍÃ¤±æÊ¶ ÀîÖ¾Å©, ºÎÓÀÓÂ, ñÒ¸£ÀÚ, µÈ
+   1036
+
+   09 Ñ¹µçÌÕ´ÉÆ¬Óë¶àÖÖµçÂ·»úµçñîºÏµÄ×èÄáÌØÐÔ ÕÅ¸¶ÐË£¬ ÑÖÉÜÔó 1040
+
+   10 ÃæÏòÐÍ¬Éè¼ÆµÄ²úÆ·½á¹¹ÓëÅäÖÃ¹ÜÀíÏµÍ³ ³Â¼ÌÖÒ£¬ Ìï Áè£¬ Í¯±üÊà 1044
+
+   11 ÎÞÄ¥ÁÏµÍÎÂÅ×¹âÖÐµÄÕñ¶¯·ÖÎö¼°Ïû³ý ÁõÏòÑô£¬ Óô¶¦ÎÄ£¬ ÍõÁ¢½ 1048
+
+   12 ÓÃÓÚÊý×Ö´Å´æ´¢µÄ(0,1)ÓÎ³Ì³¤¶ÈÊÜÏÞÂë ºú ºã£¬ ÅËÁú·¨£¬ À×Ö¾¾ü£¬ µÈ
+   1051
+
+   13 ³¬´ÅÖÂÉìËõ¡¼CD*2¡½Ñ¹µçÖ±ÏßÊ½Èä¶¯»ú¹¹µÄÉè¼Æ Àî´äºì£¬ Ò¶×ÓÉê£¬
+   ÃÏÓÀ¸Ö£¬ µÈ 1055
+
+   14 Õ³µ¯ÐÔ·ÇNewton½éÖÊÈó»¬Á÷±äÌØÐÔµÄÆµÓò·ÖÎö ³Âð©Éú£¬ ³Â´óÈÚ£¬ Íô¼ÒµÀ
+   1058
+
+   15 AZ4903¹â¿Ì½ºÔÚÎ¢µç»ú¶¨×ÓÈÆ×éÖÆ×÷ÖÐµÄÓ¦ÓÃ ¹ùÕ¼Éç£¬ ÎâÒ»»Ô£¬ ÃÏÓÀ¸Ö
+   1062
+
+   16 »ùÓÚMEMSÑ¹Á¦´«¸ÐÆ÷µÄÎ¢Ð¡ÐÍ¿ÕËÙ¼Æ ÍõÁ¢´ú, ÐÜÉòÊñ, ÖÜÕ×Ó¢ 1066
+
+   17 Ðý×ªÖÐÐÄÆ«ÒÆ¶Ô·´Éä¹âµ÷ÖÆÇ¿¶ÈµÄÓ°Ïì ñÒ Ô¨£¬ Ðì ·å£¬ Ö£ ìÍ£¬ µÈ 1069
+
+   18 ËÙ»¬ÖÐÍÈ²¿¼¡ÈâÐµ÷ÐÔÍ¬²½¼¡µç·ÖÎö ²Ü »Ô, Íõ×ÓôË, ¼¾ÁÖºì, µÈ 1072
+
+   19 ½âÀíÔÆÄ¸±íÃæÕ³×ÅÌØÐÔµÄÊµÑé Ñî ¶¬£¬ ºúÔªÖÐ£¬ Íõ »Û£¬ µÈ 1076
+
+   ¡¤º½Ììº½¿Õ¹¤³Ì¡¤ªª
+
+   20 Ðý³ÉÌå¹ö×ª¹ý³ÌÖÐBistableÁ÷³¡µÄÊýÖµÄ£Äâª¤ÓëÊµÑé Íõ ¸Õ£¬ ÁºÐÂ¸Õ 1079
+
+   21 Ô²Öù¿ÇÊÜ¼¯ÖÐÔØºÉ×÷ÓÃµÄÆæÒì½â Àî¶«·ç£¬ Ñ¦Ã÷µÂ 1083
+
+   22 ¿ÅÁ£ÔÚÆø¹ÌÁ½ÏàÔ²ÍÄÉäÁ÷½ü³¡½ØÃæ¶ÔÆøÏàµÄÓ°Ïì¡¼JP¡½ ´Þ½ðÀ×£¬ ÍõÏ£÷ë£¬
+   ÈÝ Ò× 1088
+
+   23 »·ÐÎÄÚÀßÆ¬Ô²¹Ü²ãÁ÷Âö³åÁ÷¶¯Ç¿»¯¶ÔÁ÷»»ÈÈª¤ÊýÖµ·ÖÎö Óá½Ó³É£¬ ÀîÖ¾ÐÅ
+   1091
+
+   24 Ë«³ß¶È¶þ½×¾ØÁ½ÏàÍÄÁ÷Ä£ÐÍ¼°ÆäÓ¦ÓÃ Ôø×¿ÐÛ£¬ ÖÜÁ¦ÐÐ£¬ ÕÅ ½¡ 1095
+
+   25 ºóÌ¨½×Æø¹ÌÁ½ÊµÑé ÈÎ¿·æ£¬ ÍõÏ£÷ë£¬ ÕÅ»áÇ¿ 1099
+
+   26 »ùÓÚBoltzmannÄ£ÐÍ·½³ÌµÄÆ½°åCouetteÁ÷¼ÆËã ÀîÖ¾»Ô£¬ Ôø Êµ£¬ ³Âº£ê¿£¬
+   µÈ 1103
+
+   27 Íâµç³¡¶ÔºÉµç¿ÅÁ£¾²µçÄý¾ÛµÄÓ°Ïì ÕÅÏòÈÙ£¬ ÍõÁ¬Ôó£¬ Öì¿ËÇÚ 1107
+
+   28 ¾ØÐÎÉäÁ÷ÖÐµÄÁ÷ÏòÎÐ·Ö²¼ÌØÐÔ¼°×÷ÓÃ ½¯ Æ½£¬ ¹ùÓ¡³Ï£¬ ÕÅ»áÇ¿£¬ µÈ 1110
+
+   ¡¤ÈÈÄÜ¹¤³Ì¡¤ªª
+
+   29 Çã½Ç¶ÔÍÄÁ÷ÏÁ·ì³å»÷ÉäÁ÷Á÷¶¯Óë´«ÈÈÐÔÄÜµÄÓ°Ïì¡¼JP¡½ ³ÂÇì¹â£¬ ÎâÓñÁÖ£¬
+   ÁõÊ÷ºì£¬ µÈ 1114 30 Ë®±ÃË®ÂÖ»ú×ªÂÖÈ«ÈýÎ¬ÄæÏòÉè¼Æ·½·¨ Ñî ÁÕ£¬ ³ÂÄËÏé£¬
+   ·®ºì¸Õ 1118
+
+   31 ËÄ½×½ôÖÂ¸ñÊ½ÓÐÏÞÌå»ý·¨ÍÄÁ÷´óÎÐÄ£Äâ Ðì á°£¬ Ðí´ºÏþ£¬ ´Þ¹ðÏã£¬ µÈ
+   1122
+
+   32 ¾ßÓÐ¸´ÔÓÍØÆË½á¹¹Ã÷ÂúÁ÷Ëí¶´µÄË®µçÕ¾Ë²±ä¼ÆËã¡¼JP¡½ ·®ºì¸Õ£¬ ³ÂÄËÏé£¬
+   Ñî ÁÕ 1126
+
+   33 Ë«Á÷µÀÒ¶ÂÖÄÚ²¿ÈýÎ¬¶¨³£ÍÄÁ÷ÊýÖµÄ£Äâ ÖÜ ±ø£¬ ³ÂÄËÏé 1130
+
+   34 »ìÁ÷Ê½Ë®ÂÖ»ú²¿·Ö¸ººÉÏÂµÄÒ¶Æ¬¶¯ÔØºÉÄ£Äâ ÖÜÁè¾Å, ÍõÕýÎ° 1134
+
+   35 Î²Ë®¹ÜÑ¹Á¦Âö¶¯µÄÄ£ÄâÓëÏÖ³¡Êµ²â ÍõÕýÎ°£¬ ÖÜÁè¾Å£¬ ºÎ³ÉÁ¬ 1138
+
+   36 SOFC/Microª²GT»ìºÏÑ»·ÏµÍ³ÐÔÄÜ·ÖÎö Ê·ñ´Ïè, ²ÌÄþÉú, ÀîÕñÉ½ 1142
+
+   37 »ùÓÚ¸ÅÂÊµÄ¹ÊÕÏ¼ì²â·½·¨¼°ÆäÑ§Ï°²ßÂÔ Çñ Ìì£¬ ¶¡ÑÞ¾ü£¬ ÎâÕ¼ËÉ 1146
+
+   ¡¤Æû³µ¹¤³Ì¡¤ªª
+
+   38 Á½¶ÎÅçÉäÖ±ÅçÊ½ÆûÓÍ»úÈ¼ÉÕÏµÍ³µÄ»ìºÏÆøª¤ÐÎ³É¹æÂÉ ÍõÑà¾ü£¬ Íõ½¨ê¿£¬
+   Ë§Ê¯½ð 1149
+
+                                                             »Øµ½Ä¿Â¼
+
+                        Çå»ª´óÑ§Ñ§±¨Ó¢ÎÄ°æµÚ4ÆÚÄ¿´Î 
+
+   TSINGHUA SCIENCE AND TECHNOLOGY
+
+   ISSN 1007-0214 CN 11-3745 / N
+
+   Vol. 10, No. 4, August 2005
+
+   CONTENTS
+
+   BIOLOGICAL SCIENCE AND BIOTECHNOLOGY
+
+   Analysis of the Cotton E6 Promoter WU Aimin, LIU Jinyuan 409-413
+
+   Inhibition of Alkaline Phosphatase from Pearl Oyster Pinctada fucata
+   by o-Phthalaldehyde: Involvement of Lysine and Histidine
+
+   Residues at the Active Site CHEN Hongtao, XIE Liping, YU Zhenyan, et
+   al 414-420
+
+   Expression of an Exo-b-glucanase Gene Is Specifically Related to Lily
+   Pollen Germination and Pollen Tube Growth
+
+   ¡¡¡¡LIU Xizhen, HUANG Jian, GAO Rongfu, et al 421-425
+
+   Neuron Protective Constituents from Rheum Nanum and Rheum
+   Sublanceolatum
+
+   ¡¡¡¡XIANG Lan, LEI Fan, XING Dongming, et al 426-429
+
+   Internalization of Trichosanthin via Different Endocytic Mechanisms
+
+   ¡¡¡¡ZHANG Fan, SUI Senfang 430-434
+
+   Fabrication and Characterization of Chitosan Nerve Conduits with
+   Microtubular Architectures
+
+   ¡¡¡¡AO Qiang, WANG Aijun, CAO Wenling, et al 435-438
+
+   Behavior of MC3T3-E1 Osteoblast Cultured on Chitosan Modified with
+   Polyvinylpyrrolidone
+
+   ¡¡¡¡XI Jing, GAO Yuan, KONG Lijun, et al 439-444
+
+   Three-Dimensional Reconstruction of E. coli SecA at Low Resolution
+
+   ¡¡¡¡PAN Xijiang, SUI Senfang 445-448
+
+   Fiber-Based Chitosan Tubular Scaffolds for Soft Tissue Engineering:
+   Fabrication and in vitro Evaluation
+
+   ¡¡¡¡WANG Aijun, AO Qiang, CAO Wenling, et al 449-453
+
+   Osdof28: A New Member of the DOF Transcription Factor Family from Rice
+
+   ¡¡¡¡CHEN Feng, CHEN Yu, DONG Yixiang, et al 454-460
+
+   Characteristics of Two Intermediates Trapped in the Unfolding Pathway
+   of Arginine Kinase Induced by Guanidinium Chloride ¡¡¡¡GUO Xiaogang,
+   XIE Liping, PAN Jicheng, et al 461-468
+
+   Spatial Heterogeneity and Variability of a Large-Scale Vegetation
+   Community Using a Power-Law Model
+
+   ¡¡¡¡SONG Zhiyuan, HUANG Daming, SHIYOMI Masae, et al 469-477
+
+   OsDREB1 Gene from Rice Enhances Cold Tolerance in Tobacco
+
+   ¡¡¡¡LI Ping, CHEN Feng, QUAN Chao, et al 478-483
+
+   Interaction of Stathmin-Like 2 Protein with the APP Intracellular
+   Domain
+
+   ¡¡¡¡LI Zhidong, WANG Weiwei, ZHOU Fangfang, et al 484-488
+
+   N-Terminal Truncation of TACO Inhibits PMA-Induced U937 Cell Adhesion
+
+   ¡¡¡¡LIU Changzhen, SUI Senfang 489-495
+
+   In vivo Dynamic Studies of Brain Metabolism
+
+   ¡¡¡¡LUO Xuechun, JIANG Yufeng, ZHANG Riqing 496-498
+
+   Extraction and Purification of Matrix Protein from the Nacre of Pearl
+   Oyster Pinctada fucata
+
+   ¡¡¡¡MA Caiping, ZHANG Cen, NIE Yancheng, et al 499-503
+
+   Cloning and Characterization of a Homologous Ca2+/
+   Calmodulin-Dependent Protein Kinase PSKH1 from Pearl Oyster Pinctada
+   fucat¡¡¡¡DAI Yiping, XIE Liping, XIONG Xunhao, et al 504-511
+
+   Monoclonal Antibodies Recognizing HIV-1 gp41 Could Inhibit
+   Env-Mediated Syncytium Formation
+
+   ¡¡¡¡ZHANG Geng, CHEN Yinghua 512-516
+
+   Molecular Analysis of Dominant Microbial Populations in Heavily and
+   Slightly Polluted Aquifers by a Seaside Landfill
+
+   ¡¡¡¡TIAN Yangjie, YANG Hong, LI Daotang, et al 517-522
+
+                                                             »Øµ½Ä¿Â¼
+
+   ----
+   ÓÊ¼þÁÐ±í¡¾qhdxxb¡¿¹²ÓÐ1018¸ö¶©»§
+
+   
+   ¸ÐÐ»ÐÂÀÏÓÃ»§¶ÔÏ£ÍøÍøÂçÖ§³ÖºÍ¹Ø°®£¬ÒÔÏÂÔÓÖ¾ÊÇÒ»Ð©¾«²ÊµÄµç×ÓÔÓÖ¾¡£
+   µã»÷ÒÔÏÂµç×ÓÔÓÖ¾µÄÃû³Æ¿ÉÒÔ²é¿´¸ÃÔÓÖ¾ÀúÊ·ÎÄµµ£»Ñ¡ÔñÒÔÏÂµÄ¾«²Êµç×ÓÔÓÖ¾£¬
+   ÊäÈëÄúµÄEmail¿ÉÒÔÖ±½Ó¶©ÔÄ¡£
+     [_] ¡¾ÓÎÏ·¿ì±¨¡¿ [_] ¡¾ÈÕ¾BPÉç¡¿ [_] ¡¾ÖÐ¹ú±¨µÀ¡¿ [_]
+                              ¡¾ÒÕÍøÖÜ¿¯¡¿
+     [_] ¡¾21ÊÀ¼Í±¨¡¿ [_] ¡¾ÊÀ²©Ó¢Óï¡¿ [_] ¡¾²Æ¸»Ö¤È¯¡¿ [_]
+                              ¡¾ÀøÖ¾ÈËÉú¡¿
+                    E-mail: ______________________ ¶©ÔÄ
+                                     ¡¡
+
+   ======================================================================
+   ****** Bentium Mailing List Server ===ÓÊ¼þÁÐ±í×¨¼Ò ******
+   Ï£ÍøÍøÂç http://www.cn99.com
+
+
+
+

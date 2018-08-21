@@ -1,0 +1,9 @@
+subject	report,一些重要的资料
+from	tang@uu.com
+to	chen@ccert.edu.cn
+
+   
+
+
+
+

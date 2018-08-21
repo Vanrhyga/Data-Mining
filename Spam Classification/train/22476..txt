@@ -1,0 +1,14 @@
+subject	Re: [请教]网线一分二的接头 (转载)
+from	zheng@mail.tsinghua.edu.cn
+to	gao@ccert.edu.cn
+以前可以这样用的啊
+难道必须要用hub啊
+     标  题: Re: [请教]网线一分二的接头 (转载)
+     
+     网线头不是hub。
+     : 【 以下文字转载自 NewExpress 讨论区 】
+     : 发信人: MDV (凡事有风险，出手须谨慎), 信区: NewExpress
+     : 标  题: [请教]网线一分二的接头
+     
+     --
+     

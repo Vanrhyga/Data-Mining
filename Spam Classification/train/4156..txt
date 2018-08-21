@@ -1,0 +1,34 @@
+subject	WebSphereÓÃ»§×é8ÔÂ½²×ù
+from	wua@websphere-club.org
+to	huang@ccert.edu.cn
+
+   IBM WebSphere ÓÃ»§×é 8 ÔÂ×îÐÂ½²×ù £¨±±¾©£©
+   Ö÷°ì£ºIBM ÖÐ¹úÈí¼þ²¿
+   Ð°ì£ºCSDN.NET¡¢ÖÐ¼ä¼þ¾ãÀÖ²¿
+
+   ÔÚÏß±¨Ãû £¨CSDN.net£©
+   _________________________________________________
+
+   Ö÷Ìâ£ºIBM portal ¼¼Êõ¾«Òª
+   Ê±¼ä£º2005Äê8ÔÂ20ÈÕ 15:00 ¨C 17:00
+   µØµã£º±±¾©°ØÑå´óÏÃ301»áÒéÊÒ£¨º£µíÇø±±ËÄ»·ÖÐÂ·238ºÅ£©  ½²×ùµØµãµØÍ¼
+   ÑÝ½²ÈË£º¹ùÎÄÎ°£¬   IBM   Èí¼þ²¿¸ß¼¶¹¤³ÌÊ¦£¬Ö÷Òª¸ºÔð  WebSphere  Portal
+   Server    ºÍ   WebSphere   µÄ¼¼ÊõÖ§³Ö,ÓÐ·á¸»µÄÏîÄ¿¹æ»®£¬Éè¼Æ£¬ÎÊÌâÐÞ¸´
+   ,ÐÔÄÜµ÷ÓÅµÄ¾Ñé¡£
+   ²ÎÓëÁËÖÐ¹ú¹¤ÉÌÒøÐÐ×ÛºÏÃÅ»§Æ½Ì¨£¬ÖÐ¹ú½¨ÉèÒøÐÐ×ÛºÏÃÅ»§Æ½Ì¨£¬É½¶«Ê¡ÑÌ²ÝÒµ
+   ÎñÆ½Ì¨£¬ºÚÁú½µçÁ¦×ÛºÏÃÅ»§Æ½Ì¨µÈÏîÄ¿¡£
+   ½²×ù¼ò½é£º
+   ÃÅ»§Æ½Ì¨ÊÇÄ¿Ç°¹ã·º²ÉÓÃµÄÆóÒµÓ¦ÓÃÕûºÏÆ½Ì¨¼¼ÊõÖ®Ò»¡£Ô½À´Ô½¶àµÄ¿Í»§¸Ðµ½
+   IT
+   ÏµÍ³Ê¹ÓÃ²»¹»ÈËÐÔ»¯£¬ÒÑÓÐµÄ¶à¸öÏµÍ³¶¼ÊÇÒ»¸ö¸öÐÅÏ¢¹Âµº¡£Ï£ÍûÍ¸¹ýÒ»ÖÖ¼¼Êõ
+   £¬¿ÉÒÔÑ¸ËÙµÄ½«²»Í¬µÄÒµÎñÏµÍ³ÕûºÏµ½Ò»¸öµ¥Ò»µÄÆóÒµÆ½Ì¨£¬ÊµÏÖ
+   SSO£¬¶¯Ì¬ÄÚÈÝ·¢²¼£¬ÓÃ»§¼¯ÖÐ¹ÜÀíµÈ¡£¶ø IBM ÃÅ»§¾ÍÊÇÕâÑùÒ»ÖÖ¼¼ÊõÆ½Ì¨¡£
+   ÎÒÃÇµÄ×¨¼Ò½«Í¨¹ýÏÖ³¡ÑÝÊ¾À´             ÏòÄú½éÉÜÃÅ»§¼¼ÊõµÄ·¢Õ¹ÏÖ×´¡¢IBM
+   ÃÅ»§¼¼Êõ¿ò¼Ü¡¢¼¼ÊõÌØµã¡¢²úÆ·ÓÅÊÆ¼°ÓÃ»§°¸Àý·ÖÎöºÍÓëÆäËüÍ¬Àà²úÆ·µÄ±È½Ï¡£
+   Äú½«¶ÔÃÅ»§¼¼ÊõÓÐÒ»¸öÈ«ÃæÀí½â¡£
+   _________________________________________________
+
+   ÔÚÏß±¨Ãû (CSDN.net)
+
+
+

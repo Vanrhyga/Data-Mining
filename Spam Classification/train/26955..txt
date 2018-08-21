@@ -1,0 +1,71 @@
+subject	ChinaHR Ó¦Æ¸ÍøÂçºÍÐÅÏ¢°²È«¼¼ÊõÑÐ¾¿ÊÒ£­ÍøÂç°²È«·þÎñ
+from	gan@mail239.chinahr.com
+to	apply@ccert.edu.cn
+
+           ±àºÅ 4000000001842685  ¸üÐÂÈÕÆÚ 2005-08-31
+   
+
+                ¼ÆËã»ú | ÔÚÐ£Ñ§Éú | 3Äê¹¤×÷¾Ñé | ±¾¿Æ | ±±¾©
+                              ºÎì¿ £¨ÄÐ 25Ëê£©
+                        E-mail£ºhw800103@sina.com
+                             ÊÖ»ú£º13466368939
+                          ¼ÒÍ¥µç»°£º010--62784242
+                            ³öÉúÈÕÆÚ£º1980Äê1ÔÂ
+                                 ¹ú¼®£ºÖÐ¹ú
+                              »§¿ÚËùÔÚµØ£º±±¾©
+                               ÕþÖÎÃæÃ²£ºÈºÖÚ
+
+                            ÇóÖ°ÒâÏò
+
+                        ÆÚÍûÐ½Ë®£ºË°Ç°ÔÂÐ½RMB1500 Ôª
+                            ÆÚÍû´ÓÊÂÐÐÒµ£º¼ÆËã»ú
+                             ÒâÏò¹¤×÷ÐÔÖÊ£ºÈ«Ö°
+                         µ½¸ÚÊ±¼ä£ºÃæÌ¸ Ä¿Ç°Ð½Ë®£º
+                          ÆÚÍû´ÓÊÂÖ°Òµ£ºÍøÂç¹¤³ÌÊ¦
+                       ÊÛÇ°/ÊÛºóÖ§³Ö¹¤³ÌÊ¦
+                           ÏµÍ³¹ÜÀíÔ±
+                             ÆÚÍû¹¤×÷µØÇø£º±±¾©
+
+                            ¸öÈË¼òÀú
+
+                                ¸ö ÈË ¼ò Àú
+                                 ¸öÈË¸Å¿ö£º
+                ÐÕÃû£ººÎì¿ ÐÔ±ð£ºÄÐ Ãñ×å£ººº ÕþÖÎÃæÄ¿£ºÈºÖÚ
+                        Ñ§Àú£º´ó×¨ ×¨Òµ£º¼ÆËã»úÓ¦ÓÃ
+                    ÁªÏµµç»°£º62784242 ÊÖ»ú£º13466368939
+        ÁªÏµµØÖ·£º±±¾©ÊÐº£µíÇøÇå»ª´óÑ§¸ß¶þÂ¥1106ÊÒ ÓÊÕþ±àÂë£º100084
+                      Email Address£ºhw800103@sina.com
+                                 ½ÌÓý±³¾°£º
+                1998.9 -- 2001.6 ±±¾©ÅàÀèÖ°Òµ´óÑ§¼ÆËã»ú×¨Òµ
+           2004.9 -- 2005.8 ±±´óÇàÄñÅàÑµÖÐÐÄBENETÍøÂç¹¤³ÌÊ¦ÈÏÖ¤£º
+     Windows server 2003 £ºDHCP £¬DNS £¬VPN £¬ICS £¬NAT £¬Proxy Server
+                           £¬IIS £¬FTP £¬×é²ßÂÔ¡£
+                   Linux £º Apache »ù±¾ÅäÖÃÓëphp¡¢mysqlÐ­
+           Í¬¹¤×÷£¬´´½¨ÓòÃû·þÎñÆ÷£¨bind£©¼°µ÷ÊÔ£¬SendmailÓÊ¼þ·þÎñ
+   £¬ÅäÖÃPOP3ºÍIMAP·þÎñÆ÷£¬vsftp»ù±¾ÅäÖÃ£¬½¨Á¢NFS·þÎñÆ÷¿Í»§¶Ë£¬ÅäÖÃSambaÊ
+   µÏÖÎÄ¼þ¹²Ïí£¬DHCP·þÎñÆ÷£¬OpenSSH»ù±¾ÅäÖÃ¼°Ó¦ÓÃ£¬ÅäÖÃVPN£¨FreeS/WAN£©¡£
+                      ISA server £¬Exchange server ¡£
+   SQLÊý¾Ý¿â¹ÜÀí£ºÊý¾Ý×ª»»£¬Êý¾Ý¿â¸´ÖÆ£¬ÀûÓÃTransact-SQLÓï¾ä´´½¨ÐÞ¸ÄË÷Òý£
+                                ¬¹ÜÀíÊÓÍ¼¡£
+               ½»»»»úTrunk¡¢VTPÓòÅäÖÃ £¬Éú³ÉÊ÷CST¡¢PVSTÅäÖÃ¡£
+     Â·ÓÉÐÒéRIP1/2 ¡¢OSPF»ù±¾ÅäÖÃ £¬±ê×¼ÓëÀ©Õ¹·ÃÎÊ¿ØÖÆÁÐ±íÓ¦ÓÃÓëÅäÖÃ¡£
+           ÊìÏ¤AutoCAD£¬Photoshop£¬Office²Ù×÷ ´ò×ÖËÙ¶È£º110/·ÖÖÓ
+                                 ¹¤×÷¾Àú£º
+                  2001.8 -- 2002.4 ·ÉÓîÍø°É ÍøÂçÎ¬»¤Óë¹ÜÀí
+                2002.4 -- 2003.5 °ËÒÚÊ±¿ÕµçÄÔ Ì¨Ê½»úÊÛºó·þÎñ
+                    2004.5 -- 2004.8 ±±·½ºÀÉ¿Æ¼¼ ÒµÎñÔ±
+                                 ×ÔÎÒÆÀ¼Û£º
+                          ÎÂºÍ¡¢Ç«Ðé¡¢×ÔÂÉ¡¢ÏòÉÏ¡£
+   Ï£ÍûÄúÄÜ¸øÎÒÒ»´ÎÊ©Õ¹²ÅÄÜµÄ»ú»á£¬ÏàÐÅÎÒ¶¨ÄÜÊ¤ÈÎÎÒµÄ¹¤×÷£¬Îª¹«Ë¾µÄ·¢Õ¹×÷
+                                  ³öÎÒ×î´ó
+                                  µÄ¹±Ï×¡£
+
+                            ÓïÑÔË®Æ½
+
+                         ÖÐÎÄÆÕÍ¨»°£ºÒ»°ã
+                          
+
+                             
+
+
+

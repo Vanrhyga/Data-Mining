@@ -1,0 +1,29 @@
+subject	.net虚拟主机管理系统！
+from	lv@21cn.com
+to	zhong@ccert.edu.cn
+尊敬的虚拟主机提供商,您好!
+   
+ 
+	砺青主机管理系统,真正的.net系统向你走来.
+
+	在线演示:www.lqwl.com或www.winiis.com
+
+	系统功能模块划分清晰,设计规范， 销售系统、主控端、受控端三大功能模块相互独立，且通过标准的XML报文交换命令，安全而稳定。是国内唯一一个采用标准XML报文做为交换协议的系统。
+
+	
+  QQ咨询：  50896979
+  电话咨询：0591-87202125
+  邮件咨询：web@lqwl.com
+  应用平台：NT/2000/2003/XP
+  免费下载：http://www.lqwl.com/download/WinIISWEB_test_V4.80.rar
+  开发商主页：www.lqwl.com ;www.winiis.com
+
+   
+	　致
+礼！
+ 				
+
+　　　　　　　　张小姐
+　　　　　　　　web@lqwl.com
+　　　　　　　　　　2005-09-12
+

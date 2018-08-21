@@ -1,0 +1,9 @@
+subject	advisory你好，希望与你交个朋友
+from	cao@bcn
+to	lei@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

@@ -1,0 +1,9 @@
+subject	佛山易天礼品www.tooo.cn
+from	tao@tooo.cn
+to	yan@ccert.edu.cn
+
+   FRAME: http://tiger.www.net.cn/myname.html
+   FRAME: http://www.ytlp.cn
+
+
+

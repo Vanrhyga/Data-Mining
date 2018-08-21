@@ -1,0 +1,3 @@
+subject	万种图书清仓，两天降1折！
+from	yun@ddsender12.88ip.cn
+to	xia@ccert.edu.cn

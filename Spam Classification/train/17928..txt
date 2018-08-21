@@ -1,0 +1,9 @@
+subject	中秋节到了，你的朋友给你发了一张贺卡！
+from	tao@163.com
+to	zhang@ccert.edu.cn
+
+                IFRAME: http://www.fdchina.com.cn/zq.htm
+
+
+
+

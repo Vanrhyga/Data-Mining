@@ -1,0 +1,9 @@
+subject	全国有色金属行情、商机、资讯总汇
+from	ma@tom.com
+to	su@ccert.edu.cn
+
+                     IFRAME: http://www.0757info.com
+
+
+
+

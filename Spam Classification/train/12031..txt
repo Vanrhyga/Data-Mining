@@ -1,0 +1,10 @@
+subject	雅思最新资讯
+from	zhuang@126.com
+to	zhong@ccert.edu.cn
+
+   
+
+
+
+   1. LYNXIMGMAP:file://localhost/home/qa/GETSET/tmp.html#FPMap0
+

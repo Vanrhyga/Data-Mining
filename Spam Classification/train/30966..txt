@@ -1,0 +1,16 @@
+subject	=?gb2312?B?UmU6INXm0MTH673Muf3AtMjLo7qz9sn6sru+w7XE06S2+brIyrLDtMXG19O1xMTMt9uxyL3PusOj
+from	sun@sohu.com
+to	fan@ccert.edu.cn
+vw==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050907064725.2924001B7062@sohumx06.sohu.com>
+
+ÔÚÄ³ÃÀÈÝÂÛÌ³¿´µ½ÓÐÄÚÐÐÈËËµ£¬¹úÍâ±¾ÍÁ»¯ÁËµÄÆ·ÅÆ£¬Í¬Ñù²úÆ·µÄÖÊÁ¿²»½öÔ¶Ô¶²»Èç
+¹úÍâ²úµÄÖÊÁ¿£¬ÉõÖÁÁ¬´¿´â¹ú²úÆ·ÅÆµÄÖÊÁ¿¶¼²»Èç¡£²»ÖªµÀÄÌ·ÛÊÇ²»ÊÇÀàËÆ¡£
+     ÏÖÔÚµÄÅä·½ÄÌ·Û¶¼²î²»¶à£¬¹ú¼Ò±ê×¼ÊÇÒ»ÑùµÄ£¬ ³´×ö¸ÅÄî£¬ÃÔ»óÏû·ÑÕß£¬Ä¿Ç°¹úÄÚµÄÒÁÀû¡¢Ê¥ÔªÓÅ´ÏÓ¤Ó×¶ùÄÌ·Û¶¼ºÜ²»´íµÄ£¬ºÍ½ø¿ÚÆ·ÅÆÏà±ÈºÁ²»Ñ·É«¡£
+     Ñ¡ÄÌ·ÛÒª¶®µÃ¿´ÀïÃæµÄ³É·Ö£¬Ó¤¶ùÅä·½ÄÌ·ÛµÄ³É·ÖÒ»°ãÊÇÏÊÅ£ÄÌ¡¢ÈéÇå·Û£¨¹úÍâ½ø¿Ú£¬ÈË¼ÒÌáÁ¶ÄÌÓÍÓàÏÂµÄ£¬Ö÷Òª¾ÍÊÇµ°°×ÖÊ£©Î¬ÉúËØ¡¢¿óÎïÖÊµÈ£¬ºúÂÜ²·ËØ¡¢Å£è«ËáÊ²Ã´Ò²Òª¼Ó£¬ÎªÁË²»ÉÏ»ð»¹Òª¼ÓµÍ¾ÛÌÇ£¨¿ÉÒÔÉú³ÉË«ÆçÒò×Ó£¬´Ù½ø³¦Î¸Èä¶¯£©£¬DHAºÍAA²»Ò»¶¨ÒªÖ±½ÓÌí¼ÓµÄ£¬ÓÐÓãÐÈÎ
+     ¶àÃÀ×ÌÊÇÔÚÉÏº£·Ö×°µÄ£¬ÃÀÔÞ³¼ÔÚ¹ãÖÝ£¬È¸³²ÍêÈ«¹ú²ú»¯£¬ÎªÊ²Ã´±È¹ú²úÄÌ·Û¹ó£¿ÆäÊµ¹úÍâ½ø¿ÚµÄÔ­ÁÏ·Û±È¹úÄÚµÄ»¹±ãÒË£¬¾ÍÊÇÖÐ¹úÀÏ°ÙÐÕ±È½ÏÏ²»¶½ø¿ÚµÄ¶«Î÷£¬×¬ÄãµÄÃ×Ã×Ã»ÉÌÁ¿£¡

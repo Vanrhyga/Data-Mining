@@ -1,0 +1,18 @@
+subject	激活您在 Advanced UI Skin 会员帐号的必要步骤!
+from	he@uiskin.com
+to	xing@ccert.edu.cn
+ohyeath,您好！
+
+Advanced UI Skin欢迎您的到来！
+首先您得激活您的用户名(点击下行网址激活,如果用户名是中文请点击下行网址激活)
+http://www.uiskin.com/bbs/register.php?vip=jihuo&r_uid=87&pwd=1125135160
+您的注册名为:ohyeath
+您的密码为:password
+请尽快删除此邮件，以免别人偷看到您的密码
+
+如果忘了密码，可以到社区写信请管理员重新设定
+请查看社区各版的发贴规则，以免帖子被删除
+社区地址：http://www.uiskin.com/bbs
+
+本社区采用 PHPWind 架设,欢迎访问: http://www.phpwind.net
+

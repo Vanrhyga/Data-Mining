@@ -1,0 +1,9 @@
+subject	国际采购信息！
+from	ding@hotmail.com
+to	weng@ccert.edu.cn
+
+   IFRAME: http://www.100trade.com
+
+
+
+

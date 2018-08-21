@@ -1,0 +1,9 @@
+subject	GOOGLE先做后付款
+from	cai@yahoo.com.cn
+to	cao@ccert.edu.cn
+
+                    IFRAME: http://www.qy365.cn/1.htm
+
+
+
+

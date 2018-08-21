@@ -1,0 +1,7 @@
+subject	Re: Î¢ÈíÀïÓÐÃ»ÓÐ¸ãJavaµÄ£¿
+from	wu@ctbu.edu.cn
+to	yuan@ccert.edu.cn
+ÄÄÓÐÕâÑùµÄ¸ßÊÖ°¡£¿
+         Õâ¸öÒâË¼¾ÍÊÇ£¬ÆäÊµ²»´æÔÚÊ²Ã´java¸ßÊÖ£¬c++¸ßÊÖ£¬¸ßÊÖ¾ÍÊÇ¸ßÊÖ£¬ÒòÎªËûÊ×ÏÈÊÇ¸ö¸ßÊÖ£¬ºóÀ´ÓÖ½Ó´¥ÁËjavaÕâ¸öÍæÒâ¶ù£¬ËùÒÔ±ä³ÉÁËjava¸ßÊÖ¡£ÏÖÔÚµÄÓÃÈËµ¥Î»ÕÐÈËÆäÊµ¶¼Ð´´íÁË£¬Ó¦¸ÃÐ´ÉÏ¡°ÕÐÆ¸¸ßÊÖ£¬ÊìÏ¤Java¡±ÕâÑù²Å¶Ô¡£
+         ÆäÊµÎÒÒ²ÕâÃ´ÈÏÎª£¬ËùÎ½µÄ¸ßÊÖÊÇÒ»ÖÖÐÄÌ¬Ò»ÖÖÄÜÁ¦£¬Ò»ÖÖ¿ÉÒÔ½â¾öÈÎºÎÎÊÌâµÄÐÄÌ¬£¬Ò»ÖÖ¿ÉÒÔ¿ìËÙÕÆÎÕÈÎºÎÒ»ÖÖ¹¤¾ß»òÕß´´ÔìÒ»ÖÖË¼ÏëÀ´½â¾öÈÎºÎÎÊÌâµÄÄÜÁ¦¡£Õâ¾ÍÊÇ¸ßÊÖ£¬¶ø°æÉÏ¿´µ½µÄ¡°ÕÐÆ¸java¸ßÊÖ£¬¾«Í¨xxl,oraxx,ejx,weblxx¡±ÕâÐ©¶¼ÊÇ·Ï»°,¶øÇÒÄÜÕÒµ½µÄÒ²²»Ò»¶¨¾ÍÊÇË
+         ¸ßÊÖµÄ±¯°§Ñ½¡£

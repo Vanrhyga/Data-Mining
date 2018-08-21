@@ -1,0 +1,9 @@
+subject	majordomo,一些重要的资料
+from	xing@lll.com
+to	lin@ccert.edu.cn
+
+   
+
+
+
+

@@ -1,0 +1,9 @@
+subject	中国人力资源论坛2005--人民大会堂
+from	ni@163.com
+to	ou@ccert.edu.cn
+
+      IFRAME: http://www.hronline.cn/admin/News_Show.asp?NewsID=411
+
+
+
+

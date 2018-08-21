@@ -1,0 +1,9 @@
+subject	天下人才网--免费求职招聘
+from	xing@126.cn
+to	ke@ccert.edu.cn
+
+                IFRAME: http://hronline.cn/job/index.asp
+
+
+
+

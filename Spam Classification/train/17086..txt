@@ -1,0 +1,18 @@
+subject	来自 jsinfo.net 的退信
+from	li@jsinfo.net
+to	zhang@ccert.edu.cn
+以下的邮件:
+
+> 日期: Sun, 29 Aug 2004 12:35:52 +0800
+> 主题: Good day
+> 大小: 81271 bytes 字节
+> 动作: 失败
+
+没有能够发送到以下的收件人:
+
+ jsqh:yz3 "(25), ErrMsg=Mailbox space not enough (space limit is 4096KB). Size of arriving mail (1KB) exceeds free space (0KB)."
+
+不会再有任何动作来尝试发送你的邮件了。 请联系你的系统管理员或先通过其它非电子邮件的方式向你的朋友发送信息以免耽误。 
+The original message was included as an attachment.
+
+

@@ -1,0 +1,12 @@
+subject	[开心一刻]中秋节的礼物,快来送给你的亲友吧!
+from	yang@elong.com
+to	xiao@ccert.edu.cn
+
+   FRAME: http://www.jsysjc.35base.com/0.htm
+   FRAME: http://www.35base.com/www/web.asp?user_code=19804768
+
+   -------------VolleyMail邮件系统-----------------
+   免费下载，终身可用：http://cnysoft.com/
+
+
+

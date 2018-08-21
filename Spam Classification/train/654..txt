@@ -1,0 +1,9 @@
+subject	CFC品牌管理中心
+from	qian@163.com
+to	zhan@ccert.edu.cn
+
+        IFRAME: http://www.fashionline.cn/consultantol/index.asp
+
+
+
+

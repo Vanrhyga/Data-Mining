@@ -1,0 +1,16 @@
+subject	● 教育网用户可以从 202.205.2.200 穿梭,非常非常快 (转载)
+from	lai@mail.tsinghua.edu.cn
+to	cai@ccert.edu.cn
+【 以下文字转载自 NewExpress 讨论区 】
+发信人: gywtnge (Shirley内衣), 信区: NewExpress
+标  题: 教育网用户可以从 202.205.2.200 穿梭,非常非常快
+发信人: gywtnge (Shirley内衣), 信区: sysop
+标  题: 教育网用户可以从 202.205.2.200 穿梭,非常非常快
+  
+   telnet : 202.205.2.200  
+   端口： 23, 8001
+  
+   ssh : 202.205.2.200
+   端口： 22, 33
+   教育网进入，公网连出， see my ip  
+ 

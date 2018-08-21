@@ -1,0 +1,9 @@
+subject	设计师软件教学
+from	yuan@126.com
+to	xue@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

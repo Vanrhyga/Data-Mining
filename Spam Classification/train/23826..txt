@@ -1,0 +1,7 @@
+subject	● 问一个ghost2003备份的问题 (转载)
+from	zhuang@mails.tsinghua.edu.cn
+to	tang@ccert.edu.cn
+【 以下文字转载自 WindowsTech 讨论区 】
+发信人: febliao (你好◎), 信区: WindowsTech
+标  题: 问一个ghost2003备份的问题
+使用的是norton ghost2003简体中文版，当要备份XP系统盘C时，弹出提示：无法从虚拟分区中找到可用的MBR信息，这通常是由于启动磁盘上为留下可使用的主分区信息。备份旧无法继续下去了，不知道这个提示具体是什么意思，有解决的办法吗？

@@ -1,0 +1,12 @@
+subject	Re: 博士学位论文 英语怎么说？
+from	wang@cernet.com
+to	wu@ccert.edu.cn
+补充以下，刚刚查过了ACS杂志的organic letter的文献格式，博士论文用的是
+dissertation
+Thesis: Author. Level of Thesis, Degree-Granting University, Location of 
+University,
+date. For example: Fleissner, W. Ph.D. Dissertation, University of Tennessee,
+Knoxville, TN, 1984.
+     好像是PH.D. Dissertation
+     俺专门查了词典，thesis是论文的意思，而dissertation则是学位论文，
+     是不是dissertation更合适？

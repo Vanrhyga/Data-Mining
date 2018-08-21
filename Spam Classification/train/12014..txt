@@ -1,0 +1,20 @@
+subject	● 知名法国公司招聘：高级JAVA开发工程师
+from	xiao@cernet.com
+to	gu@ccert.edu.cn
+If interested, please send your resume at new8069@263.net. thanks!
+Please notice: You should have at least 4 years programming experience in Java and good understanding in UML.
+－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－－
+Senior Java Developer  (1 vacancy)  
+Location : Beijing  
+Main Responsibilities:
+&amp;#8226;    Participate in the whole cycle of development of software and system based on browser/server structure: be responsible for the design, implementation and integration. 
+Main Requirements : 
+&amp;#8226;    Master degree in computer science or engineering;
+&amp;#8226;    At least 4 years programming experience in Java is a must, good understanding in UML;
+&amp;#8226;    With concrete project experience in J2EE platform design and development; be autonomous in J2EE server architectural design and implementation. 
+&amp;#8226;    With experiences in Tomcat/Weblogic/JBoss, Oracle, Linux/Unix;
+&amp;#8226;    Solid knowledge of software development processes;
+&amp;#8226;    Knowledge on wireless communication is a plus;
+&amp;#8226;    Working experience in multinational company;
+&amp;#8226;    Good communication skills with fluency in written and oral English;
+&amp;#8226;    Team work spirit and sense of responsibility are appreciated.　

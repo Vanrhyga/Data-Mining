@@ -1,0 +1,9 @@
+subject	天下人才网--免费求职招聘
+from	sun@126.cn
+to	wei@ccert.edu.cn
+
+                IFRAME: http://hronline.cn/job/index.asp
+
+
+
+

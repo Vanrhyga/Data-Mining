@@ -1,0 +1,9 @@
+subject	您好！欢迎登陆中农导航网；www.nong123.com
+from	tan@126.com
+to	you@ccert.edu.cn
+
+                     IFRAME: http://www.nong123.com
+
+
+
+

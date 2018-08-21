@@ -1,0 +1,23 @@
+subject	Re: 请问北大的学分绩是怎么换算的啊？
+from	zhu@mails.tsinghua.edu.cn
+to	long@ccert.edu.cn
+平均绩点包括所有课程(必修,限选,任选).如果有不及格的且尚未补考或补考仍不及格, 则计算平均绩点时该课程以零分计算,学分也以零分计算;如果补考及格,则以及格的成绩计算平均绩点,该学分记录总学分中.具体的绩点算法如下: 
+若以分数计算成绩:
+if (成绩&gt;=90) then 绩点=4
+elseif (85&lt;=成绩&lt;90) then 绩点=3.7 
+elseif (82&lt;=成绩&lt;85) then 绩点=3.3 
+elseif (78&lt;=成绩&lt;82) then 绩点=3 
+elseif (75&lt;=成绩&lt;78) then 绩点=2.7 
+elseif (72&lt;=成绩&lt;75) then 绩点=2.3 
+elseif (68&lt;=成绩&lt;72) then 绩点=2 
+elseif (64&lt;=成绩&lt;68) then 绩点=1.5 
+elseif (60&lt;=成绩&lt;64) then 绩点=1 
+else 绩点=0 
+endif 
+若以字段计算成绩(优秀,良好,及格和不及格属于同一评定标准; 合格与不合格属于同一评定标准):
+if(成绩="优秀") then 绩点=4
+elseif (成绩="良好") then 绩点=3
+elseif (成绩=“及格”) then 绩点=1 
+elseif (成绩="不及格") then 绩点=0 
+if (成绩="合格") then 绩点=4 
+elseif (成绩="不合格") then 绩点=0 

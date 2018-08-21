@@ -1,0 +1,18 @@
+subject	心意坊--贺卡发送成功通知
+from	shen@yinsha.com
+to	ma@ccert.edu.cn
+梁媛 ：
+
+　　您好，您通过〖心意坊〗 发送给 [刘老师] 的贺卡：
+
+< http://card3.silversand.net/php/customread.php?sendtime=20050910&no=1829&confirmid=5EnM2r90vqgmiSIi42mHIj1lk3M2 > 
+
+对方已经成功收取。感谢您使用我们的贺卡系统！ 
+
+Your greeting card < http://card3.silversand.net/php/customread.php?sendtime=20050910&no=1829&confirmid=5EnM2r90vqgmiSIi42mHIj1lk3M2 > send to [刘老师] has already been received.
+
+We look forward for your future visits.
+                                            	     Regards
+						   Webmaster
+                                 http://cards.silversand.net
+

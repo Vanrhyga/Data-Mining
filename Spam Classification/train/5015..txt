@@ -1,0 +1,7 @@
+subject	● Texas A&M University 教授Jim Ji将于近期在清华做讲座
+from	pu@126.com
+to	feng@ccert.edu.cn
+Title:  A Signal Processing Approach to Fast Magnetic Resonance Imaging
+Abstract: Magnetic resonance imaging (MRI) has become an important imaging modality for clinical diagnosis and scientific research. However, MRI is still a relatively slow technique. State-of-the-art technology is capable of acquiring 3D images from static objects and 2D images from time-varying objects. It is desirable, for a number of applications, to develop "real-time" imaging capability. In this presentation, I will discuss a signal processing approach to fast imaging based on parallel data acquisition and generalized series reconstruction. I shall describe the associated data acquisition scheme and image reconstruction algorithm, and show some examples to demonstrate the capabilities of the new approach. In addition, I will give a brief introduction to the graduate education at the Electrical Engineering Department at Texas A&amp;M University,
+对该研究方向有兴趣者可以给他发邮件jimji@tamu.edu
+是清华出身的师兄哦！

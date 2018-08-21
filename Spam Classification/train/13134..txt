@@ -1,0 +1,9 @@
+subject	advisory你好，希望与你交个朋友
+from	xu@ghghgh
+to	xu@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

@@ -1,0 +1,9 @@
+subject	让您的手机能看电影!
+from	hong@ss.com
+to	cen@ccert.edu.cn
+
+            IFRAME: http://www.netcall.cn/include/wwwtop1.htm
+
+
+
+

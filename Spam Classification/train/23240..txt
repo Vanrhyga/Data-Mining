@@ -1,0 +1,14 @@
+subject	Re: 急，请问这封老板的信是什么意思
+from	huang@mails.tsinghua.edu.cn
+to	xin@ccert.edu.cn
+     Thank you for your email.  Is it possible to send me a soft copy of your
+      publications (including those in Chinese) so that I can have a better i
+     dea of your expertise?  Also, are you planning to work in academia or in
+      the industry after you get your Ph.D.?  I am just trying to see how wor
+     king in xxxx fits into your career path as I always hope that any resear
+     ch work here will be beneficial to both parties. Thank you very much.
+     是不是想问我想不想做工程方面的东西呀，我是CS专业的
+就是要你发给他一些你发表的文章（包括中文的），
+还问你打算Ph.D.毕业后向学术界发展还是进公司
+他这么问是想看看，你去他那儿是否符合你的职业选择，
+因为他希望你去他那儿做研究对双方都有利

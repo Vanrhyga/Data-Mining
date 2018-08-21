@@ -1,0 +1,9 @@
+subject	 [犬类知识]了解你的狗之狗的攻击性
+from	gu@baidu.com
+to	ni@ccert.edu.cn
+
+   REFRESH(0 sec): http://www.pet2006.com
+
+
+
+

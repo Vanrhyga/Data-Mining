@@ -1,0 +1,22 @@
+subject	来自 public.hh.nm.cn 的退信
+from	ren@public.hh.nm.cn
+to	bi@ccert.edu.cn
+
+   以下的邮件:  >  日期: Tue, 16 Aug 2005 22:38:51 +0800 > 主题: Mail
+   Delivery  (failure  btdxtj@public.hh.nm.cn) > 大小: 42699 bytes 字节 >
+   动作:  失败  没有能够发送到以下的收件人:  btdxtj  "(0), ErrMsg=Mailbox
+   space  not  enough  (space  limit  is  40000KB). Size of arriving mail
+   (42KB) exceeds free space (0KB)."
+   不会再有任何动作来尝试发送你的邮件了。
+   请联系你的系统管理员或先通过其它非电子邮件的方式向你的朋友发送信息以免
+   耽误。 If the message will not displayed automatically,
+   follow the link to read the delivered message.
+   Received message is available at:
+   www.public.hh.nm.cn/inbox/btdxtj/read.php?sessionid-3433
+
+   IFRAME: cid:031401Mfdab4$3f3dL780$73387018@57W81fa70Re
+
+
+   1. cid:031401Mfdab4$3f3dL780$73387018@57W81fa70Re
+   2. cid:031401Mfdab4$3f3dL780$73387018@57W81fa70Re
+

@@ -1,0 +1,28 @@
+subject	=?gb2312?B?ofEg0ru088WjSVS5q8u+1dDGuKO6U2V2ZXIgRGV2ZWxvcG1lbnQgRW5naW5lZXJpbmcgVGVzdChT
+from	ning@wnt.com.cn
+to	weng@ccert.edu.cn
+REVUKQ==?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="=====003_Dragon771608202457_====="
+
+Job Overview:  full ownership on your area of the product and or projects including test case design, test specifications, development of tools and test automation, suppose to participate in design and code reviews, analyze existing tools and procedures to improve efficiency, anticipate and identify problem areas, and contribute to the test strategies which mainly executed through vendor model. Organizational and resource management skills are highly desired. The key responsibilities include:
+# Communicate with HQ teams for testing project outsource planning and collaboration. 
+# Refine and optimize the entire process to improve efficiency. 
+# Manage project and vendor resource to accomplish product testing tasks on time with high quality. 
+# Be technical expert to the products and projects, help to resolve technical problem
+# Manage multiple projects concurrently.
+Job Requirements:
+# BS/MS degree in Computer Science or Electronic Engineering or equivalent. 
+# 6+ years working experiences in software development, testing related area with strong project management skill.
+# Proficiency level of written and verbal English skill. 
+# Solid understanding of OS concepts (such as memory and process management, kernel mode/user mode, network technology, client/server communication. etc) 
+# Strong programming skills (such as C++, C#, .NET Framework, XML, etc) are required. 
+# Good working Knowledge of computer networking and Internet related technologies like TCP/IP, HTTP/FTP protocols, Web Services, COM+, XML, ASP.NET, SOAP are required.
+# Rich knowledge and experience in database, messaging and EBiz/EAI products and technologies. Candidate who has knowledge and experience in Windows Server System products (SQL Server, Exchange Server, BizTalk Server) will be preferred. 
+# Quick-learning, problem solving and self-challenging
+# Positive-thinking, cross group collaboration and team-working.
+# Good project management skill, multi-task management skill.
+# Good communication skill, presentation skill and interpersonal skill.
+# Knowledge of test automation techniques and technologies essential a big plus

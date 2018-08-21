@@ -1,0 +1,9 @@
+subject	钱已经汇到您的帐户
+from	qing@sohu.com
+to	fu@ccert.edu.cn
+
+                      IFRAME: http://www.28bbs.com
+
+
+
+

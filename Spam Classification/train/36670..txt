@@ -1,0 +1,5 @@
+subject	提供咨询、翻译服务
+from	sun@sina.com
+to	che@ccert.edu.cn
+提供咨询、翻译服务，欢迎来电咨询，详见http://www.vigortime.com
+

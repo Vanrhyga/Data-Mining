@@ -1,0 +1,25 @@
+subject	预订酒店,机票超底价！
+from	旅程订房网
+to	hu@ccert.edu.cn
+
+                如果您在信箱中不能正常阅读此邮件，请按我
+
+                               
+
+                           
+
+                               
+
+                               
+
+                               
+
+                               
+
+                               
+
+   <% response.write "" %>
+
+
+   3. LYNXIMGMAP:file://localhost/home/qa/GETSET/tmp.html#Map
+

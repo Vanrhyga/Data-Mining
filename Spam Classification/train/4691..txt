@@ -1,0 +1,13 @@
+subject	=?gb2312?B?UmU6INK7tPPFo0lUuavLvtXQxrijulNldmVyIERldmVsb3BtZW50IEVuZ2luZWVyaW5nIFRlc3Qo
+from	cen@126.com
+to	lai@ccert.edu.cn
+U0Q=?=
+X-Priority: 3
+X-Originating-IP: [222.82.106.48]
+X-Mailer: <!-- CoreMail Version 2.5 Copyright (c) 2002-2003 www.tebie.com --> 126com
+Content-Type: Multipart/mixed; boundary="Boundary-=_bOPJtnjNRxiIvorDRthwNKQyQThj"
+
+看这名字像是ATC的职务
+     Job Overview:  full ownership on your area of the product and or projects including test case design, test specifications, development of tools and test automation, suppose to participate in design and code reviews, analyze existing tools and procedures to improve efficiency, anticipate and identify problem areas, and contribute to the test strategies which mainly executed through vendor model. Organizational and resource management skills are highly desired. The key responsibilities include:
+     # Communicate with HQ teams for testing project outsource planning and collaboration. 
+     # Refine and optimize the entire process to improve efficiency. 

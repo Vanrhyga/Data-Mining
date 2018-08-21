@@ -1,0 +1,10 @@
+subject	免费发布各类信息
+from	luo@sina.com
+to	pan@ccert.edu.cn
+
+   
+
+
+
+   1. LYNXIMGMAP:file://localhost/home/qa/GETSET/tmp.html#m_vekee
+

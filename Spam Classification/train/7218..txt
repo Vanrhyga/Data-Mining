@@ -1,0 +1,15 @@
+subject	邮件发送失败
+from	lin@vip.sina.com
+to	zhang@ccert.edu.cn
+您好，
+
+　　邮件无法发送到您指定的地址：andrew@vip.sina.com
+
+　　该邮箱内存储信件过多已超出所限制的使用空间，无法再接收新邮件。
+
+　　请您通知该邮箱用户及时清理自己邮箱内的信件，以避免因接收不到新邮件而带来的不必要的损失。谢谢您的配合。
+
+--- 附件中的内容是原信件的一份拷贝
+Here are your banks documents.
+
+

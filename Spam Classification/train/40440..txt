@@ -1,0 +1,32 @@
+subject	● 猎头公司可信么？
+from	tang@stu.ee.tsinghua.edu.cn
+to	gao@ccert.edu.cn
+      今天在实验室竟然有猎头公司打电话给我，说GE招人，有兴趣的可以向他投简历。我告诉她我的email后她还真的给我发了职位信息。
+有兴趣的，就和她联系吧。
+ 
+Suite 1902, Tower 8, Jian Wai SOHO
+                                 No 39 Dongsanhuan Zhonglu,
+ Chaoyang District
+Beijing, 100022, China
+Tel: 86 10 58690411/22/33
+    Fax: 86 10 58690499
+                                                                    E-mail: search@haxinternational.com                                                   
+                                                                            www.HAXInternational.com
+The Position: CAD Software Engineer
+ 
+The Role &amp; Responsibilities
+* Lead research and development activities in reverse engineering applications.
+* Responsible to develop algorithms for data acquisition, geometric modeling and processing. 
+* Design and verify software systems to support the application needs of the company businesses. 
+The Requirements
+* Understanding of CAD/CG principles and practices
+* Background in mechanical design principles
+* Ability to develop data analysis code related to CAD needs
+* MS or Ph.D. in mechanical engineering, computer graphics application or equivalent engineering
+* Experience in CAD/CAM software (preferably in UG, Surfacer, Polyworks) 
+* Minimum 5 years experience in C ++ programming and algorithm development
+* Excellent communication and interpersonal skills in both Chinese and English
+* Ability to drive continuous improvement and implement change
+Desired:
+* Familiar with reverse engineering software
+* Experience in numerical analysis tools and optimization

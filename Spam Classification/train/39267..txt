@@ -1,0 +1,16 @@
+subject	来自 xinhuanet.com 的退信
+from	mo@xinhuanet.com
+to	guo@ccert.edu.cn
+以下的邮件:
+
+> 日期: Wed, 14 Sep 2005 13:35:21 +0800
+> 主题: Good day
+> 大小: 2429 bytes 字节
+> 动作: 失败
+
+没有能够发送到以下的收件人:
+
+ stan "(2), ErrMsg=too many messages in the mailbox, account=stan "
+
+不会再有任何动作来尝试发送你的邮件了。 请联系你的系统管理员或先通过其它非电子邮件的方式向你的朋友发送信息以免耽误。 
+

@@ -1,0 +1,6 @@
+subject	你好
+from	wang@cnhop.net
+to	liu@ccert.edu.cn
+http://www.cnhop.net中华机票网.
+特价机票,查资料就上中华机票网去
+

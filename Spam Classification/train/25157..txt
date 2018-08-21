@@ -1,0 +1,9 @@
+subject	企业WAP通讯录
+from	jian@shareleap.com
+to	hu@ccert.edu.cn
+
+                IFRAME: http://www.shareleap.com/txl.htm
+
+
+
+

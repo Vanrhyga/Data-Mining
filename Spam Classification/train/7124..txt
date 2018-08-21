@@ -1,0 +1,9 @@
+subject	80/元起做GOOGLE首页
+from	gu@yahoo.com.cn
+to	hu@ccert.edu.cn
+
+                    IFRAME: http://www.qy365.cn/1.htm
+
+
+
+

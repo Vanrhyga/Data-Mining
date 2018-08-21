@@ -1,0 +1,14 @@
+subject	雅虎中国新闻
+from	chen@yahoo.com
+to	qian@ccert.edu.cn
+
+         IFRAME: http://cn.news.yahoo.com/050818/1294/2eh4d.html
+
+          IFRAME: http://sh.sohu.com/20050419/n225249550.shtml
+
+          IFRAME: http://sh.sohu.com/20050429/n225398836.shtml
+
+          IFRAME: http://sh.sohu.com/20041208/n223376646.shtml
+
+
+

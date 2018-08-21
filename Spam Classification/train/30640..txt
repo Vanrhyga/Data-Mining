@@ -1,0 +1,11 @@
+subject	=?gb2312?B?u9i4tA==?=:Re: =?gb2312?B?u9i4tA==?=:Re: [SPAM]
+from	luo@cernet.com
+to	kong@ccert.edu.cn
+【 以下文字转载自 NewExpress 讨论区 】
+发信人: aliali (一心毕业), 信区: NewExpress
+标  题: 借人气问个win2k server的问题，火急！
+安装win 2k server后，远程登录，提示：
+您的终端服务临时客户端许可证将在11天内过期，请与系统管理员联系，获得永久许可证。
+确定
+请问大家，这种情况如何解决？是2k server的版权问题，还是只要改一下2k server的设置？另外安装一个远程桌面工具，如PC anywhere是不是可以解决问题？
+盼高手尽快回复，在线等，谢谢！

@@ -1,0 +1,38 @@
+subject	PLC½âÂëÈí¼þ95lv
+from	PLC½âÂë60ic
+to	pu@ccert.edu.cn
+
+                                PLC½âÂëÈí¼þ
+
+   ÎÒÃÇ¾­
+   ³£Óöµ½Ò»Ð©¼ÓÃÜµÄPLC£¬²»ÄÜÖ±½Ó¶Á³ö³ÌÐò,²¢½øÐÐ¸Ä½øÑ§Ï°£¬ÔÚ¹¤×÷Êµ¼ùÖÐ×Ü½á
+   ³ö½â¿ªPLCÃÜÂëµÄ·½·¨£¬Ê¹½âÃÜ¸ü¼Ó·½±ã£¬Òò´Ë±àÐ´ÁË´Ë½âÃÜ³ÌÐò£¬Ö±½Ó¶Á³öPLC
+   µÄÃÜÂë£¬Ä¿Ç°ÒÑ¾­
+   ¿ª·¢ÁËÓÃÓÚÈýÁâFXÏµÁÐºÍËÉÏÂFPÏµÁÐµÄPLC½âÃÜÈí¼þ¡£ÎªÁË´ó¼Ò¹²Í¬Ñ§Ï°£¬ÌØÌá¹
+   ©PLC½âÃÜ·þÎñºÍ½âÃÜÈí¼þÏúÊÛ¡£
+
+   ¡¤½âÃÜPLCÀàÐÍ:
+   1¡¢ÈýÁâFX2¡¢FX0N¡¢FX0S¡¢FX1N¡¢FX1S¡¢FX2N¡¢FX2-EEPROMµÈFXÈ«ÏµÁÐPLC£»
+   2¡¢ËÉÏÂFP0¡¢FP1¡¢FPM¡¢FP2¡¢FP2SH¡¢FP3¡¢FPC¡¢FP5¡¢FP10¡¢FP10S¡¢FP10SHµÈ
+   FPÈ«ÏµÁÐPLC£»
+   3¡¢Å·Ä·ÁúC200H,   C200HS,   C1000H,   C2000H,  CPM1,  CPM2*-S*,  CQM1,
+   IDSC£¬C200HX µÈCÏµÁÐPLC¡£
+   ²¢ÇÒ²»»á¸Ä±äPLCÄÚ²¿µÄÈÎºÎÊý¾Ý¡£
+   4¡¢LG PLC½âÃÜÈí¼þ:LGÏµÁÐ,Ö±½ÓÉ¾³ýPLCÃÜÂë.
+   5¡¢Ì¨´ïPLC½âÃÜÈí¼þ¡£
+
+   ÌØ±ðÉùÃ÷:
+
+   ±¾Èí¼þ½öÓÃÓÚÔÚÍü¼ÇÃÜÂë¼°ÔÚÉè±¸Î¬ÐÞÖÐ²éÕÒ¹ÊÕÏÊ¹ÓÃ£¬²»ÄÜÓÃÓÚÆäËüÈÎºÎÉÌÒµ
+   ÓÃÍ¾£¬ÔÚÊ¹ÓÃ±¾Èí¼þÊ±±ØÐëµÃµ½Éè±¸¿ª·¢£¬Éú²ú£¬ÒµÖ÷µÄÍ¬Òâ¡£±¾Õ¾¼°¿ª·¢Õß²»
+   ³Ðµ£ÓÉ´ËÒýÆðµÄÈÎºÎ·¨ÂÉÔðÈÎ¡£
+
+   ÁªÏµ·½·¨:
+   Èí¼þÖ÷Ò³£ºhttp://plc.9126.com
+   µç»°£º020-13710802911  87201197
+   ÁªÏµÈË:»ÆÐ¡½ã
+   EMAIL£ºtkplc@sina.com
+   QQ£º36768830 147856330
+
+
+

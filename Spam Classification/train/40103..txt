@@ -1,0 +1,9 @@
+subject	天下人才网---免费招聘求职
+from	zhang@163.com
+to	chi@ccert.edu.cn
+
+                     IFRAME: http://job.hronline.cn/
+
+
+
+

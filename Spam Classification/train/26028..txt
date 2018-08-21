@@ -1,0 +1,9 @@
+subject	一个感人的爱情故事
+from	xu@163.com
+to	liu@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

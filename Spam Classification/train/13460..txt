@@ -1,0 +1,9 @@
+subject	report你好，希望与你交个朋友
+from	shen@kljhj
+to	lei@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

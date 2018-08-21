@@ -1,0 +1,9 @@
+subject	设计师软件教学
+from	ding@126.com
+to	kang@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

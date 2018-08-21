@@ -1,0 +1,9 @@
+subject	你的手机能看电影吗?快来这看看
+from	yana@ss.com
+to	xu@ccert.edu.cn
+
+            IFRAME: http://www.netcall.cn/include/wwwtop1.htm
+
+
+
+

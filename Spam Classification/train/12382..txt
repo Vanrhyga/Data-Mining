@@ -1,0 +1,14 @@
+subject	● Linux C/C++ 招聘
+from	mo@cernet.com
+to	xue@ccert.edu.cn
+莱克斯信息技术(北京)有限公司现进行下一代网关产品的研发工作，公开诚聘以下有识之士：
+ 
+2. 职位：Linux 研发工程师  （2名） 
+要求：
+* 大学本科以上学力，计算机相关专业毕业； 沟通能力强，有团队合作精神； 能够熟练阅读英文手册及书写文档。
+1、2年以上Linux下C/C++语言开发经验, 其中有1年以上安全产品经验，FIREWALL，SSL VPN等 
+2、熟悉互联网协议，熟悉TCP/IP协议, 熟悉网络结构； 
+3、精通SSL/TLS协议；
+4、熟悉 UNIX/Linux/BSD操作系统； 
+5、熟悉Radius，LDAP协议； 
+6、熟悉XML

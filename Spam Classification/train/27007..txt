@@ -1,0 +1,11 @@
+subject	来自txtest的邮件
+from	ou@126.com
+to	xu@ccert.edu.cn
+subscribe txtest@126.com cissp 
+subscribe txtest@126.com cissp <br><!-- footer --><br><br><br><br><br>
+<a href="http://www.126.com" target="_blank" style="font-size:14.8px;line-height:160%;color:blue">
+	需要一个<span style="color:red">2000兆的免费</span>邮箱吗？
+	<br>
+	网易免费邮箱是<span style="color:red">中国最多人使用</span>的电子邮箱。
+</a>
+

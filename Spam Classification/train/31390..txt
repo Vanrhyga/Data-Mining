@@ -1,0 +1,13 @@
+subject	=?gb2312?B?UmU6IHp6W8fz1vpdo7rO0rrNztLFrsXz09HF9rW9tcTOyszio6jA4MvGNzDE6rT6us04MMTqtPq1
+from	ye@sohu.com
+to	fu@ccert.edu.cn
+xD8=?=
+X-mailer: Foxmail 5.0 [cn]
+Mime-Version: 1.0
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: base64
+Message-Id: <20050907045627.84D5F0526C87@smtp119.sohu.com>
+
+re，说得好。sp
+           你好,你的问题,我有一点浅见,权作参考.

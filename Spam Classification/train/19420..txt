@@ -1,0 +1,9 @@
+subject	adm,管理方面必备的文档
+from	lian@uu.com
+to	yu@ccert.edu.cn
+
+   
+
+
+
+

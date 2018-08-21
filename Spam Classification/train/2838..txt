@@ -1,0 +1,9 @@
+subject	人力资源师 物流师 物业师 培训
+from	luo@sohu.com
+to	guo@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

@@ -1,0 +1,9 @@
+subject	零风险解决企业应收帐款----中国债权交易网
+from	zheng@sina.com
+to	lv@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

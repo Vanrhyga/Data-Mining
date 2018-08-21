@@ -1,0 +1,5 @@
+subject	[金山毒霸发现此邮件携带病毒！病毒已清除]迎8月送Q币
+from	lv@qq.com
+to	cao@ccert.edu.cn
+迎8月送Q币 点击附件领取Q币
+

@@ -1,0 +1,20 @@
+subject	订阅安全公告
+from	bi@126.com
+to	zhong@ccert.edu.cn
+subscribe advisory kalmaks@126.com
+subscribe advisory kalmaks@126.com<br><!-- footer --><br><br><br>
+<font style="font-size:14.8px">
+<!--广告footer 开始-->
+<!--广告footer 结束-->
+
+<!--内部footer开始-->
+<br>
+<br><p style="line-height:160%;">
+<a href="http://www.126.com" target="_blank">
+<font color=blue>需要一个<span style="color:red">2000兆的免费</span>邮箱吗？<br>网易免费邮箱是<span style="color:red">中国最多人使用</span>的电子邮箱。</a>
+</p>
+<!--内部footer结束-->
+</font>
+
+
+

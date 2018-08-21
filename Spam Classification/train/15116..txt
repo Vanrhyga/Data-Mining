@@ -1,0 +1,17 @@
+subject	● 问一个c语言文件的问题，在线等
+from	gao@mail.tsinghua.edu.cn
+to	liao@ccert.edu.cn
+一个文本文件，内容比如
+zhang 1001 19 room_101
+fun   1002 20 room_102
+Tan   1003 21 room_103
+ling  1004 21 room_104
+怎样用C语言把它读进去，我定义结构体的时候，
+struct student_type
+{
+  char name;
+  int num;
+  int age;
+  char address;
+}stud[SIZE];
+中间两个为整型的时候，读进去是乱码，好像只能作为字符串读进去，但我需要的是整型变量，不知道该怎么处理，请各位xdim指教,我在这里感激不尽！谢谢！

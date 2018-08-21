@@ -1,0 +1,21 @@
+subject	Re: 有没有人像我一样。。。？
+from	rao@jdl.ac.cn
+to	he@ccert.edu.cn
+这个……
+就是把连接水木的地址换成这个地址啊。
+穿梭不是代理。
+     标  题: Re: 有没有人像我一样。。。？
+     
+     没人指导一下？
+     fterm
+     代理类型sock5
+     地址proxy4.ppmm.org
+     端口 1080？
+     地址簿bbs.newsmth.net
+     使用sock代理，代理1
+     怎么不行？
+     : 怎么设？
+     
+     
+     --
+     

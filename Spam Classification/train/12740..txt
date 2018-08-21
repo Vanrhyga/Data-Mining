@@ -1,0 +1,9 @@
+subject	邮址群发、邮件群发、邮箱地址专卖、群发广告
+from	liao@126.com
+to	zhang@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

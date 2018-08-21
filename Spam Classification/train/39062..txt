@@ -1,0 +1,9 @@
+subject	天下人才网--免费求职招聘
+from	zhuang@126.com
+to	huang@ccert.edu.cn
+
+                IFRAME: http://hronline.cn/job/index.asp
+
+
+
+

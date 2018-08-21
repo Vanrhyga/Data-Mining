@@ -1,0 +1,9 @@
+subject	国内大型商业集团采购基地
+from	ding@200.net
+to	zhuang@ccert.edu.cn
+
+   FRAME: easymain
+
+
+
+

@@ -1,0 +1,9 @@
+subject	中国最大工艺品批发网站
+from	you@12345.com
+to	ma@ccert.edu.cn
+
+                      IFRAME: http://www.xuyilu.com
+
+
+
+

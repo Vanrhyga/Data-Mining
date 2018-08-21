@@ -1,0 +1,10 @@
+subject	[´ë~Ãâ]12³â°£ È¸»ç¿ø¿¡°Ô Æí¾ÈÇÑ ¢Ñ ´ë¡ÚÃâ.e8
+from	kong@hanmail.net
+to	guan@ccert.edu.cn
+
+   [read.asp?resellerid=9] 
+   ¡Ø °£´ÜÇÑ »ó´ã½ÅÃ»¼¸¸À¸·Î Àü¹®»ó´ã¿øÀÌ ÃÖÀúÀÌÀ²·Î ¾È³»ÇÏ°Ú½À´Ï´Ù.
+
+
+   1. LYNXIMGMAP:file://localhost/home/qa/GETSET/tmp.html#Map
+

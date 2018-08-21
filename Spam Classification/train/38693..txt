@@ -1,0 +1,24 @@
+subject	交付失败: User sandra (sandra@ascf.com.cn)
+from	pan@ascf.com.cn
+to	fan@ccert.edu.cn
+信息
+
+  主题: Mail Transaction Failed
+
+没有交付:
+
+  sandra@ascf.com.cn
+
+因为:
+
+  User sandra (sandra@ascf.com.cn) not listed in public Name & Address Book
+
+
+Final-Recipient: rfc822;sandra@ascf.com.cn
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Notes; User sandra (sandra@ascf.com.cn) not listed in public Name & Address Book
+
+The message cannot be represented in 7-bit ASCII encoding and has been sent as a binary attachment.
+
+

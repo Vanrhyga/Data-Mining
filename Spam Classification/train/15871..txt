@@ -1,0 +1,5 @@
+subject	供卫星电视接收机
+from	yun@163.com
+to	li@ccert.edu.cn
+供卫星电视接收机，0551-3961292，www.8wx8.com
+

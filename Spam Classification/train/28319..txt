@@ -1,0 +1,9 @@
+subject	邮址群发、邮件群发、邮箱地址专卖、群发广告
+from	weng@126.com
+to	ou@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

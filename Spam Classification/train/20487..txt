@@ -1,0 +1,14 @@
+subject	● 请问BitComet中代理如何设置 (转载)
+from	bai@mail.nisac.gov.cn
+to	wu@ccert.edu.cn
+【 以下文字转载自 NewSoftware 讨论区 】
+发信人: NewSamuel (tomy), 信区: NewSoftware
+标  题: 请问BitComet中代理如何设置
+使用版上的代理，可以上国外的网站；
+但是如果使用BitComet，则总是无法连接上国外的
+tracker网站。如果直接用Tunet开放登陆则可以连上。
+在BitComet中设置代理时需要指定
+代理的类型有Sock5,sock4,sock4a,http1.1
+请问这些代理类型有何不同，应如何设置？
+如果使用的代理是端口为80,8080应设置那个类型呢?
+谢谢！

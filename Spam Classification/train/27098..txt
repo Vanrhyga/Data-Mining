@@ -1,0 +1,10 @@
+subject	金石商铺，现代商务应用的新科技！
+from	gong@jinshishop.cn
+to	zhan@ccert.edu.cn
+
+                        
+
+
+
+   1. LYNXIMGMAP:file://localhost/home/qa/GETSET/tmp.html#Map
+

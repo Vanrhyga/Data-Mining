@@ -1,0 +1,24 @@
+subject	=?gb2312?B?16Ky4c/juNu5q8u+yKu30Tg4MDAgICDSpsP3zay8tsn6s8nX7rTzwcG14yDQobDUzfWzrNS9zOy5
+from	bai@tom.com
+to	ning@ccert.edu.cn
+tLS0wPrKt7Xa0rsoMTQ6MTMpKysroaSwxMPFur2/1c7l1MK/zdTLtLTKrsTqzazG2tDCuN+/zdTL
+yMvK/dT2MjYl?=
+Date: Sun, 14 Aug 2005 23:10:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_NextPart_002_0064_01CE0D9A.6E7E960D"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2800.1106
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2800.1106
+
+
+   nkkkka72@tom.comcccjcccj@pub.dl.lnpta.net.cn2005-8-1410:56:21¡¤¼ÍÄî¿¹Õ
+   ½Ê¤Àû60ÖÜÄê          Ïã¸Û½ğ±Ò×Ü¹«Ë¾·¢ĞĞ¼ÍÄî±Ò(Í¼)(05.11         14:52)
+   ÏêÇéä¯ÀÀ£ºhttp://hksv.net 
+   nkkkka72@tom.comcccjcccj@pub.dl.lnpta.net.cn2005-8-1410:56:21¡¤¼ÍÄî¿¹Õ
+   ½Ê¤Àû60ÖÜÄê Ïã¸Û½ğ±Ò×Ü¹«Ë¾·¢ĞĞ¼ÍÄî±Ò(Í¼)(05.11 14:52)
+
+
+

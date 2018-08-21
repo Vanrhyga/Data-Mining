@@ -1,0 +1,9 @@
+subject	majordomo,一些重要的资料
+from	han@ttt.com
+to	wu@ccert.edu.cn
+
+   
+
+
+
+

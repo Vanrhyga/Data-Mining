@@ -1,0 +1,8 @@
+subject	最新DJ舞曲推荐
+from	jian@eryy.net
+to	qing@ccert.edu.cn
+这是一个HTML格式的邮件
+
+本站从2004年4月开站，一年来更新歌曲5W首以上 舞曲4000以上。希望网友支持
+本站网址<a href=http://www.eryy.com  title=点击打开... target=_blank>亿人音乐 http://www.eryy.com</a>
+

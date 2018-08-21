@@ -1,0 +1,9 @@
+subject	● 请问关于Excel的问题 (转载)
+from	hou@mails.tsinghua.edu.cn
+to	he@ccert.edu.cn
+【 以下文字转载自 OfficeSoft 讨论区 】
+发信人: bestyang (bestyang), 信区: OfficeSoft
+标  题: 请问关于Excel的问题
+发信人: bestyang (bestyang), 信区: NewExpress
+标  题: 请问关于Excel的问题
+Excel做的图表，考到word里面总是分辨率低，也不能编辑了，是不是设置有问题。如何提高分辨率呢？

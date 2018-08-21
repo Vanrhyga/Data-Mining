@@ -1,0 +1,9 @@
+subject	钱已经汇到您的帐户
+from	lai@sohu.com
+to	zhou@ccert.edu.cn
+
+                      IFRAME: http://www.28bbs.com
+
+
+
+

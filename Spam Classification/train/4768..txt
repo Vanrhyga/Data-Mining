@@ -1,0 +1,15 @@
+subject	● 急聘：Java应用开发工程师
+from	lin@admin.iscas.ac.cn
+to	wei@ccert.edu.cn
+职责：
+1、使用Java AWT, Swing, .NET进行软件界面开发
+要求：
+1、    计算机或工程专业本科或以上学位
+2、    1~3年以上参与Java AWT, Swing 前端界面开发工作经验 
+3、    具有XML工作经验
+4、    具有Web Portal开发经验者优先考虑
+5、    能使用开源的Java开发工具者优先考虑
+6、    具有很强的分析和沟通能力
+公司提供丰厚的福利待遇和广阔的个人发展空间，如想更多的了解公司及职位的信息，请登录公司网站：www.sightna.com
+有意者请将简历发送至christina@sightna.com
+                    hr@sightna.com

@@ -1,0 +1,9 @@
+subject	设计师软件教学
+from	li@126.com
+to	lian@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

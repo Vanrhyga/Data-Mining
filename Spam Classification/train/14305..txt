@@ -1,0 +1,9 @@
+subject	majordomo你好，希望与你交个朋友
+from	gu@imv
+to	hong@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

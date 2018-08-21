@@ -1,0 +1,10 @@
+subject	ÄãºÃ£¡
+from	sun@hooh.com.cn
+to	wen@ccert.edu.cn
+
+                           
+
+
+
+   1. LYNXIMGMAP:file://localhost/home/qa/GETSET/tmp.html#Map
+

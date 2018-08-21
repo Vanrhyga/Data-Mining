@@ -1,0 +1,188 @@
+subject	J2MEÑ§Ï°¡ª¡ªRMS´ÓÈëÃÅµ½¾«Í¨Ö®Ò»
+from	tian@chinaitlab.com
+to	han@ccert.edu.cn
+
+      Ê× Ò³ | ×ÊÑ¶ÖÐÐÄ | ITÅàÑµ | Ô¶³Ì½ÌÓý | ÐéÄâ¿¼³¡ |
+                   ÔÚÏßÊµÑé | Ñ§Ï°ÏÂÔØ | ITÉçÇø
+    Cisco |¡¡Windows | Linux¡¡|¡¡ Java ¡¡| ¼¼Êõ×¨Ìâ |
+                  ÅàÑµ½²Ê¦ |¡¡ ËÑ Ë÷¡¡| ÖÜ ¿¯
+
+   
+   Java»·¾³°²×°ÅäÖÃ×¨Ìâ SCJPÈÏÖ¤ JavaµÄ¶ÔÏó Java»ù´¡
+   JavaµÄÀà     Java¶þ½øÖÆ    EJB¼¼Êõ    ×÷Í¼¼°×Ö·û´®´¦Àí
+   Javaµç×ÓÊéÏÂÔØ×¨Ìâ Ó²ÅÌ·ÖÇø¸ñÊ½ 
+   
+
+                     ¡¡¡¡¡ú¡¡µ± Ç° Ò³ Ãæ £º Java Æµ µÀ
+
+   ¡¡¡¡¡¡Java ÆµµÀ TOP ÎÄÕÂ
+
+                      ¡¤J2EEÓ¦ÓÃÖ®¡ª¡ªFlexÖÐµÄÊý¾Ý
+                      ¡¤³¢ÏÊ£º×îÐÂ°æEclipse3.1¼°²å
+                      ¡¤javaÐÂÊÖÈëÃÅÑ§Ï°Ö¸µ¼Ö®×î¼Ñ
+                      ¡¤javaÐÂÊÖÈëÃÅÑ§Ï°Ö¸µ¼Ö®×î¼Ñ
+                      ¡¤È«³ÌÖ¸µ¼LinuxÏÂJAVA»·¾³Åä
+                      ¡¤Java³õÑ§Õß£ºJsp¿ª·¢»·¾³Åä
+                           ¡¤JavaÈÏÖ¤³£¼ûÎÊÌâ
+                      ¡¤HibernateÊý¾ÝÔ´²»µÃ²»×¢Òâ
+
+                          Java»·¾³°²×°ÅäÖÃ×¨Ìâ
+                            Java»·¾³°²×°ÅäÖÃ×¨Ìâ
+
+                           ¶Ôjava.utilµÄ×Ü½á 
+                           ¶Ôjava.utilµÄ×Ü½á
+
+                             ¡¡¡¡¡¡×î ½ü ¸ü ÐÂ 
+
+          ¡¤  Struts±êÇ©ÖÐµÄ¶à²ãlogic:iteratorÏê½â  ( 8 - 12)
+          ¡¤ Lesson1.04ÅäJ2EE»·¾³¼°CloudscapeÊý¾Ý¿â ( 8 - 12)
+          ¡¤     ÕýÔò±í´ïÊ½¸ÅÊö¼°ÔÚJAVAÖÐµÄÊ¹ÓÃ     ( 8 - 12)
+          ¡¤   Ê¹ÓÃJava±àÐ´Palm OS³ÌÐòµÄ½â¾ö·½°¸    ( 8 - 12)
+          ¡¤   ¼¼Êõ½âÎö£ºÊ²Ã´ÊÇÄ£Ê½£¿Ê²Ã´ÊÇ¿ò¼Ü£¿   ( 8 - 11)
+          ¡¤    ½éÉÜ¹ØÓÚUI¹ÜÀíÆ÷µÄÉè¼Æ(²Ý°¸)·½°¸    ( 8 - 11)
+          ¡¤     ÔÚspring MVC¿ò¼ÜÖÐÏÔÊ¾xmlÊÓÍ¼      ( 8 - 11)
+          ¡¤     ºËÐÄ MPLS IP VPN ÌåÏµ½á¹¹½²½â      ( 8 - 11)
+
+   [EMBED]
+
+                          ¡¡¡¡¡¡¡¡ÐÂ ÊÖ Èë ÃÅ
+
+                                                               ¸ü¶à>>
+
+               ¡¤ ÕýÔò±í´ïÊ½¸ÅÊö¼°ÔÚJAVAÖÐµÄÊ¹ÓÃ       ¡¤
+                   Java³õÑ§Õß£ºJsp¿ª·¢»·¾³ÅäÖÃÈ«¹ý³Ì
+          ¡¤ Ê¹ÓÃJWSDPÍê³ÉWeb ServiceÔÚjavaµÄÈëÃÅ(ËÄ)       ¡¤
+               Ê¹ÓÃJWSDPÍê³ÉWeb ServiceÔÚjavaµÄÈëÃÅÈý(Í¼)
+          ¡¤ Ê¹ÓÃJWSDPÍê³ÉWeb ServiceÔÚjavaµÄÈëÃÅ(¶þ)       ¡¤
+                Ê¹ÓÃJWSDPÍê³ÉWeb ServiceÔÚjavaµÄÈëÃÅ(Ò»)
+      ¡¤ È«³ÌÖ¸µ¼LinuxÏÂJAVA»·¾³ÅäÖÃ       ¡¤ Java Ñ§Ï°¼¯ÖÐÓª
+                             ¸÷ÖÖÎÊÌâµÄ·ÖÎö½²½â
+              ¡¤ J2MEÑ§Ï°¡ª¡ªRMS´ÓÈëÃÅµ½¾«Í¨Ö®Ò»       ¡¤
+                    J2MEÑ§Ï°¡ª¡ªRMS´ÓÈëÃÅµ½¾«Í¨Ö®¶þ
+            ¡¤ ¸øJAVAÉè¼Æ¿ª·¢ÐÂÊÖÒ»Ð©½¨ÒéºÍÒâ¼û(1)       ¡¤
+                  ¸øJAVAÉè¼Æ¿ª·¢ÐÂÊÖÒ»Ð©½¨ÒéºÍÒâ¼û(2)
+             ¡¤ javaÐÂÊÖÈëÃÅÑ§Ï°Ö¸µ¼Ö®×î¼Ñ·½Ïò(ÉÏ)       ¡¤
+                   javaÐÂÊÖÈëÃÅÑ§Ï°Ö¸µ¼Ö®×î¼Ñ·½Ïò(ÏÂ)
+         ¡¤ Ñ§Ï°ÐÄµÃ·ÖÏí--Java Learning Path       ¡¤ Java
+                      10Äê»Ø¹Ë:ÊÀ½ç¸÷µØ¿ª·¢¸ßÊÖÌ¸Java
+                 ¡¤ Java1.5ÓïÑÔÐÂÌØÐÔ¼òµ¥×Ü½á       ¡¤
+                  JNDIÄ¿Â¼·þÎñ¼°LDAO·þÎñÆ÷Ê¹ÓÃÈëÃÅ½Ì³Ì
+                               
+
+                                     ¿¼
+                                     ÊÔ
+                                     ÈÏ
+                                     Ö¤
+
+                ¿¼ÊÔÒªµã·ÖÏí¡ª¡ªSCJP¿¼µã×Ü½á
+                ¹ØÓÚ SCJP 1.4 ¿¼ÊÔ 
+                ¹Ù·½ÍÆ¹ã»î¶¯£ºSCJP ÈÏÖ¤¾ªÏ²ÓÅ»Ý
+                ÏÖÔÚÓ¦¸Ã¿¼ SCJP 1.2 »¹ÊÇ SCJP 1.4£¿
+                JavaÈÏÖ¤¿¼ÊÔÐÄµÃ£ºË³ÀûÍ¨¹ýSCJP²âÊÔÈ«½Ó´¥
+                SCJPÈÏÖ¤¿¼ÊÔÈ«½Ó´¥
+
+                                                               ¸ü¶à>>
+
+                                     ¿ª
+                                     Ô´
+                                     ×¨
+                                     Çø
+
+                  Struts±êÇ©ÖÐµÄ¶à²ãlogic:iteratorÏê½â
+                    ·ÖÏí:ÓÃStrutsÉÏ´«¶à¸öÎÄ¼þµÄ·½·¨
+                    java ¿ªÔ´Êý¾Ý¿âÏîÄ¿ DerbyµÄÎÊ´ð
+                   Ô´´úÂë·ÖÏí¡ª¡ª½ø»¯ÖÐHibernate3½Å±¾
+                    ÈçºÎÊ¹ÓÃLucene¶ÔhtmlÎÄ¼þ½øÐÐË÷Òý
+                  StrutsÒì³£»úÖÆ£¨Exception Handling£©
+
+                                                               ¸ü¶à>>
+
+   ¡¡¡¡×¨ ¼Ò ×¤ Õ¾
+
+   ×¨¼Ò×¤Õ¾À¸Ä¿ÊÇChinaITLabÍøÐ£½²Ê¦Ç××ÔÎªÄú½â´ðÎÊÌâ£¬Ä¿Ç°À¸Ä¿½¨ÉèÖÐ£¬Çë´ó
+   ¼Ò×¼±¸ºÃÎÊÌâÓ»Ô¾ÌáÎÊ¡£
+                            ´ðÒÉ½²Ê¦£ºÁõÏþÌÎ
+
+                                                       <<ÃûÊ¦×¨À¸>>¡¡
+
+   ¡¡¡¡ÈÈ µã ÍÆ ¼ö
+
+                      Java¶àÏß³Ì³ÌÐòÉè¼Æ 
+                      Jsp¿ª·¢»·¾³ÅäÖÃÈ«¹ý³Ì
+                      Ê²Ã´ÊÇÄ£Ê½£¿Ê²Ã´ÊÇ¿ò¼Ü£¿
+                      Lesson1.04ÅäJ2EE»·¾³ 
+                      È«³ÌÖ¸µ¼LinuxÏÂJAVA»·¾³ÅäÖÃ
+                      ×îÐÂ°æEclipse3.1¼°²å¼þ½éÉÜ
+                      ÕýÔò±í´ïÊ½¸ÅÊö¼°ÔÚJAVAµÄÊ¹ÓÃ
+                      ÔÚtomcatÅäÖÃwebÔÚÏßºóÌ¨¹ÜÀí
+
+   ¡¡¡¡×¨ Ìâ ÍÆ ¼ö
+
+                          SCJPÈÏÖ¤
+                          JavaµÄ¶ÔÏó
+                          Java»ù´¡
+                          EJB¼¼Êõ
+                          Java¶þ½øÖÆ
+                          Java»·¾³°²×°ÅäÖÃ×¨Ìâ
+
+                                                               ¸ü¶à>>
+
+   ¡¡¡¡ÔÚ Ïß µ÷ ²é
+
+   ¡¡¡¡Íø Ð£ ¿Î ³Ì
+
+                       J2EE WebÈí¼þ¹¤³ÌÊ¦V1.0
+                       J2EE Web³ÌÐò¿ª·¢¶¨Ïò°àV1.0
+                       Java¾ÍÒµÖ±Í¨°à
+                       LinuxÈí¼þ¹¤³ÌÊ¦
+                       Linux Shell±à³Ì
+
+                                                              ¸ü¶à>>
+
+                                  [EMBED]
+
+                         ¡¡¡¡¡¡Java ºËÐÄ¼¼Êõ 
+
+                                         
+   ÕýÈçËùÖªµÀµÄÄÇÑùjava.lang±»×Ô¶¯µ¼ÈëËùÓÐµÄ³ÌÐò¡£ËüËù°üº¬µÄÀàºÍ½Ó¿Ú
+                     ¶ÔËùÓÐÊµ¼ÊµÄJava³ÌÐò¶¼ÊÇ±ØÒªµÄ...
+                                      
+                  ¡¤ ¼¼Êõ½âÎö£ºÊ²Ã´ÊÇÄ£Ê½£¿Ê²Ã´ÊÇ¿ò¼Ü£¿
+                  ¡¤   ºËÐÄ MPLS IP VPN ÌåÏµ½á¹¹½²½â
+                  ¡¤   J2SE×ÛºÏ:¶Ôjava.utilµÄ×Ü½á ¾Å
+                  ¡¤   J2SE×ÛºÏ:¶Ôjava.utilµÄ×Ü½á °Ë
+                  ¡¤   J2SE×ÛºÏ:¶Ôjava.utilµÄ×Ü½á Æß
+                  ¡¤   J2SE×ÛºÏ:¶Ôjava.utilµÄ×Ü½á Áù
+
+    Swing&Awt&Applet JvmºËÐÄ¼¼Êõ ¡¡
+
+                                                              ¸ü¶à>>
+
+                              ¡¡¡¡¡¡J2EE
+
+                               
+                     MVCÊÇÈý¸öµ¥´ÊµÄËõÐ´,·Ö±ðÎª£º
+   Ä£ÐÍ(Model),ÊÓÍ¼(View)ºÍ¿ØÖÆController)¡£ MVCÄ£Ê½µÄÄ¿µÄ¾ÍÊÇÊµÏÖWeb...
+
+                ¡¤ Lesson1.04ÅäJ2EE»·¾³¼°CloudscapeÊý¾Ý¿â
+                ¡¤     J2EE×ÛºÏÓ¦ÓÃÖ®¡ª¡ª½âÎöMVCÄ£Ê½
+                ¡¤    J2EEÓ¦ÓÃÖ®¡ª¡ªFlexÖÐµÄÊý¾Ý¹ÜÀí 
+                ¡¤    HibernateÊý¾ÝÔ´²»µÃ²»×¢ÒâµÄÎÊÌâ
+                ¡¤    ÏÂÔØ°æ¿é°²×°---jigui2.0ÖÐÎÄËµÃ÷
+                ¡¤      Flex¿ª·¢²½Öè¡ª¡ªÅäÖÃ¹ý³Ì×Ü½á
+
+    J2eeºËÐÄ Servlet&Jsp JDBC,JDO JC,JD
+
+                                                              ¸ü¶à>>
+
+                         ¡¡¡¡¡¡Java ¸ß¼¶¼¼Êõ 
+
+                                         
+   ¶àÏß³ÌÊÇÕâÑùÒ»ÖÖ»úÖÆ£¬ËüÔÊÐíÔÚ³ÌÐòÖÐ²¢·¢Ö´ÐÐ¶à¸öÖ¸ÁîÁ÷£¬Ã¿¸öÖ¸ÁîÁ
+                     ÷¶¼³ÆÎªÒ»¸öÏß³Ì£¬±Ë´Ë¼ä»¥Ïà¶ÀÁ¢...
+                                      
+                  ¡¤ ½éÉÜ¹ØÓÚUI¹ÜÀíÆ÷µÄÉè¼Æ(²Ý°¸)·½°¸
+                  ¡¤ Lesson 1.02 AntµÄ°²×°ºÍÅäÖÃ£¨Í¼£©
+
+
+

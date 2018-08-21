@@ -1,0 +1,4 @@
+subject	● 招聘JAVA开发人员
+from	weng@cernet.com
+to	wang@ccert.edu.cn
+招聘要求： 1、 在J2EE平台下有过两年以上的开发经验，熟悉JSP/Servelet/EJB/WebService的开发模式 2、 开发过比较大型的项目，有过CallCenter及OA项目开发经验者尤佳 3、 熟悉Tomcat/JBoss/WebLogic等至少一种应用服务器的配置与使用 4、 熟悉SQLServer/Oracle等至少一种大型数据库的配置与使用 5、 熟悉Structs或其他Web表示层技术 6、 具备界面设计和美工能力 7、 能够在两个月内，保证全职工作，如果表现好，可考虑长期聘用 8、 薪水4500/月起，可根据实际工作情况与应聘人员水平进行调整 9、 可根据要求进行短期出差 有意者，请首先将简历发至下面所列邮箱 梁晓峰北京慧谷阳光科技有限公司统一媒体事业部 liangxf@bhgss.com 010-82634353 13810224558

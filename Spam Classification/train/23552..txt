@@ -1,0 +1,9 @@
+subject	供求信息免费发布
+from	sun@sina.com
+to	yun@ccert.edu.cn
+
+                    IFRAME: http://www.cninfo114.com
+
+
+
+

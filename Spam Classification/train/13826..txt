@@ -1,0 +1,9 @@
+subject	adm,一些重要的资料
+from	tang@lll.com
+to	tao@ccert.edu.cn
+
+   
+
+
+
+

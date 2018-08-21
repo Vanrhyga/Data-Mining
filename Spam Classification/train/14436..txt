@@ -1,0 +1,9 @@
+subject	职业经理人培训
+from	zhu@126.com
+to	guan@ccert.edu.cn
+
+           IFRAME: http://www.shcmclub.com/jingxiushoufei.htm
+
+
+
+

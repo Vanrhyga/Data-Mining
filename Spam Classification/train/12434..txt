@@ -1,0 +1,9 @@
+subject	webmaster,帮你找到一些资料
+from	yun@aaa.com
+to	wang@ccert.edu.cn
+
+   
+
+
+
+

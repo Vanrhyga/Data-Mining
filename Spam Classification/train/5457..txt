@@ -1,0 +1,9 @@
+subject	设计师软件教学
+from	hua@126.com
+to	qing@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

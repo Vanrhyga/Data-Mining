@@ -1,0 +1,19 @@
+subject	Re: 请问谁了解微软亚洲研究院具体情况？
+from	weng@126.com
+to	yuan@ccert.edu.cn
+是吗？好像不是这样的吧
+     标  题: Re: 请问谁了解微软亚洲研究院具体情况？
+     
+     不如CRL
+     : 不是说刚去18W吗？
+     
+     
+     --
+     
+     QTerm -- Quick Terminal                                             
+             
+     BBS client based on Qt library in linux                                 
+             
+     http://qterm.sourceforge.net                                               
+     
+     

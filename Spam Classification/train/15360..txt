@@ -1,0 +1,13 @@
+subject	● 哈佛大学医学院生物信息学实验室招聘博士后和助理研究员
+from	guo@ctbu.edu.cn
+to	zhou@ccert.edu.cn
+Postdoctoral and Research Associate Positions in Computational Bio-imaging Informatics
+We seek outstanding candidates for postdoctoral research and research associate positions in a NIH granted computational bio-imaging informatics project. The candidates are expected to have a strong background on imaging processing, signal processing and data modeling. The candidates must be a team player with extensive knowledge in bioinformatics and computational biology; good understanding of light or optical microscopy imaging techniques is a plus. Research involves bioinformatics, high throughput cell imaging, and in vivo molecular imaging. The successful candidates are expected to work at Harvard University for three years.
+Please send c.v. and references to: 
+Dr. Xiaobo Zhou 
+HCNR Center for Bioinformatics, Harvard Medical School 
+Brigham and Women\'s Hospital/Harvard Medical School 
+1249 Boylston Street, 
+Boston, MA 02215 USA 
+or Email: zhou@crystal.harvard.edu
+Tel: 617-525-6249, Fax: 617-525-6250 

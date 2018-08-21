@@ -1,0 +1,9 @@
+subject	给你介绍一个好网站
+from	he@tom.com
+to	ling@ccert.edu.cn
+给你推荐一个好网站：
+
+          http://www.c3h3.com
+     提供中学化学资源下载，大量化学试卷、化学课件、教学资料、全套教案
+ http://www.c3h3.com
+
