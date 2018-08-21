@@ -3,26 +3,37 @@
 
 
 import os
-import jieba.analyse
+from re import sub,split
+from jieba import cut,analyse
 from sklearn.feature_extraction.text import TfidfVectorizer as TFIV
 import numpy as np
 from sklearn.naive_bayes import MultinomialNB
 from sklearn import metrics
-from sklearn.model_selection import GridSearchCV
-from sklearn.linear_model import SGDClassifier as SGD
 
 
 
+stopWords=[]
 mailList=[]
 labels=[]
-for i in os.listdir('./train/'):
-    with open('./train/%s'%i,'r',encoding='gb18030',errors='ignore') as file:
-        mail=file.read()
-        #Using the jieba.analyse select the most significant words.
-        mail=' '.join(jieba.analyse.extract_tags(mail,topK=20))
-        mailList.append(mail)
+with open('stopWords.txt',encoding='gb18030') as file:
+    for line in file:
+        line=line.strip()
+        stopWords.append(line)
 
-with open('train_label.txt',encoding='utf8') as file:
+for i in os.listdir('./train/'):
+    words=[]
+    with open('./train/%s'%i,encoding='gb18030',errors='ignore') as file:
+        for line in file:
+            line=sub(r'[.【】0-9、——。，！~\*]','',line)
+            line=cut(line)
+            outStr=''
+            for word in line:
+                if word not in stopWords and len(word)>1 and word!='\t':
+                    outStr+=word
+        words=' '.join(analyse.extract_tags(outStr,topK=100))
+    mailList.append(words)
+
+with open('trainLabel.txt',encoding='utf8') as file:
     for line in file:
         line=line.split()
         labels.append(line[0])
@@ -44,18 +55,6 @@ MNBResult=mnb.fit(trainSet,trainSetLabel).predict(devSet)
 #F1-score
 f1Score = metrics.classification_report(MNBResult, devSetLabel)
 print(f1Score)
-
-#Regularization parameter.
-sgdParams={'alpha:'[0.00006,0.00007,0.00008,0.0001,0.0005]}
-
-#Find out which regularization parameter works the best.
-modelSGD=GridSearchCV(SGD(random_state=0,shuffle=True),sgdParams,scoring='f1',cv=20)
-
-#Fit the model
-modelSGD.fit(trainSet,trainSetLabel)
-SGDResult=modelSGD.predict_proba(devSet)[:,1]
-
-print(modelSGD.best_score_)
 
 
 
