@@ -2,62 +2,46 @@
 # -*- coding: utf-8 -*
 
 
-import os
-from re import sub,split
-from jieba import cut,analyse
-from sklearn.feature_extraction.text import TfidfVectorizer as TFIV
+
+import jieba
+from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
-from sklearn.naive_bayes import MultinomialNB
+from sklearn.feature_selection import *
+from sklearn.model_selection import train_test_split
+from sklearn.linear_model import LogisticRegression
 from sklearn import metrics
 
 
+def segment(line):
+    return list(jieba.cut(line))
 
-stopWords=[]
-mailList=[]
-labels=[]
-with open('stopWords.txt',encoding='gb18030') as file:
-    for line in file:
-        line=line.strip()
-        stopWords.append(line)
+def processData(fileList):
+    vectoring=TfidfVectorizer(input='content',tokenizer=segment,analyzer='word')
 
-for i in os.listdir('./train/'):
-    words=[]
-    with open('./train/%s'%i,encoding='gb18030',errors='ignore') as file:
-        for line in file:
-            line=sub(r'[.【】0-9、——。，！~\*]','',line)
-            line=cut(line)
-            outStr=''
-            for word in line:
-                if word not in stopWords and len(word)>1 and word!='\t':
-                    outStr+=word
-        words=' '.join(analyse.extract_tags(outStr,topK=100))
-    mailList.append(words)
+    content=[]
+    counter=[]
+    for fileName in fileList:
+        beforeSize=len(content)
+        content.extend(open(fileName).readlines())
+        counter.append(len(content)-beforeSize)
+    x=vectoring.fit_transform(content)
+    y=np.concatenate((np.repeat([1],counter[0],axis=0),
+                      np.repeat([0],counter[1],axis=0)),axis=0)
+    return x,y,vectoring
 
-with open('trainLabel.txt',encoding='utf8') as file:
-    for line in file:
-        line=line.split()
-        labels.append(line[0])
+def resultVectoring(v):
+    v=v.reshape(-1,1)
+    return np.concatenate((v*(-1)+1,v),axis=1)
 
-#feature extraction
-ft=TFIV()
-featureVector=ft.fit_transform(mailList).toarray()
+def featureSelect(x,y):
+    return SelectKBest(chi2,k=500).fit_transform(x,y)
 
-#Separate back into training and dev sets.
-trainSet=featureVector[1000:-1000]
-trainSetLabel=labels[1000:-1000]
-devSet=np.append(featureVector[:1000],featureVector[-1000:],axis=0)
-devSetLabel=np.append(labels[:1000],labels[-1000:],axis=0)
-
-#rain naive bayes model.
-mnb=MultinomialNB()
-MNBResult=mnb.fit(trainSet,trainSetLabel).predict(devSet)
-
-#F1-score
-f1Score = metrics.classification_report(MNBResult, devSetLabel)
-print(f1Score)
-
-
-
-
-
-
+x,y,model=processData(['Ham.txt','Spam.txt'])
+x=featureSelect(x,y)
+xTrain,xDev,yTrain,yDev=train_test_split(x,y,test_size=0.1)
+model.classifier=LogisticRegression
+tmp=model.classifier(class_weight='balanced')
+model.clf=tmp.fit(xTrain,yTrain)
+yPred=model.clf.predict(xDev)
+yVec=resultVectoring(yDev)
+print(metrics.classification_report(yDev,yPred))
