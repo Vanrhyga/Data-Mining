@@ -1,0 +1,15 @@
+subject	● 三星综合技术院(韩国)招聘~
+from	zhou@mail.nisac.gov.cn
+to	lai@ccert.edu.cn
+招聘领域
+1。Multimedia Chip Design (Audio/Video/Graphics)
+2。Communication Chip Design
+3。CMOS RF IC Design
+4。CMOS Analog Circuit Design
+5。Data Converter Design
+对上述职位有意向者请参照
+http://www.iro.samsung.com.cn/careers/04.asp
+应聘方法：
+请在上述网站的简历模板中填写完中、英文简历之后再返回到[职位空缺]页面，
+点击《申请职位》。
+或直接把英文简历发至 hr00@iro.samsung.com.cn 邮件标题注明[申请职位]。

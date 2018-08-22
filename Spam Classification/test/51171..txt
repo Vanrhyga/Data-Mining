@@ -1,0 +1,27 @@
+subject	国庆节黄金周全国各地酒店低价预订免费服务
+from	lei@sina.com
+to	xin@ccert.edu.cn
+
+   主题: 预订全国酒店，机票。超低价！
+
+                如果您在信箱中不能正常阅读此邮件，请按我
+
+                               
+
+                           
+
+                               
+
+                               
+
+                               
+
+                               
+
+                               
+
+   <% response.write "" %>
+
+
+   3. LYNXIMGMAP:file://localhost/home/qa/GETSET/tmp.html#Map
+

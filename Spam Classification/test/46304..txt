@@ -1,0 +1,9 @@
+subject	朋友,你好久没有去过我的网站了吧!
+from	mei@126.com
+to	rao@ccert.edu.cn
+
+   FRAME: easymain
+
+
+
+

@@ -1,0 +1,21 @@
+subject	● 征人告诉我这段代码怎么改才能运行,谢谢!
+from	han@stu.ee.tsinghua.edu.cn
+to	wu@ccert.edu.cn
+获得客户端浏览器使用的国家语言
+程序说明：本程序向您介绍了如何用Javascript获得网页浏览者浏览器正在使用的国家语言。 
+变量说明：变量language代表客户端浏览器使用的语言，对于Netscape使用use navigator.language；对于IE4, 可使用navigator.browserLanguage或者navigator.userLanguage。 
+&lt;script&gt; 
+language = "" 
+if (navigator.language) 
+　　language = navigator.language; 
+if (navigator.browserLanguage) 
+　　language = navigator.browserLanguage; 
+if (language == "") 
+　　language = "en"; 
+else 
+　　language = language.substring(0,2); 
+if (language=="zh") 
+　　document.write("中文"); 
+else 
+　　document.write("hello world"); 
+&lt;/script&gt;

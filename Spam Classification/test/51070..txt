@@ -1,0 +1,10 @@
+subject	业务
+from	che@sohu.com
+to	weng@ccert.edu.cn
+本公司有发票
+可向贵公司代理。如有需要，欢迎来电。
+
+联系人：陈先生
+联系电话：13686822315
+
+

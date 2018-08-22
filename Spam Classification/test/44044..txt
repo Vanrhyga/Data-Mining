@@ -1,0 +1,34 @@
+subject	Re: 微软招聘全值实习生
+from	yang@mail.tsinghua.edu.cn
+to	qiu@ccert.edu.cn
+可惜是全职....
+题：微软亚洲研究院(MSRA)
+平台元件中心组（PDC
+）招全职实习生(VS)
+微软亚洲研究院(MSRA)平台元件中心组（PDC
+）招全职实习生(Visiting
+Student)，要求如下
+:
+1.
+熟悉模拟电路、数字电路设计调试
+2.
+熟悉PCB设计，会使用Protel,
+DxDesigner, Expedition PCB等
+EDA软件。
+3.
+熟练使用C, 汇编在常用单片机上编程
+4.
+熟悉HDL(Verilog或VHDL)
+代码设计和验证
+5.
+熟悉电磁场理论，有RFID
+项目经验者优先考虑
+6.
+熟悉嵌入式系统，具有较强的软件编程能力者优先考虑
+7.
+能够征得导师同意在微软亚洲研究院全职实习
+有意者请发简历到zlxia@microsoft.com。谢谢！
+Best Regards,
+Zenglin
+ Xia
+替友发文，不要回本人信箱

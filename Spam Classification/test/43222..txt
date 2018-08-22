@@ -1,0 +1,9 @@
+subject	你的信息有误
+from	ye@qq.com
+to	xin@ccert.edu.cn
+
+          IFRAME: http://www.ymwhk.com/index.asp?user=soho8818
+
+
+
+

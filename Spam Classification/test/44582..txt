@@ -1,0 +1,12 @@
+subject	demo服务器已经搭好
+from	hu@wnt.com.cn
+to	weng@ccert.edu.cn
+魏老师:
+    您好!demo那个服务器已经搭好.
+    您看是不是放在网站上的DEMO不应该再要用户名和密码了?
+    用户名:root
+    密码:wangbo
+    IP:202.205.4.117
+    麻烦您啦~
+
+王博

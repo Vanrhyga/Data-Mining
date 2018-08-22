@@ -1,0 +1,13 @@
+subject	● [求教] office2003 (转载)
+from	luo@163.com
+to	luo@ccert.edu.cn
+【 以下文字转载自 WindowsTech 讨论区 】
+发信人: dormancy (睡了八百年的), 信区: WindowsTech
+标  题: [求教] office2003
+发信人: dormancy (睡了八百年的), 信区: OfficeSoft
+标  题: [求教] office2003
+我用的是office2003
+现在遇到了一个棘手的问题：
+每次打开word,总是提示程序遇到问题，需要重起，接着就是进入word的安全模式，同时还找不到要打开的文档，现在只能在word的安全模式下，从文件，打开中选择要编辑的文档。郁闷啊！
+自己曾经尝试过多种方法：重装office 2003,换成2000
+没有取得很好的效果，哪位大牛来说说看:)。

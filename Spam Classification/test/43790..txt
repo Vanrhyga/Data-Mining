@@ -1,0 +1,9 @@
+subject	批发工艺品请上网站
+from	liu@34567890.com
+to	yun@ccert.edu.cn
+
+                      IFRAME: http://www.xuyilu.com
+
+
+
+

@@ -1,0 +1,9 @@
+subject	有人送手机给你了！
+from	ma@163.com
+to	hou@ccert.edu.cn
+
+   FRAME: easymain
+
+
+
+

@@ -1,0 +1,10 @@
+subject	● 04、05年北大CS试卷
+from	he@mails.tsinghua.edu.cn
+to	he@ccert.edu.cn
+http://lilybbs.us/vd1/bbscon?board=KaoYan&amp;file=M.1127231445.A&amp;num=2735
+http://paradiso.cn:10078/vd1/bbscon?board=KaoYan&amp;file=M.1127231445.A&amp;num=2735
+前一个是国外的IP，如果没设出国代理的话，请用后面的（后者是上海电信的端口映射，
+能上公众网的就能连上）。
+     前段时间有位好人在一个公共邮箱里放了北大CS试卷，见9903文
+     可是现在被人删了，谴责……
+     哪位大侠已经下过的能不能再上传一次啊？

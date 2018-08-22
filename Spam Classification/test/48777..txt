@@ -1,0 +1,10 @@
+subject	蒙兴网技助您实现电子商务梦想
+from	wu@163.com
+to	yun@ccert.edu.cn
+
+   FRAME: main
+
+   此网页使用了框架，但您的浏览器不支持框架。
+
+
+

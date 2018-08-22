@@ -1,0 +1,41 @@
+subject	50ÔªÂò×Ô¼ºµÄÍøÕ¾ÇÒ¶îÍâÔÂÈë3000Ôª£¡»ú»áÓÀÔ¶Ïò×
+from	huang@tom.com
+to	yun@ccert.edu.cn
+ =?GB2312?B?xbjSs6LK1LXEyMujoaOovvi21NXmyrWjrNessru1vceuztK96cnc1Nm24MjL?=
+
+ =?GB2312?B?0rLDu9PDo6k=?=
+To: report@ccert.edu.cn
+Content-Type: text/plain;charset="GB2312"
+Date: Sun, 18 Sep 2005 21:07:34 +0800
+X-Priority: 3
+X-Mailer: FoxMail 3.11 Release [cn]
+
+ÄãÒ²Ðí´í¹ýÁËÍøÂç³õÆÚµÄ×¬Ç®»ú»á£¬Õâ´ÎÄãÒ»¶¨²»¿ÉÒÔÔÙ´í¹ý£¡
+50ÔªÂò×Ô¼ºµÄÍøÕ¾ÇÒ¶îÍâÔÂÈë3000Ôª£¡»ú»áÓÀÔ¶Ïò×Å¸Ò³¢ÊÔµÄÈË£¡£¨¾ø¶ÔÕæÊµ£¬×¬²»µ½Ç®ÎÒ½éÉÜÔÙ¶àÈËÒ²Ã»ÓÃ£© 
+°ËÊ®Äê´ú³õÓÐÈËÓÃ¼¸°Ù¿éÇ®È¥°ÚµØÌ¯£¬¼¸Äêºó³ÉÁË´óÀÏ°å£¬¿ÉºÜ¶àÈËµ±Ê±²»¸Ò£»¾ÅÊ®Äê´ú³õÓÐÈË´øÁË¼¸Ç§¿éÇ®É±½ø¹ÉÊÐ£¬¼¸Äêºó³ÉÁË´ó¸»ÎÌ£¬¿ÉºÜ¶àÈËµ±Ê±²»ÐÅ¡£ÓÐÈËËµ£º¡°Èç¹ûµ±³õÎÒÒ²×ö£¬»á±ÈËûÃÇ×¬µÃ¸ü¶à£¡¡±²»´í£¬ÄãµÄÄÜÁ¦»òÐí±ÈËûÃÇÇ¿£¬¾­ÑéÒ²»òÐí±ÈËûÃÇ·á¸»£¬¿ÉÎÊÌâ³öÔÚÄãµ±³õÃ»ÓÐ×ö£¡ ÒªÔÚ±ðÈË²»¸Ò²»ÐÅµÄÊ±ºò£¬ÄÜ¼°Ê±×¥×¡ÐÂ³öÏÖµÄÉÌ»ú£¬Äú¾ÍÒ»¶¨ÄÜ³É¹¦£¡
+[×ªÌù]50¼ÓÈëÖµ£¿Öµ£¡£¨ÓëÐÂÊÖ¹²Ãù£© 
+±¾ÈË¼ÓÈëSOHOÖ®¼Òºó,ºÜÓÐÐ©¸ÐÊÜ£¬Ï£ÍûÓÐ¹²ÃùÕß£º 
+1¡¢¼ÓÈëÖ®Ç°Ôø²Â²âÕâÊÇ²»ÊÇÆ­×Ó£¿¾­¿¼ÂÇ£¬µ«ÎÒÊÇ¾öÐÄ½»Ç®¼ÓÈëÁË£¬ÒòÎª±¾ÈËÒÔÇ°Ôø»ã¹ý½ü5000Ôª´ÓÍøÉÏÂòÊýÂëÏà»ú£¬¶øÇÒÊÇÏÈ»ã¿îºó·¢»õ£¬×îºó»¹ÕæÃ»Æ­ÈË¡£ 
+2¡¢½»50Ôª¼ÓÈë¡ª¡ªÖµ£¡ËäÈ»Ä¿Ç°ÔÚÕÛÌÚÍøÒ³¶«Î÷Ã»ÓÐ¼Ó¿ì·¢Õ¹ÏÂÏß£¬¾ÍËã»¨50ÔªÂòÒ»¸öÍøÕ¾×öÊµÏ°£¬ÏëÔõÃ´ÕÛÌÚ¾ÍÔõÃ´¸ã£¡
+3¡¢ÔÚ´Ë£¬Ï£ÍûÓÐÒâ¼ÓÈëSOHOÖ®¼ÒµÄÓÎ¿ÍÍøÓÑ£¬²»ÒªÓÌÔ¥£¬µ½ÎÒÕâÀïÀ´£¬¹²Ä±·¢Õ¹£¡ 
+±¾Õ¾½ö½ö100Ôª¾ÍÓÐÁËÒ»¸ö¿ÉÒÔ×Ô¼º±à¼­ÉèÖÃ£¬ÖÕÉíÊôÓÚ×Ô¼ºµÄÍøÕ¾£¬ÕâÒ»µãÈÎºÎÍøÕ¾¶¼²»¿É±ÈÄâµÄ£¡¾ø¶ÔÎï³¬ËùÖµ£¡ÊÀ½çÉÏ×î´ÏÃ÷£¬×îÄÜ×¬Ç®µÄÃÀ¹úÓÌÌ«ÈËËµ¹ýÕâÑùÒ»¾ä»°£º¡°ÓµÓÐÁËÍøÂç£¬¾ÍµÈÓÚÓµÓÐÁËÊÀ½ç¡£¡±
+
+×¢²áÏêÇéÇëµÇÂ½ http://9soho.com/?easyway »ò  http://www.aetgy.zj.com
+
+ÒòÎªÄãµÄÊ±¼ä±¦¹ó,ÔÚÕâÀï²»ÔÙ¶àËµÁË,Èç¹ûÄãÓÐÊ²Ã´²»Ã÷°×»òÒÉÎÊÇëÓëÎÒ
+ÁªÏµ
+qq:419137556 
+e-mail:easyway@21cn.com 
+http://9soho.com/?easyway £º
+¨€¨¡î¨¨¡î¨¨€ ¸øÄãÇ®...
+¨€¡î¡î¡î¡î¡î¡î¨€
+¨€¨Ž¡î¡î¡î¡î¨¨€ ²»Èç½Ì»áÄã×¬Ç®...
+¨€¨€¨Ž¡î¡î¨¨€¨€
+¨€¨€¨€¨Ž¨¨€¨€¨€ 
+SOHOÖ®¼Ò´úÀíÐÅÏ¢ÍøÂç   :http:/9soho.com/?easyway
+                        http://www.aetgy.zj.com
+
+×¢£º½»Ç®ÊÇ½»100£¬ÆäÖÐ£¬±¾ÈËÊÕÈ¡µÄ50ÔªÍÆ¼ö·Ñ½«ÒÔ×ªÕÊµÄÐÎÊ½ÈçÊý·µ»¹£¨ÒòÎª×ÜÕ¾µÄ¸Ã¹¦ÄÜÒÑ¾­¹Ø±Õ£©£¡£¡ÏêÇéÇëÁªÏµÎÒµÄQQ»ò¸øÎÒ·¢ÓÊ¼þ£¡~
+ 
+
+

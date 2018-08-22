@@ -1,0 +1,24 @@
+subject	Re: 征人告诉我这段代码怎么改才能运行,谢谢!
+from	gu@mails.tsinghua.edu.cn
+to	xu@ccert.edu.cn
+当然可以了
+if (language=="zh")                                                
+　　document.write("中文");                                                   
+                                              
+else                                                                          
+         
+　　document.write("hello world"); 
+改为:
+link="";
+if (language=="zh")                                                           
+  
+　　link = "......";                                                   
+  
+                                                                              
+  
+else                                                                          
+   link = ".....";
+然后是go(link)  之类的自己查资料,
+我不是搞网页编程的
+     还有一个问题请教:
+     能不能把string 换成链接？

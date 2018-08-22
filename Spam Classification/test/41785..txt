@@ -1,0 +1,52 @@
+subject	ChinaCISSP BBS新帖选编（2005年9月14日）
+from	pan@chinacissp.com
+to	yuan@ccert.edu.cn
+ChinaCISSP论坛注册用户：
+
+以下是ChinaCISSP BBS近期（2005年9月8日至9月14日）部分新帖：
+
+获得安全币的方法
+http://bbsly.chinacissp.com/viewtopic.php?t=3462
+
+试行共同参与人工评分机制的通知
+http://bbsly.chinacissp.com/viewtopic.php?t=3353
+
+ChinaCISSP安全专业资源目录收录的链接建议将获得安全币奖励
+http://bbsly.chinacissp.com/viewtopic.php?p=18350#18350
+
+全面构建信息安全专业人才体系（人才战略三部曲）
+http://bbsly.chinacissp.com/viewtopic.php?t=3334
+
+这里有没有研究PMI的坛友？
+http://bbsly.chinacissp.com/viewtopic.php?t=3314
+
+Microsoft Windows Rights Management Services: 是否有人实施
+http://bbsly.chinacissp.com/viewtopic.php?t=3415
+
+国内安全产品走向何方
+http://bbsly.chinacissp.com/viewtopic.php?t=3430
+
+服务质量保证与服务质量评估
+http://bbsly.chinacissp.com/viewtopic.php?t=3419
+
+IM（即时通讯）软件带来的威胁
+http://bbsly.chinacissp.com/viewtopic.php?t=3465
+
+关于信息安全风险评估投入成本的问题
+http://bbsly.chinacissp.com/viewtopic.php?t=3306
+
+精华提问及解释贴集
+http://bbsly.chinacissp.com/viewtopic.php?t=3359
+
+请问在香港考和大陆考有什么不同吗？(CISSP）
+http://bbsly.chinacissp.com/viewtopic.php?t=3310
+
+9月3日 CISSP考过了（台湾）
+http://bbsly.chinacissp.com/viewtopic.php?t=3429
+
+感谢各位注册用户对论坛的支持，希望各位对论坛的建设提出意见和建议。顺祝各位工作顺利，生活愉快！
+
+ChinaCISSP网站（http://www.chinacissp.com）
+ChinaCISSP论坛（http://bbs.chinacissp.com）
+站长Phrack（webmaster@chinacissp.com）
+

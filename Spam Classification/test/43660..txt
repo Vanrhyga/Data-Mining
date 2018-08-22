@@ -1,0 +1,10 @@
+subject	手机\小灵通\固话打国际电话只需几毛钱！
+from	zheng@ipvs.com
+to	tang@ccert.edu.cn
+
+                        
+
+
+
+   1. LYNXIMGMAP:file://localhost/home/qa/GETSET/tmp.html#Map
+

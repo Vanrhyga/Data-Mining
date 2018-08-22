@@ -1,0 +1,13 @@
+subject	Re: Re: 牛教授的报告幻灯
+from	tao@mails.tsinghua.edu.cn
+to	zhuang@ccert.edu.cn
+【 以下文字转载自 SEM.THU 讨论区 】
+发信人: iliuzhongqi (我爱清华，更爱我的小猪), 信区: SEM.THU
+标  题: 咨询一个相关分析的问题
+我看到某权威期刊上的一篇论文，
+做1952到2002年中国 “GDP——人口死亡率”之间的相关性验证
+对数据没有作任何处理
+用的是pearson相关系数
+GDP和人口死亡率都不是正态分布的数据
+能用pearson相关系数来验证吗？
+似乎应该用等级相关分析呀？

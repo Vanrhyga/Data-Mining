@@ -1,0 +1,9 @@
+subject	客户：请你报价！
+from	tan@ab2b.cn
+to	cheng@ccert.edu.cn
+
+                       IFRAME: http://www.ab2b.cn/
+
+
+
+

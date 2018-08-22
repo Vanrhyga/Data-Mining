@@ -1,0 +1,21 @@
+subject	=?gb2312?B?UmU6ILqmyMujob3M0/3Eo8q9IFJlOiC41bLFtPLBy8WutvnSu7DN1cajrMWutvm/3rXDztLEx7j2
+from	ling@njnu.edu.cn
+to	xin@ccert.edu.cn
+vdA=?=
+Date: Fri, 16 Sep 2005 12:47:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_002F_01C5BACA.805B14A0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2900.2180
+X-imss-version: 2.30
+X-imss-result: Passed
+X-imss-scores: Clean:19.94099 C:2 M:3 S:5 R:5
+X-imss-settings: Baseline:1 C:1 M:1 S:1 R:1 (0.0000 0.0000)
+
+教育lz不解恨，代妞妞教训lz，piapia 狠揍lz pipi
+     lz揍了妞妞现在心疼了，我现在来好好教育教育lz
+     中国的教育模式是家长式的，对小孩打打骂骂
+     还是喜欢西方的教育模式，虽然不是很懂，但感觉那种比较友好
+※ 修改:·liuqingt 於 Sep 18 11:50:50 修改本文·[FROM: 218.247.142.*]

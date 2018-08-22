@@ -1,0 +1,9 @@
+subject	网页设计教学
+from	pan@126.com
+to	qian@ccert.edu.cn
+
+   FRAME: mainsoft
+
+
+
+

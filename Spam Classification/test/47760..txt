@@ -1,0 +1,9 @@
+subject	机票预订大优惠
+from	hu@5air.net
+to	qiu@ccert.edu.cn
+
+           -------------VolleyMail邮件系统-----------------
+   免费下载，终身可用：http://cnysoft.com/
+
+
+

@@ -1,0 +1,9 @@
+subject	批发工艺品请上网站
+from	fu@000000.com
+to	shi@ccert.edu.cn
+
+                      IFRAME: http://www.xuyilu.com
+
+
+
+

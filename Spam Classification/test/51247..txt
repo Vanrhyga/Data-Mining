@@ -1,0 +1,18 @@
+subject	Undeliverable:-企-业薪-资-体-系-设-计（9
+from	jin@ghi.com
+to	ye@ccert.edu.cn
+Your message
+
+  To:      '???????????'
+  Subject: 已读: -企-业薪-资-体-系-设-计（9.23-24 深`圳）
+  Sent: Thu, 22 Sep 2005 15:33:26 -0400
+
+did not reach the following recipient(s):
+
+'深圳人力资源开发研究会' on Thu, 22 Sep 2005 15:35:06 -0400
+    The e-mail address could not be found.  Perhaps the recipient moved
+to a different e-mail organization, or there was a mistake in the
+address.  Check the address and try again.The MTS-ID of the original
+message is:c=us;a= ;p=ghi;l=MAIL10509210930TA4X1B8L
+    MSEXCH:IMS:GHI:GHIMAIL1:MAIL1 0 (000C05A6) Unknown Recipient
+
