@@ -79,7 +79,7 @@ bfc2=biasVariable([10])
 #softmax layer
 yconv=tf.nn.softmax(tf.matmul(hfc1Drop,Wfc2)+bfc2)
 
-crossEntropy=tf.reduce_mean(tf.nn.softmax_cross_entropy_with_logits(labels=y,logits=yconv))    #loss
+crossEntropy=-tf.reduce_sum(y*tf.log(yconv))    #loss
 
 #Adam优化器
 trainStep=tf.train.AdamOptimizer(1e-4).minimize(crossEntropy)
