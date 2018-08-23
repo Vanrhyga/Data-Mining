@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a71aa5b3-30bf-438a-ae4c-d790c3210466" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Digit Recognition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Digit Recognition.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CNN.py" beforeDir="false" afterPath="$PROJECT_DIR$/CNN.py" afterDir="false" />
-    </list>
+    <list default="true" id="a71aa5b3-30bf-438a-ae4c-d790c3210466" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +15,7 @@
     <session id="-1179202276">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.4" value="1" />
@@ -58,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CNN.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
-              <caret line="160" column="4" selection-start-line="160" selection-start-column="4" selection-end-line="160" selection-end-column="4" />
+            <state relative-caret-position="228">
+              <caret line="133" column="71" selection-start-line="133" selection-start-column="71" selection-end-line="133" selection-end-column="71" />
               <folding>
                 <element signature="e#52#75#0" expanded="true" />
               </folding>
@@ -167,7 +162,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24964234" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -225,8 +219,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CNN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="160" column="4" selection-start-line="160" selection-start-column="4" selection-end-line="160" selection-end-column="4" />
+        <state relative-caret-position="228">
+          <caret line="133" column="71" selection-start-line="133" selection-start-column="71" selection-end-line="133" selection-end-column="71" />
           <folding>
             <element signature="e#52#75#0" expanded="true" />
           </folding>
