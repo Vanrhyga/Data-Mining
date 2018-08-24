@@ -13,6 +13,7 @@ from keras.applications.mobilenet import MobileNet
 from keras.models import Model
 from scipy import misc
 import tqdm
+import pandas as pd
 
 
 def reader(path,kind):
@@ -86,4 +87,7 @@ xTrain=np.array([misc.imresize(x,(height,width)).astype(float) for x in tqdm.tqd
 xTest=xTest.reshape((-1,28,28))
 xTest=np.array([misc.imresize(x,(height,width)).astype(float) for x in tqdm.tqdm(iter(xTest))])/255.
 
-model.fit_generator(dataGenerator(xTrain,yTrain),steps_per_epoch=600,epochs=50,validation_data=dataGenerator(xTest,yTest),validation_steps=100)
+model.fit_generator(dataGenerator(xTrain,yTrain),steps_per_epoch=600,epochs=1,validation_data=dataGenerator(xTest,yTest),validation_steps=100)
+
+result=pd.DataFrame(data={"label":tf.argmax(predict,axis=1)})
+result.to_excel("Result.xlsx",sheet_name='Result',index=False)
