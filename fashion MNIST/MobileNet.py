@@ -89,5 +89,7 @@ xTest=np.array([misc.imresize(x,(height,width)).astype(float) for x in tqdm.tqdm
 
 model.fit_generator(dataGenerator(xTrain,yTrain),steps_per_epoch=600,epochs=1,validation_data=dataGenerator(xTest,yTest),validation_steps=100)
 
-result=pd.DataFrame(data={"label":tf.argmax(predict,axis=1)})
+predictTest=model.predict(xTest)
+
+result=pd.DataFrame(data={"label":tf.argmax(predictTest,axis=1)})
 result.to_excel("Result.xlsx",sheet_name='Result',index=False)
