@@ -87,9 +87,11 @@ xTrain=np.array([misc.imresize(x,(height,width)).astype(float) for x in tqdm.tqd
 xTest=xTest.reshape((-1,28,28))
 xTest=np.array([misc.imresize(x,(height,width)).astype(float) for x in tqdm.tqdm(iter(xTest))])/255.
 
-model.fit_generator(dataGenerator(xTrain,yTrain),steps_per_epoch=600,epochs=1,validation_data=dataGenerator(xTest,yTest),validation_steps=100)
+model.fit_generator(dataGenerator(xTrain,yTrain),steps_per_epoch=600,epochs=50,validation_data=dataGenerator(xTest,yTest),validation_steps=100)
 
-predictTest=model.predict(xTest)
+predictTest=tf.argmax(model.predict(xTest),1)
 
-result=pd.DataFrame(data={"label":tf.argmax(predictTest,axis=1)})
+sess=tf.InteractiveSession()
+
+result=pd.DataFrame(data={"label":sess.run(predictTest)})
 result.to_excel("Result.xlsx",sheet_name='Result',index=False)
