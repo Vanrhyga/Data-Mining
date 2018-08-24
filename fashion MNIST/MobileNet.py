@@ -87,7 +87,7 @@ xTrain=np.array([misc.imresize(x,(height,width)).astype(float) for x in tqdm.tqd
 xTest=xTest.reshape((-1,28,28))
 xTest=np.array([misc.imresize(x,(height,width)).astype(float) for x in tqdm.tqdm(iter(xTest))])/255.
 
-model.fit_generator(dataGenerator(xTrain,yTrain),steps_per_epoch=600,epochs=50,validation_data=dataGenerator(xTest,yTest),validation_steps=100)
+model.fit_generator(dataGenerator(xTrain,yTrain),steps_per_epoch=600,epochs=45,validation_data=dataGenerator(xTest,yTest),validation_steps=100)
 
 predictTest=tf.argmax(model.predict(xTest),1)
 
