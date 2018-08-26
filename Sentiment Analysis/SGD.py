@@ -71,3 +71,4 @@ SGDResult=modelSGD.predict_proba(test)[:,1]
 SGDOutput=pd.DataFrame(data={"id":testSet['id'],"review":testSet['review'],"sentiment":SGDResult})
 SGDOutput.to_excel("Result.xlsx",sheet_name='Result',index=False)
 print(modelSGD.best_score_)
+print(modelSGD.best_params_)
