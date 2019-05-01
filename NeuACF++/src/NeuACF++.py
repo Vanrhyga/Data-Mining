@@ -12,14 +12,14 @@ from sklearn.utils import shuffle
 
 args = docopt("""
     Usage:
-        my.py [options] <dataset_dir> <dataset> 
+        NeuACF++.py [options] <dataset_dir> <dataset> 
 
     Options:
         --mat mat_list			[default: ""]
         --epochs NUM			[default: 40]
         --last_layer_size NUM	[default: 64]
         --num_of_layers NUM		[default: 2]
-        --num_of_neg NUM		[default: 2]
+        --num_of_neg NUM		[default: 10]
         --learn_rate NUM		[default: 0.00005]
         --batch_size NUM		[default: 1024]
         --margin NUM            [default: 2.0]
@@ -345,9 +345,7 @@ neg_i_embedding = tf.nn.embedding_lookup( I, neg_i_input)
 pos = tf.reduce_sum((pos_u_embedding - pos_i_embedding) ** 2, 1, keep_dims = True)
 neg = tf.reduce_sum((neg_u_embedding - neg_i_embedding) ** 2, 1, keep_dims = True)
 
-loss_all = tf.reduce_sum(tf.maximum(pos - neg + margin, 0))
-
-print(loss_all)
+loss_all = tf.reduce_mean(tf.maximum(pos - neg + margin, 0))
 
 train_step = tf.train.AdamOptimizer(learn_rate).minimize(loss_all)
 

@@ -29,7 +29,11 @@ Please refer our paper if you use this code and the bibtex of this paper is:
 
 example:
 ```
- python ./acf.py ../dataset/amazon/ amovie --mat "U.UIU,I.IUI,U.UICIU,I.ICI" --epochs 40 --last_layer_size 64 --batch_size 1024 --num_of_neg 10 --learn_rate 0.00005 --num_of_layers 2 --mat_select median
+ python3 ./NeuACF++.py ../dataset/amazon/ amazon --mat "U.UIU,I.IUI,U.UIBIU,I.IBI,U.UICIU,I.ICI,U.UIVIU,I.IVI" --epochs 40 --last_layer_size 64 --batch_size 1024 --num_of_neg 10 --learn_rate 0.00005 --num_of_layers 2 --margin 2.0 --mat_select median
+
+ python3 ./NeuACF++.py ../dataset/ml-100k/ ml-100k --mat "U.UMU,M.MUM,U.UMDMU,M.MDM,U.UMAMU,M.MAM" --epochs 40 --last_layer_size 64 --batch_size 1024 --num_of_neg 10 --learn_rate 0.00005 --num_of_layers 2 --margin 2.0 --mat_select median
+
+python3 ./NeuACF++.py ../dataset/ml-1m/ ml-1m --mat "U.UMU,M.MUM,U.UMDMU,M.MDM,U.UMAMU,M.MAM" --epochs 40 --last_layer_size 64 --batch_size 1024 --num_of_neg 10 --learn_rate 0.00005 --num_of_layers 2 --margin 2.0 --mat_select median
 
 ```
 
