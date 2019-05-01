@@ -224,7 +224,10 @@ tf.reset_default_graph()
 
 U_feature_input = tf.placeholder(tf.int32, [None,1])
 I_feature_input = tf.placeholder(tf.int32, [None,1])
-true_rating = tf.placeholder(tf.float32, [None, 1])
+pos_u_input = tf.placeholder(tf.int32, [None,1])
+pos_i_input = tf.placeholder(tf.int32, [None,1])
+neg_u_input = tf.placeholder(tf.int32, [None,1])
+neg_i_input = tf.placeholder(tf.int32, [None,1])
 
 U_embedding_matrix,I_embedding_matrix =  get_embedding_matrix( "1", U_num, U_feature_num,U_feature, I_num ,I_feature_num, I_feature  )
 
@@ -334,42 +337,17 @@ if( len(mat_list) == 8 ):
 pred_val = distance( U, I )
 
 
-users = np.unique(U_feature_input)
-amount = 0
-tmp_loss = 0
+pos_u_embedding = tf.nn.embedding_lookup( U, pos_u_input)
+pos_i_embedding = tf.nn.embedding_lookup( I, pos_i_input)
+neg_u_embedding = tf.nn.embedding_lookup( U, neg_u_input)
+neg_i_embedding = tf.nn.embedding_lookup( I, neg_i_input)
 
-for i in range(len(users)):
-    pos=[]
-    neg=[]
+pos = tf.reduce_sum((pos_u_embedding - pos_i_embedding) ** 2, 1, keep_dims = True)
+neg = tf.reduce_sum((neg_u_embedding - neg_i_embedding) ** 2, 1, keep_dims = True)
 
-    U_feature_list = list( np.reshape( U_feature_input, (-1,1) ) )
+loss_all = tf.reduce_sum(tf.maximum(pos - neg + margin, 0))
 
-    print(users[i])
-
-    for j,x in enumerate(U_feature_list):
-        if x == users[i]:
-            if true_rating[j] == 1.:
-                pos.append(j)
-            else:
-                neg.append(j)
-
-            if(len(pos) * len(neg) > 0):
-                for a in pos:
-                    for b in neg:
-                        tmp_loss += tf.maximum(pred_val[a] - pred_val[b] + margin,0)
-            
-            amount+=len(pos)*len(neg)
-
-
-if( amount != 0):
-    gmf_loss = tmp_loss / amount
-    
-else:
-    gmf_loss = 0
-
-loss_all = gmf_loss
-
-loss_all = tf.constant( loss_all, dtype = tf.float32)
+print(loss_all)
 
 train_step = tf.train.AdamOptimizer(learn_rate).minimize(loss_all)
 
@@ -410,32 +388,64 @@ for epoch in range( epochs ):
     one_epoch_loss = 0.0
     one_epoch_batchnum = 0.0
     print( "# Start Training...." )
+    user_input, item_input, labels = shuffle( user_input, item_input, labels)
+
     for index in range( len(user_input) // batch_size + 1 ):
         batch_u =  user_input[index * batch_size:(index + 1) * batch_size]
         batch_i =  item_input[index * batch_size:(index + 1) * batch_size]
         batch_labels =  labels[index * batch_size:(index + 1) * batch_size]
 
-        batch_u, batch_i, batch_labels = shuffle(batch_u, batch_i, batch_labels)
+        batch_pos_u, batch_pos_i, batch_neg_u, batch_neg_i= [], [], [], []
+
+        users = np.unique(batch_u)
+
+        #print(users)
+
+        for i in range(len(users)):
+            pos=[]
+            neg=[]
+
+            batch_u_list = list( np.reshape( batch_u, (-1,1) ) )
+
+            for j,x in enumerate(batch_u_list):
+                if x == users[i]:
+                    if batch_labels[j] == [1.]:
+                        pos.append(j)
+                    else:
+                        neg.append(j)
+
+            for a in pos:
+                for b in neg:
+                    batch_pos_u.append( [a])
+                    batch_pos_i.append( [a])
+                    batch_neg_u.append( [b])
+                    batch_neg_i.append( [b])
+        
+        #print(batch_pos_u)
 
         if(len(mat_list) == 8):
             _, loss_val, pred_value,w1_ob,w2_ob,w3_ob,w4_ob,_w1_ob,_w2_ob,_w3_ob,_w4_ob = sess.run(
-                [train_step, gmf_loss, pred_val,w1,w2,w3,w4,_w1,_w2,_w3,_w4],
-                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, true_rating: batch_labels})
+                [train_step, loss_all, pred_val,w1,w2,w3,w4,_w1,_w2,_w3,_w4],
+                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
+                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
 
         if(len(mat_list) == 6):
             _, loss_val, pred_value,w1_ob,w2_ob,w3_ob,_w1_ob,_w2_ob,_w3_ob = sess.run(
-                [train_step, gmf_loss, pred_val,w1,w2,w3,_w1,_w2,_w3],
-                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, true_rating: batch_labels})
+                [train_step, loss_all, pred_val,w1,w2,w3,_w1,_w2,_w3],
+                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
+                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
         
         if(len(mat_list) == 4):
             _, loss_val, pred_value,w1_ob,w2_ob,_w1_ob,_w2_ob = sess.run(
-                [train_step, gmf_loss, pred_val,w1,w2,_w1,_w2],
-                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, true_rating: batch_labels})
+                [train_step, loss_all, pred_val,w1,w2,_w1,_w2],
+                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
+                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
 
         if(len(mat_list) == 2):
              _, loss_val, pred_value = sess.run(
-                [train_step, gmf_loss, pred_val],
-                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, true_rating: batch_labels})
+                [train_step, loss_all, pred_val],
+                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
+                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
 
         one_epoch_loss += loss_val
         one_epoch_batchnum += 1.0
