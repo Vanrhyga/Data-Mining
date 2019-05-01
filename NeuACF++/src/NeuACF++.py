@@ -341,13 +341,12 @@ tmp_loss = 0
 for i in range(len(users)):
     pos=[]
     neg=[]
-    
-    tmp_sess=tf.Session()
-    tmp_sess.run()
-    
-    U_feature_array=U_feature_input.eval(session=sess)
 
-    for j,x in enumerate(U_feature_input):
+    U_feature_list = list( np.reshape( U_feature_input, (-1,1) ) )
+
+    print(users[i])
+
+    for j,x in enumerate(U_feature_list):
         if x == users[i]:
             if true_rating[j] == 1.:
                 pos.append(j)
@@ -358,13 +357,19 @@ for i in range(len(users)):
                 for a in pos:
                     for b in neg:
                         tmp_loss += tf.maximum(pred_val[a] - pred_val[b] + margin,0)
-        
+            
             amount+=len(pos)*len(neg)
 
-gmf_loss = tmp_loss / amount
 
+if( amount != 0):
+    gmf_loss = tmp_loss / amount
+    
+else:
+    gmf_loss = 0
 
 loss_all = gmf_loss
+
+loss_all = tf.constant( loss_all, dtype = tf.float32)
 
 train_step = tf.train.AdamOptimizer(learn_rate).minimize(loss_all)
 
