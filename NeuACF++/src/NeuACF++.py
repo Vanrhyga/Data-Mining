@@ -421,32 +421,33 @@ for epoch in range( epochs ):
         
         #print(batch_pos_u)
 
-        if(len(mat_list) == 8):
-            _, loss_val, pred_value,w1_ob,w2_ob,w3_ob,w4_ob,_w1_ob,_w2_ob,_w3_ob,_w4_ob = sess.run(
-                [train_step, loss_all, pred_val,w1,w2,w3,w4,_w1,_w2,_w3,_w4],
-                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
-                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
+        if(batch_pos_u.shape[0] > 0):
+	        if(len(mat_list) == 8):
+	            _, loss_val, pred_value,w1_ob,w2_ob,w3_ob,w4_ob,_w1_ob,_w2_ob,_w3_ob,_w4_ob = sess.run(
+	                [train_step, loss_all, pred_val,w1,w2,w3,w4,_w1,_w2,_w3,_w4],
+	                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
+	                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
 
-        if(len(mat_list) == 6):
-            _, loss_val, pred_value,w1_ob,w2_ob,w3_ob,_w1_ob,_w2_ob,_w3_ob = sess.run(
-                [train_step, loss_all, pred_val,w1,w2,w3,_w1,_w2,_w3],
-                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
-                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
-        
-        if(len(mat_list) == 4):
-            _, loss_val, pred_value,w1_ob,w2_ob,_w1_ob,_w2_ob = sess.run(
-                [train_step, loss_all, pred_val,w1,w2,_w1,_w2],
-                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
-                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
+	        if(len(mat_list) == 6):
+	            _, loss_val, pred_value,w1_ob,w2_ob,w3_ob,_w1_ob,_w2_ob,_w3_ob = sess.run(
+	                [train_step, loss_all, pred_val,w1,w2,w3,_w1,_w2,_w3],
+	                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
+	                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
+	        
+	        if(len(mat_list) == 4):
+	            _, loss_val, pred_value,w1_ob,w2_ob,_w1_ob,_w2_ob = sess.run(
+	                [train_step, loss_all, pred_val,w1,w2,_w1,_w2],
+	                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
+	                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
 
-        if(len(mat_list) == 2):
-             _, loss_val, pred_value = sess.run(
-                [train_step, loss_all, pred_val],
-                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
-                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
+	        if(len(mat_list) == 2):
+	             _, loss_val, pred_value = sess.run(
+	                [train_step, loss_all, pred_val],
+	                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
+	                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
 
-        one_epoch_loss += loss_val
-        one_epoch_batchnum += 1.0
+	        one_epoch_loss += loss_val
+	        one_epoch_batchnum += 1.0
 
         if index % 100 == 0:
             format_str = '# %s: Progress %.2f %%, Loss = %.4f'
