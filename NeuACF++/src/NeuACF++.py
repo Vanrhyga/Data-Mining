@@ -17,7 +17,7 @@ args = docopt("""
     Options:
         --mat mat_list			[default: ""]
         --epochs NUM			[default: 40]
-        --last_layer_size NUM	[default: 64]
+        --last_layer_size NUM	[default: 32]
         --num_of_layers NUM		[default: 2]
         --num_of_neg NUM		[default: 10]
         --learn_rate NUM		[default: 0.00005]
@@ -292,17 +292,13 @@ def attention(name, input_vec):
 
 if( len(mat_list) == 4 or len(mat_list) == 6 or len(mat_list) == 8 ):
     w1 = tf.exp(  attention( "U", U1 ) )
-    _w1 = tf.exp(  attention( "I", I1 ) )
     w2 = tf.exp(  attention( "U", U2 ) )
-    _w2 = tf.exp(  attention( "I", I2 ) )
 
 if(len(mat_list) == 6 or len(mat_list) == 8):
     w3 = tf.exp(  attention( "U", U3 ) )
-    _w3 = tf.exp(  attention( "I", I3 ) )
 
 if(len(mat_list) == 8):
     w4 = tf.exp(  attention( "U", U4 ) )
-    _w4 = tf.exp(  attention( "I", I4 ) )
 
 
 #if( len(mat_list) == 2 ):
@@ -312,7 +308,7 @@ I = I1
 if( len(mat_list) == 4 ):
     if merge == "attention":
         U = w1/(w1+w2)*U1 + w2/(w1+w2)*U2
-        I = _w1/(_w1+_w2)*I1 + _w2/(_w1+_w2)*I2
+        I = w1/(w1+w2)*I1 + w2/(w1+w2)*I2
     if merge == "avg":
         U = 1/2*U1 + 1/2*U2
         I = 1/2*I1 + 1/2*I2
@@ -320,7 +316,7 @@ if( len(mat_list) == 4 ):
 if( len(mat_list) == 6 ):
     if merge == "attention":
         U = w1/(w1+w2+w3)*U1 + w2/(w1+w2+w3)*U2 + w3/(w1+w2+w3)*U3
-        I = _w1/(_w1+_w2+_w3)*I1 + _w2/(_w1+_w2+_w3)*I2 + _w3/(_w1+_w2+_w3)*I3
+        I = w1/(w1+w2+w3)*I1 + w2/(w1+w2+w3)*I2 + w3/(w1+w2+w3)*I3
     if merge == "avg":
         U = 1/3*U1 + 1/3*U2 + 1/3*U3
         I = 1/3*I1 + 1/3*I2 + 1/3*I3
@@ -328,7 +324,7 @@ if( len(mat_list) == 6 ):
 if( len(mat_list) == 8 ):
     if merge == "attention":
         U = w1/(w1+w2+w3+w4)*U1 + w2/(w1+w2+w3+w4)*U2 + w3/(w1+w2+w3+w4)*U3 + w4/(w1+w2+w3+w4)*U4
-        I = _w1/(_w1+_w2+_w3+_w4)*I1 + _w2/(_w1+_w2+_w3+_w4)*I2 + _w3/(_w1+_w2+_w3+_w4)*I3 + _w4/(_w1+_w2+_w3+_w4)*I4
+        I = w1/(w1+w2+w3+w4)*I1 + w2/(w1+w2+w3+w4)*I2 + w3/(w1+w2+w3+w4)*I3 + w4/(w1+w2+w3+w4)*I4
     if merge == "avg":
         U = 1/4*U1 + 1/4*U2 + 1/4*U3 + 1/4*U4
         I = 1/4*I1 + 1/4*I2 + 1/4*I3 + 1/4*I4
@@ -421,22 +417,22 @@ for epoch in range( epochs ):
         
         #print(batch_pos_u)
 
-        if(batch_pos_u.shape[0] > 0):
+        if(len(batch_pos_u) > 0):
 	        if(len(mat_list) == 8):
-	            _, loss_val, pred_value,w1_ob,w2_ob,w3_ob,w4_ob,_w1_ob,_w2_ob,_w3_ob,_w4_ob = sess.run(
-	                [train_step, loss_all, pred_val,w1,w2,w3,w4,_w1,_w2,_w3,_w4],
+	            _, loss_val, pred_value,w1_ob,w2_ob,w3_ob,w4_ob = sess.run(
+	                [train_step, loss_all, pred_val,w1,w2,w3,w4],
 	                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
 	                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
 
 	        if(len(mat_list) == 6):
-	            _, loss_val, pred_value,w1_ob,w2_ob,w3_ob,_w1_ob,_w2_ob,_w3_ob = sess.run(
-	                [train_step, loss_all, pred_val,w1,w2,w3,_w1,_w2,_w3],
+	            _, loss_val, pred_value,w1_ob,w2_ob,w3_ob = sess.run(
+	                [train_step, loss_all, pred_val,w1,w2,w3],
 	                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
 	                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
 	        
 	        if(len(mat_list) == 4):
-	            _, loss_val, pred_value,w1_ob,w2_ob,_w1_ob,_w2_ob = sess.run(
-	                [train_step, loss_all, pred_val,w1,w2,_w1,_w2],
+	            _, loss_val, pred_value,w1_ob,w2_ob = sess.run(
+	                [train_step, loss_all, pred_val,w1,w2],
 	                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
 	                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
 
