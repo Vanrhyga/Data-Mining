@@ -22,7 +22,8 @@ args = docopt("""
         --num_of_neg NUM		[default: 10]
         --learn_rate NUM		[default: 0.00005]
         --batch_size NUM		[default: 1024]
-        --margin NUM            [default: 2.0]
+        --margin NUM            [default: 1.0]
+        --alpha NUM             [default:0.001]
         --mat_select STR		[default: median]
         --merge STR				[default: attention]
     """)
@@ -43,6 +44,7 @@ num_negs = int( args['--num_of_neg'] )
 learn_rate = float( args['--learn_rate'] )
 batch_size = int( args['--batch_size'] )
 margin = float( args['--margin'] )
+alpha = float( args['--alpha'] )
 
 
 for key in args:
@@ -294,10 +296,10 @@ if( len(mat_list) == 4 or len(mat_list) == 6 or len(mat_list) == 8 ):
     w1 = tf.exp(  attention( "U", U1 ) )
     w2 = tf.exp(  attention( "U", U2 ) )
 
-if(len(mat_list) == 6 or len(mat_list) == 8):
+if( len(mat_list) == 6 or len(mat_list) == 8):
     w3 = tf.exp(  attention( "U", U3 ) )
 
-if(len(mat_list) == 8):
+if( len(mat_list) == 8):
     w4 = tf.exp(  attention( "U", U4 ) )
 
 
@@ -341,7 +343,53 @@ neg_i_embedding = tf.nn.embedding_lookup( I, neg_i_input)
 pos = tf.reduce_sum((pos_u_embedding - pos_i_embedding) ** 2, 1, keep_dims = True)
 neg = tf.reduce_sum((neg_u_embedding - neg_i_embedding) ** 2, 1, keep_dims = True)
 
-loss_all = tf.reduce_mean(tf.maximum(pos - neg + margin, 0))
+trans_loss = tf.reduce_mean(tf.maximum(pos - neg + margin, 0))
+
+reg_loss = tf.nn.l2_loss(A1_u_w1) + tf.nn.l2_loss(A1_u_b1) \
+         + tf.nn.l2_loss(A1_u_w2) + tf.nn.l2_loss(A1_u_b2) \
+         + tf.nn.l2_loss(A1_u_w3) + tf.nn.l2_loss(A1_u_b3) \
+         + tf.nn.l2_loss(A1_u_w4) + tf.nn.l2_loss(A1_u_b4) \
+         + tf.nn.l2_loss(A1_v_w1) + tf.nn.l2_loss(A1_v_b1) \
+         + tf.nn.l2_loss(A1_v_w2) + tf.nn.l2_loss(A1_v_b2) \
+         + tf.nn.l2_loss(A1_v_w3) + tf.nn.l2_loss(A1_v_b3) \
+         + tf.nn.l2_loss(A1_v_w4) + tf.nn.l2_loss(A1_v_b4)
+
+if( len(mat_list) == 4 or len(mat_list) == 6 or len(mat_list) == 8):
+    reg_loss = reg_loss \
+             + tf.nn.l2_loss(A2_u_w1) + tf.nn.l2_loss(A2_u_b1) \
+             + tf.nn.l2_loss(A2_u_w2) + tf.nn.l2_loss(A2_u_b2) \
+             + tf.nn.l2_loss(A2_u_w3) + tf.nn.l2_loss(A2_u_b3) \
+             + tf.nn.l2_loss(A2_u_w4) + tf.nn.l2_loss(A2_u_b4) \
+             + tf.nn.l2_loss(A2_v_w1) + tf.nn.l2_loss(A2_v_b1) \
+             + tf.nn.l2_loss(A2_v_w2) + tf.nn.l2_loss(A2_v_b2) \
+             + tf.nn.l2_loss(A2_v_w3) + tf.nn.l2_loss(A2_v_b3) \
+             + tf.nn.l2_loss(A2_v_w4) + tf.nn.l2_loss(A2_v_b4) \
+             + tf.nn.l2_loss(Uatt_w1) + tf.nn.l2_loss(Uatt_b1) \
+             + tf.nn.l2_loss(Uatt_w2) + tf.nn.l2_loss(Uatt_b2)
+
+if( len(mat_list) == 6 or len(mat_list) == 8):
+    reg_loss = reg_loss \
+             + tf.nn.l2_loss(A3_u_w1) + tf.nn.l2_loss(A3_u_b1) \
+             + tf.nn.l2_loss(A3_u_w2) + tf.nn.l2_loss(A3_u_b2) \
+             + tf.nn.l2_loss(A3_u_w3) + tf.nn.l2_loss(A3_u_b3) \
+             + tf.nn.l2_loss(A3_u_w4) + tf.nn.l2_loss(A3_u_b4) \
+             + tf.nn.l2_loss(A3_v_w1) + tf.nn.l2_loss(A3_v_b1) \
+             + tf.nn.l2_loss(A3_v_w2) + tf.nn.l2_loss(A3_v_b2) \
+             + tf.nn.l2_loss(A3_v_w3) + tf.nn.l2_loss(A3_v_b3) \
+             + tf.nn.l2_loss(A3_v_w4) + tf.nn.l2_loss(A3_v_b4) \
+
+if( len(mat_list) == 8):
+    reg_loss = reg_loss \
+             + tf.nn.l2_loss(A4_u_w1) + tf.nn.l2_loss(A4_u_b1) \
+             + tf.nn.l2_loss(A4_u_w2) + tf.nn.l2_loss(A4_u_b2) \
+             + tf.nn.l2_loss(A4_u_w3) + tf.nn.l2_loss(A4_u_b3) \
+             + tf.nn.l2_loss(A4_u_w4) + tf.nn.l2_loss(A4_u_b4) \
+             + tf.nn.l2_loss(A4_v_w1) + tf.nn.l2_loss(A4_v_b1) \
+             + tf.nn.l2_loss(A4_v_w2) + tf.nn.l2_loss(A4_v_b2) \
+             + tf.nn.l2_loss(A4_v_w3) + tf.nn.l2_loss(A4_v_b3) \
+             + tf.nn.l2_loss(A4_v_w4) + tf.nn.l2_loss(A4_v_b4) \
+
+loss_all = trans_loss + alpha * reg_loss
 
 train_step = tf.train.AdamOptimizer(learn_rate).minimize(loss_all)
 
