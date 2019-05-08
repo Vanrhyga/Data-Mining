@@ -23,7 +23,6 @@ args = docopt("""
         --learn_rate NUM		[default: 0.00005]
         --batch_size NUM		[default: 1024]
         --margin NUM            [default: 1.0]
-        --alpha NUM             [default:0.001]
         --mat_select STR		[default: median]
         --merge STR				[default: attention]
     """)
@@ -44,7 +43,6 @@ num_negs = int( args['--num_of_neg'] )
 learn_rate = float( args['--learn_rate'] )
 batch_size = int( args['--batch_size'] )
 margin = float( args['--margin'] )
-alpha = float( args['--alpha'] )
 
 
 for key in args:
@@ -118,7 +116,7 @@ U_num = U_feature.shape[0]
 
 def get_train_instances( train_ratings_sparse, num_negs, ob_matrix = ob_train):
     np.random.seed( 2019 )
-    user_input, item_input, labels = [],[],[]
+    pos_u, pos_i, neg_u, neg_i = [],[],[],[]
 
     num_users = len( np.unique( train_ratings_sparse[:,0] ) )
     num_items = len( np.unique( train_ratings_sparse[:,1] ) )
@@ -128,28 +126,23 @@ def get_train_instances( train_ratings_sparse, num_negs, ob_matrix = ob_train):
     for (u, i) in train_ratings_sparse:
         u = int(u)
         i = int(i)
-        
-        user_input.append( [u] )
-        
-        item_input.append( [i] )
-
-        labels.append([1.])
 
         # negative instances
         for t in range(num_negs):
             j = np.random.randint(num_items)
             while ob_train[u][j] != 0:
                 j = np.random.randint(num_items)
-            user_input.append( [u] )
-            item_input.append( [j] )
-            labels.append([0.])
+            pos_u.append( [u] )
+            pos_i.append( [i] )
+            neg_u.append( [u] )
+            neg_i.append( [j] )
     
-    return user_input,item_input, labels
+    return pos_u, pos_i, neg_u, neg_i
 
 
 print( "# Starting Negative Sample..." )
-user_input, item_input, labels = get_train_instances( train_ratings_sparse, num_negs)
-print( "# All Training Instances:", len( user_input ) )
+pos_u, pos_i, neg_u, neg_i = get_train_instances( train_ratings_sparse, num_negs)
+print( "# All Training Instances:", len( pos_u ) )
 print( "# Negative Sample Done." )
 
 
@@ -285,10 +278,10 @@ def attention(name, input_vec):
 
         att_w2 = tf.get_variable( name+"att_w2", shape=(64,1), initializer=tf.contrib.layers.xavier_initializer())
         att_b2 = tf.get_variable( name+"att_b2", shape=[1], initializer=tf.contrib.layers.xavier_initializer())
-        
+            
         net_1 = tf.nn.sigmoid( tf.matmul(input_vec, att_w1) + att_b1 )
         net_2 = tf.nn.sigmoid( tf.matmul(net_1, att_w2) + att_b2 )
-        
+            
         return net_2  
 
 
@@ -343,53 +336,7 @@ neg_i_embedding = tf.nn.embedding_lookup( I, neg_i_input)
 pos = tf.reduce_sum((pos_u_embedding - pos_i_embedding) ** 2, 1, keep_dims = True)
 neg = tf.reduce_sum((neg_u_embedding - neg_i_embedding) ** 2, 1, keep_dims = True)
 
-trans_loss = tf.reduce_mean(tf.maximum(pos - neg + margin, 0))
-
-reg_loss = tf.nn.l2_loss(A1_u_w1) + tf.nn.l2_loss(A1_u_b1) \
-         + tf.nn.l2_loss(A1_u_w2) + tf.nn.l2_loss(A1_u_b2) \
-         + tf.nn.l2_loss(A1_u_w3) + tf.nn.l2_loss(A1_u_b3) \
-         + tf.nn.l2_loss(A1_u_w4) + tf.nn.l2_loss(A1_u_b4) \
-         + tf.nn.l2_loss(A1_v_w1) + tf.nn.l2_loss(A1_v_b1) \
-         + tf.nn.l2_loss(A1_v_w2) + tf.nn.l2_loss(A1_v_b2) \
-         + tf.nn.l2_loss(A1_v_w3) + tf.nn.l2_loss(A1_v_b3) \
-         + tf.nn.l2_loss(A1_v_w4) + tf.nn.l2_loss(A1_v_b4)
-
-if( len(mat_list) == 4 or len(mat_list) == 6 or len(mat_list) == 8):
-    reg_loss = reg_loss \
-             + tf.nn.l2_loss(A2_u_w1) + tf.nn.l2_loss(A2_u_b1) \
-             + tf.nn.l2_loss(A2_u_w2) + tf.nn.l2_loss(A2_u_b2) \
-             + tf.nn.l2_loss(A2_u_w3) + tf.nn.l2_loss(A2_u_b3) \
-             + tf.nn.l2_loss(A2_u_w4) + tf.nn.l2_loss(A2_u_b4) \
-             + tf.nn.l2_loss(A2_v_w1) + tf.nn.l2_loss(A2_v_b1) \
-             + tf.nn.l2_loss(A2_v_w2) + tf.nn.l2_loss(A2_v_b2) \
-             + tf.nn.l2_loss(A2_v_w3) + tf.nn.l2_loss(A2_v_b3) \
-             + tf.nn.l2_loss(A2_v_w4) + tf.nn.l2_loss(A2_v_b4) \
-             + tf.nn.l2_loss(Uatt_w1) + tf.nn.l2_loss(Uatt_b1) \
-             + tf.nn.l2_loss(Uatt_w2) + tf.nn.l2_loss(Uatt_b2)
-
-if( len(mat_list) == 6 or len(mat_list) == 8):
-    reg_loss = reg_loss \
-             + tf.nn.l2_loss(A3_u_w1) + tf.nn.l2_loss(A3_u_b1) \
-             + tf.nn.l2_loss(A3_u_w2) + tf.nn.l2_loss(A3_u_b2) \
-             + tf.nn.l2_loss(A3_u_w3) + tf.nn.l2_loss(A3_u_b3) \
-             + tf.nn.l2_loss(A3_u_w4) + tf.nn.l2_loss(A3_u_b4) \
-             + tf.nn.l2_loss(A3_v_w1) + tf.nn.l2_loss(A3_v_b1) \
-             + tf.nn.l2_loss(A3_v_w2) + tf.nn.l2_loss(A3_v_b2) \
-             + tf.nn.l2_loss(A3_v_w3) + tf.nn.l2_loss(A3_v_b3) \
-             + tf.nn.l2_loss(A3_v_w4) + tf.nn.l2_loss(A3_v_b4) \
-
-if( len(mat_list) == 8):
-    reg_loss = reg_loss \
-             + tf.nn.l2_loss(A4_u_w1) + tf.nn.l2_loss(A4_u_b1) \
-             + tf.nn.l2_loss(A4_u_w2) + tf.nn.l2_loss(A4_u_b2) \
-             + tf.nn.l2_loss(A4_u_w3) + tf.nn.l2_loss(A4_u_b3) \
-             + tf.nn.l2_loss(A4_u_w4) + tf.nn.l2_loss(A4_u_b4) \
-             + tf.nn.l2_loss(A4_v_w1) + tf.nn.l2_loss(A4_v_b1) \
-             + tf.nn.l2_loss(A4_v_w2) + tf.nn.l2_loss(A4_v_b2) \
-             + tf.nn.l2_loss(A4_v_w3) + tf.nn.l2_loss(A4_v_b3) \
-             + tf.nn.l2_loss(A4_v_w4) + tf.nn.l2_loss(A4_v_b4) \
-
-loss_all = trans_loss + alpha * reg_loss
+loss_all = tf.reduce_mean(tf.maximum(pos - neg + margin, 0))
 
 train_step = tf.train.AdamOptimizer(learn_rate).minimize(loss_all)
 
@@ -430,74 +377,51 @@ for epoch in range( epochs ):
     one_epoch_loss = 0.0
     one_epoch_batchnum = 0.0
     print( "# Start Training...." )
-    user_input, item_input, labels = shuffle( user_input, item_input, labels)
 
-    for index in range( len(user_input) // batch_size + 1 ):
-        batch_u =  user_input[index * batch_size:(index + 1) * batch_size]
-        batch_i =  item_input[index * batch_size:(index + 1) * batch_size]
-        batch_labels =  labels[index * batch_size:(index + 1) * batch_size]
+    pos_u, pos_i, neg_u, neg_i = shuffle(pos_u, pos_i, neg_u, neg_i)
 
-        batch_pos_u, batch_pos_i, batch_neg_u, batch_neg_i= [], [], [], []
+    for index in range( len(pos_u) // batch_size + 1 ):
+        batch_pos_u =  pos_u[index * batch_size :(index + 1) * batch_size]
+        batch_pos_i =  pos_i[index * batch_size :(index + 1) * batch_size]
+        batch_neg_u =  neg_u[index * batch_size :(index + 1) * batch_size]
+        batch_neg_i =  neg_i[index * batch_size :(index + 1) * batch_size]
 
-        users = np.unique(batch_u)
-
-        #print(users)
-
-        for i in range(len(users)):
-            pos=[]
-            neg=[]
-
-            batch_u_list = list( np.reshape( batch_u, (-1,1) ) )
-
-            for j,x in enumerate(batch_u_list):
-                if x == users[i]:
-                    if batch_labels[j] == [1.]:
-                        pos.append(j)
-                    else:
-                        neg.append(j)
-
-            for a in pos:
-                for b in neg:
-                    batch_pos_u.append( [a])
-                    batch_pos_i.append( [a])
-                    batch_neg_u.append( [b])
-                    batch_neg_i.append( [b])
-        
-        #print(batch_pos_u)
+        batch_u = batch_pos_u + batch_neg_u
+        batch_i = batch_pos_i + batch_neg_i
 
         if(len(batch_pos_u) > 0):
-	        if(len(mat_list) == 8):
-	            _, loss_val, pred_value,w1_ob,w2_ob,w3_ob,w4_ob = sess.run(
-	                [train_step, loss_all, pred_val,w1,w2,w3,w4],
+            if(len(mat_list) == 8):
+                _, loss_val,w1_ob,w2_ob,w3_ob,w4_ob = sess.run(
+	                [train_step, loss_all,w1,w2,w3,w4],
 	                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
 	                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
 
-	        if(len(mat_list) == 6):
-	            _, loss_val, pred_value,w1_ob,w2_ob,w3_ob = sess.run(
-	                [train_step, loss_all, pred_val,w1,w2,w3],
+            if(len(mat_list) == 6):
+	            _, loss_val,w1_ob,w2_ob,w3_ob = sess.run(
+	                [train_step, loss_all,w1,w2,w3],
 	                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
 	                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
 	        
-	        if(len(mat_list) == 4):
-	            _, loss_val, pred_value,w1_ob,w2_ob = sess.run(
-	                [train_step, loss_all, pred_val,w1,w2],
+            if(len(mat_list) == 4):
+	            _, loss_val,w1_ob,w2_ob = sess.run(
+	                [train_step, loss_all,w1,w2],
 	                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
 	                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
 
-	        if(len(mat_list) == 2):
-	             _, loss_val, pred_value = sess.run(
-	                [train_step, loss_all, pred_val],
+            if(len(mat_list) == 2):
+	             _, loss_val = sess.run(
+	                [train_step, loss_all],
 	                feed_dict={U_feature_input: batch_u, I_feature_input: batch_i, 
 	                pos_u_input: batch_pos_u, pos_i_input: batch_pos_i, neg_u_input: batch_neg_u, neg_i_input: batch_neg_i})
 
-	        one_epoch_loss += loss_val
-	        one_epoch_batchnum += 1.0
+            one_epoch_loss += loss_val
+            one_epoch_batchnum += 1.0
 
         if index % 100 == 0:
             format_str = '# %s: Progress %.2f %%, Loss = %.4f'
-            print (format_str % ( datetime.now(), index /( len(user_input) // batch_size ) * 100 , one_epoch_loss / (index+1) ) )
+            print (format_str % ( datetime.now(), index /( len(pos_u) // batch_size ) * 100 , one_epoch_loss / (index+1) ) )
 
-        if index == len(user_input) // batch_size:
+        if index == len(pos_u) // batch_size:
                 format_str = '# ****%s: %d epoch, iteration averge loss = %.4f '
                 print (format_str % (datetime.now(), epoch, one_epoch_loss / one_epoch_batchnum))
 

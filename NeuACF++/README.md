@@ -29,11 +29,11 @@ Please refer our paper if you use this code and the bibtex of this paper is:
 
 example:
 ```
- python3 ./NeuACF++.py ../dataset/amazon/ amazon --mat "U.UIU,I.IUI,U.UIBIU,I.IBI,U.UICIU,I.ICI,U.UIVIU,I.IVI" --epochs 40 --last_layer_size 32 --batch_size 1024 --num_of_neg 10 --learn_rate 0.00005 --num_of_layers 2 --margin 1.0  --alpha 0.001 --mat_select median
+ python ./NeuACF++.py ../dataset/amazon/ amazon --mat "U.UIU,I.IUI,U.UIBIU,I.IBI,U.UICIU,I.ICI,U.UIVIU,I.IVI" --epochs 250 --last_layer_size 32 --batch_size 1024 --num_of_neg 10 --learn_rate 0.00005 --num_of_layers 2 --margin 1.0 --mat_select median --merge attention
 
- python3 ./NeuACF++.py ../dataset/ml-100k/ ml-100k --mat "U.UMU,M.MUM,U.UMDMU,M.MDM,U.UMAMU,M.MAM" --epochs 40 --last_layer_size 32 --batch_size 1024 --num_of_neg 10 --learn_rate 0.00005 --num_of_layers 2 --margin 1.0 --alpha 0.001 --mat_select median
+ python ./NeuACF++.py ../dataset/ml-100k/ ml-100k --mat "U.UMU,M.MUM,U.UMDMU,M.MDM,U.UMAMU,M.MAM" --epochs 250 --last_layer_size 32 --batch_size 1024 --num_of_neg 10 --learn_rate 0.00005 --num_of_layers 2 --margin 1.0 --mat_select median --merge attention
 
- python3 ./NeuACF++.py ../dataset/ml-1m/ ml-1m --mat "U.UMU,M.MUM,U.UMDMU,M.MDM,U.UMAMU,M.MAM" --epochs 40 --last_layer_size 32 --batch_size 1024 --num_of_neg 10 --learn_rate 0.00005 --num_of_layers 2 --margin 1.0 --alpha 0.001 --mat_select median
+ python ./NeuACF++.py ../dataset/ml-1m/ ml-1m --mat "U.UMU,M.MUM,U.UMDMU,M.MDM,U.UMAMU,M.MAM" --epochs 250 --last_layer_size 32 --batch_size 1024 --num_of_neg 10 --learn_rate 0.00005 --num_of_layers 2 --margin 1.0 --mat_select median --merge attention
 
 ```
 
