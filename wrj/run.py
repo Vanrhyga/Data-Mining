@@ -1,26 +1,107 @@
 # coding: utf-8
+import argparse
 import os
-import tensorflow as tf
-import docopt
+import torch
+import pickle
+import numpy as np
+import torch.utils.data
+from utils import aggregator, encoder, simpleAttention, componentProcess
 
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "1,2,3"
+def main():
+    # Training settings
+    parser = argparse.ArgumentParser(description = 'wrj model')
+    parser.add_argument('--batch_size', type = int, default = 1024,
+                        metavar = 'N', help = 'input batch size for training')
+    parser.add_argument('--epochs', type = int, default = 200,
+                        metavar = 'N', help = 'number of epochs to train')
+    parser.add_argument('--patience', type = int, default = 5,
+                        metavar = 'N')
+    parser.add_argument('--lr', type = float, default = 0.001,
+                        metavar = 'LR', help = 'learning rate')
+    parser.add_argument('--embed_dim', type = int, default = 64,
+                        metavar = 'N', help = 'embedding size')
+    parser.add_argument('--n_components', type = int, default = 3,
+                        metavar = 'N', help = 'number of components')
+    parser.add_argument('--val_batch_size', type = int, default = 1024,
+                        metavar = 'N', help = 'input batch size for validating')
+    parser.add_argument('--test_batch_size', type = int, default = 1024,
+                        metavar = 'N', help = 'input batch size for testing')
+    parser.add_argument('--dataset', type = str, default = 'amazon',
+                        metavar = 'STR', help = 'dataset')
+    args = parser.parse_args()
 
-config = tf.ConfigProto()
-config.gpu_options.allow_growth = True
+    os.environ["CUDA_VISIBLE_DEVICES"] = "1,2,3"
 
-args = docopt("""
-    Usage:
-        run.py [options] <dataset_dir> <dataset>
+    use_cuda = False
+    if torch.cuda.is_available():
+        use_cuda = True
+    device = torch.device("cuda" if use_cuda else "cpu")
 
-    Options:
-        --batch_size NUM                [default: 1]
-        --epochs NUM                    [default: 200]
-        --patience NUM                  [default: 5]
-        --learn_rate NUM                [default: 0.00005]
-        --num_of_hidden_units NUM       [default: 128]
-        --num_of_components NUM         [default: 3]
-    """)
+    embed_dim = args.embed_dim
+
+    dataset_dir = './datasets/'
+    dataset = args.dataset
+    data_path = dataset_dir + dataset + ".pickle"
+    data_file = open(data_path, 'rb')
+
+    trainset = torch.utils.data.TensorDataset(torch.LongTensor(u_train), torch.LongTensor(v_train),
+                                                torch.FloatTensor(r_train))
+    valset = torch.utils.data.TensorDataset(torch.LongTensor(u_val), torch.LongTensor(v_val),
+                                                torch.FloatTensor(r_val),
+                                                torch.FloatTensor(ufeature_val), torch.FloatTensor(ifeature_val))
+    testset = torch.utils.data.TensorDataset(torch.LongTensor(u_test), torch.LongTensor(v_test),
+                                                torch.FloatTensor(r_test)
+                                                torch.FloatTensor(ufeature_test), torch.FloatTensor(ifeature_test))
+
+    train = torch.utils.data.DataLoader(trainset, batch_size = args.batch_size,
+                                        shuffle = True)
+    val = torch.utils.data.DataLoader(valset, batch_size = args.val_batch_size,
+                                        shuffle = True)
+    test = torch.utils.data.DataLoader(testset, batch_size = args.test_batch_size,
+                                        shuffle = True)
+
+    ufeature_size = ufeature_train.__len__()
+    ifeature_size = ifeature_train.__len__()
+
+    u_f2v_1 = componentProcess(ufeature, ufeature_size, embed_dim, device)
+    u_f2v_2 = componentProcess(ufeature, ufeature_size, embed_dim, device)
+    u_f2v_3 = componentProcess(ufeature, ufeature_size, embed_dim, device)
+    i_f2v_1 = componentProcess(ifeature, ifeature_size, embed_dim, device)
+    i_f2v_2 = componentProcess(ifeature, ifeature_size, embed_dim, device)
+    i_f2v_3 = componentProcess(ifeature, ifeature_size, embed_dim, device)
+
+    # user
+    u_tmp_embed_1 = aggregator(u_f2v_1, i_f2v_1, embed_dim,
+                                cuda = device, is_user = True)
+    u_embed_1 = encoder(u_f2v_1, embed_dim, u_adj, u_adj_rating, u_tmp_embed_1,
+                                cuda = device, is_user = True)
+    u_tmp_embed_2 = aggregator(u_f2v_2, i_f2v_2, embed_dim,
+                                cuda = device, is_user = True)
+    u_embed_2 = encoder(u_f2v_2, embed_dim, u_adj, u_adj_rating, u_tmp_embed_2,
+                                cuda = device, is_user = True)
+    u_tmp_embed_3 = aggregator(u_f2v_3, i_f2v_3, embed_dim,
+                                cuda = device, is_user = True)
+    u_embed_3 = encoder(u_f2v_3, embed_dim, u_adj, u_adj_rating, u_tmp_embed_3,
+                                cuda = device, is_user = True)
+
+    u_final_embed = simpleAttention(u_embed_1, u_embed_2, u_embed_3, device)
+
+    # item
+    i_tmp_embed_1 = aggregator(u_f2v_1, i_f2v_1, embed_dim,
+                                cuda = device, is_user = False)
+    i_embed_1 = encoder(i_f2v_1, embed_dim, i_adj, i_adj_rating, i_tmp_embed_1,
+                                cuda = device, is_user = False)
+    i_tmp_embed_2 = aggregator(u_f2v_2, i_f2v_2, embed_dim,
+                                cuda = device, is_user = True)
+    i_embed_2 = encoder(i_f2v_2, embed_dim, i_adj, i_adj_rating, i_tmp_embed_2,
+                                cuda = device, is_user = False)
+    i_tmp_embed_3 = aggregator(u_f2v_3, i_f2v_3, embed_dim,
+                                cuda = device, is_user = True)
+    i_embed_1 = encoder(i_f2v_3, embed_dim, i_adj, i_adj_rating, i_tmp_embed_3,
+                                cuda = device, is_user = False)
+
+    i_final_embed = simpleAttention(i_embed_1, i_embed_2, i_embed_3, device)
 
 dataset = args['<dataset>']
 checkpt_file = 'pre_trained/{}/{}_allMP_multi.ckpt'.format(dataset, dataset)
@@ -33,16 +114,17 @@ patience = int(args['--patience']])
 lr = float(args['--learn_rate'])  # learning rate
 hid_units = int(args['--num_of_hidden_units'])  # numbers of hidden units
 n_components = int(args['--num_of_components'])
+n_mlp_units = int(args['--num_of_mlp_units'])
 residual = False
 nonlinearity = tf.nn.elu
-model = HeteGAT_multi
+model = wrjGAT_multi
 
 print('Dataset: ' + dataset)
 print('----- Opt. hyperparams -----')
 print('lr: ' + str(lr))
 print('----- Archi. hyperparams -----')
-print('nb. units per layer: ' + str(hid_units))
-print('nb. preference components: ' + str(n_components))
+print('nb. hidden units: ' + str(hid_units))
+print('nb. latent preference components: ' + str(n_components))
 print('residual: ' + str(residual))
 print('nonlinearity: ' + str(nonlinearity))
 print('model: ' + str(model))
@@ -51,6 +133,7 @@ print('model: ' + str(model))
 import numpy as np
 import scipy.io as sio
 from utils import process
+from models import wrjGAT_multi
 
 
 def sample_mask(idx, shape):
@@ -136,11 +219,10 @@ with tf.Graph().as_default():
                                     name='is_train')
 
     # forward
-    logits, final_embedding, att_val = model.inference(ftr_in_list, nb_classes, nb_nodes, is_train,
-                                                       attn_drop, ffd_drop,
-                                                       bias_mat_list=bias_in_list,
-                                                       hid_units=hid_units, n_heads=n_heads,
-                                                       residual=residual, activation=nonlinearity)
+    u_final_embedding, i_final_embedding = model.inference(ufeature, ifeature, attn_drop, ffd_drop,
+                                                       bias=_bias, hid_units=hid_units, n_components=n_components,
+                                                       activation=nonlinearity)
+
     # cal masked_loss
     log_resh = tf.reshape(logits, [-1, nb_classes])
     lab_resh = tf.reshape(lbl_in, [-1, nb_classes])
