@@ -12,23 +12,22 @@ class simpleAttention(nn.Module):
 
         self.embed_dim = embedding_dim
         self.device = cuda
-        # self.bilinear = nn.Bilinear(self.embed_dim, self.embed_dim, 1)
-        self.att1 = nn.Linear(self.embed_dim * 3, self.embed_dim).to(self.device)
-        self.att2 = nn.Linear(self.embed_dim, self.embed_dim).to(self.device)
-        self.att3 = nn.Linear(self.embed_dim, 1).to(self.device)
-        self.softmax = nn.Softmax(0)
+        self.att1 = nn.Linear(self.embed_dim * 3, self.embed_dim)
+        self.att2 = nn.Linear(self.embed_dim, self.embed_dim)
+        self.att3 = nn.Linear(self.embed_dim, 1)
+        self.softmax = nn.Softmax()
 
     def forward(self):
         x = torch.cat((embedding1, embedding2, embedding3), 1)
-        x = F.relu(self.att1(x))
+        x = F.relu(self.att1(x).to(self.device))
         x = F.dropout(x, training=self.training)
-        x = F.relu(self.att2(x))
+        x = F.relu(self.att2(x).to(self.device))
         x = F.dropout(x, training=self.training)
-        x = self.att3(x)
+        x = self.att3(x).to(self.device)
 
         att_w = F.softmax(x, dim=0)
 
-        embedding_list = torch.cat((embedding1, embedding2, embedding3), 0)
+        embedding_list = torch.cat((embedding1, embedding2, embedding3), 2)
         final_embed_matrix = torch.mm(embedding_list.t(), att_w)
         final_embed_matrix = final_embed_matrix.t()
 

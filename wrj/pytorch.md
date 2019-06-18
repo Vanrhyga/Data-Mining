@@ -93,4 +93,11 @@ print(torch.linspace(-10,10,steps=6,dtype=type))
 
 
 
-## 
+## BatchNorm
+
+批规范化层，分为1D、2D和3D。
+
+![1560829082473](C:\Users\Ruijia Wang\AppData\Roaming\Typora\typora-user-images\1560829082473.png)
+
+
+

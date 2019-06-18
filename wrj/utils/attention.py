@@ -12,21 +12,20 @@ class attention(nn.Module):
 
         self.embed_dim = embedding_dim
         self.device = cuda
-        # self.bilinear = nn.Bilinear(self.embed_dim, self.embed_dim, 1)
-        self.att1 = nn.Linear(self.embed_dim * 2, self.embed_dim).to(self.device)
-        self.att2 = nn.Linear(self.embed_dim, self.embed_dim).to(self.device)
-        self.att3 = nn.Linear(self.embed_dim, 1).to(self.device)
-        self.softmax = nn.Softmax(0)
+        self.att1 = nn.Linear(self.embed_dim * 2, self.embed_dim)
+        self.att2 = nn.Linear(self.embed_dim, self.embed_dim)
+        self.att3 = nn.Linear(self.embed_dim, 1)
+        self.softmax = nn.Softmax()
 
     def forward(self, feature1, feature2, n_neighs):
         feature2_reps = feature2.repeat(n_neighs, 1)
 
         x = torch.cat((feature1, feature2_reps), 1)
-        x = F.relu(self.att1(x))
+        x = F.relu(self.att1(x).to(self.device))
         x = F.dropout(x, training=self.training)
-        x = F.relu(self.att2(x))
+        x = F.relu(self.att2(x).to(self.device))
         x = F.dropout(x, training=self.training)
-        x = self.att3(x)
+        x = self.att3(x).to(self.device)
 
         att = F.softmax(x, dim=0)
 

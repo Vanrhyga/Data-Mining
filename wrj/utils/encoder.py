@@ -5,17 +5,17 @@ import torch.nn.functional as F
 
 
 class encoder(nn.Module):
-    def __init__(self, features, embedding_dim, adj, ratings, aggregator,
-                    cuda="cpu", is_user = True):
+    def __init__(self, feature, embedding_dim, adj, ratings, aggregator,
+                    cuda="cpu"):
         super(encoder, self).__init__()
 
-        self.features = features
+        self.feature = feature
+        self.embed_dim = embedding_dim
         self.adj = adj
         self.ratings = ratings
         self.aggregator = aggregator
-        self.embed_dim = embedding_dim
         self.device = cuda
-        self.layer = nn.Linear(2 * self.embed_dim, self.embed_dim).to(self.device)
+        self.layer = nn.Linear(2 * self.embed_dim, self.embed_dim)
 
     def forward(self, nodes):
         interactions = []
@@ -24,11 +24,11 @@ class encoder(nn.Module):
             interactions.append(self.adj[int(node)])
             _ratings.append(self.ratings[int(node)])
 
-        neigh_features = self.aggregator.forward(nodes, interactions, _ratings)  # user-item network
-        self_features = self.features.weight[nodes]
-        # self-connection could be considered.
+        neigh_feature = self.aggregator.forward(nodes, interactions, _ratings).to(self.device)  # user-item network
+        self_feature = self.feature.weight[nodes]
 
-        combined = torch.cat([self_features, neigh_features], dim=1)
+        # self-connection could be considered.
+        combined = torch.cat([self_feature, neigh_features], dim=1)
         component_embed_matrix = F.relu(self.layer(combined))
 
         return component_embed_matrix
