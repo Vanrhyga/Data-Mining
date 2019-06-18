@@ -10,9 +10,9 @@ class decomposer(nn.Module):
     def __init__(self, feature, feature_size, embedding_dim, cuda = 'cpu'):
         super(decomposer, self).__init__()
 
-        self.embed_dim = embedding_dim
-        self.fea_dim = feature_size
         self.feature = feature
+        self.fea_dim = feature_size
+        self.embed_dim = embedding_dim
         self.device = cuda
         self.layer = nn.Linear(self.fea_dim, self.embed_dim, bias = False)
 

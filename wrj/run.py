@@ -52,8 +52,8 @@ class wrjModel(nn.Module):
         x_i = F.dropout(x_i, training = self.training)
         x_i = self.i_layer2(x_i)
 
-        x_uv = torch.cat((x_u, x_i), 1)
-        x = F.relu(self.ui_bn1(self.ui_layer1(x_uv)))
+        x_ui = torch.cat((x_u, x_i), 1)
+        x = F.relu(self.ui_bn1(self.ui_layer1(x_ui)))
         x = F.dropout(x, training = self.training)
         x = F.relu(self.ui_bn2(self.ui_layer2(x)))
         x = F.dropout(x, training = self.training)
@@ -80,7 +80,7 @@ def train(model, train, optimizer, epoch, rmse_mn, mae_mn, device):
         avg_loss += loss.item()
 
         if i % 100 == 0:
-            print('Training: [%d, %5d] loss: %.5f, the best RMSE/MAE: %.5f / %.5f' % (
+            print('Training: [%d epoch, %5d batch] loss: %.5f, the best RMSE/MAE: %.5f / %.5f' % (
                 epoch, i, avg_loss / 100, rmse_mn, mae_mn))
             avg_loss = 0.0
 
@@ -92,7 +92,7 @@ def test(model, test, device):
     ground_truth = []
 
     with torch.no_grad():
-        for test_u, test_i, test_ratings in test  :
+        for test_u, test_i, test_ratings in test:
             test_u, test_v, test_ratings = test_u.to(device), test_v.to(device), test_ratings.to(device)
             scores = model.forward(test_u, test_v)
             pred.append(list(scores.data.cpu().numpy()))
@@ -109,11 +109,9 @@ def test(model, test, device):
 def main():
     # Training settings
     parser = argparse.ArgumentParser(description = 'wrj model')
-    parser.add_argument('--batch_size', type = int, default = 1024,
-                        metavar = 'N', help = 'input batch size for training')
     parser.add_argument('--epochs', type = int, default = 200,
                         metavar = 'N', help = 'number of epochs to train')
-    parser.add_argument('--patience', type = int, default = 5,
+    parser.add_argument('--patience', type = int, default = 100,
                         metavar = 'N', help = 'for early stopping strategy')
     parser.add_argument('--lr', type = float, default = 0.001,
                         metavar = 'FLOAT', help = 'learning rate')
@@ -121,6 +119,8 @@ def main():
                         metavar = 'N', help = 'embedding size')
     parser.add_argument('--n_components', type = int, default = 3,
                         metavar = 'N', help = 'number of components')
+    parser.add_argument('--batch_size', type = int, default = 1024,
+                        metavar = 'N', help = 'input batch size for training')
     parser.add_argument('--val_batch_size', type = int, default = 1024,
                         metavar = 'N', help = 'input batch size for validating')
     parser.add_argument('--test_batch_size', type = int, default = 1024,
@@ -134,7 +134,7 @@ def main():
     print('patience: ' + str(args.patience))
     print('lr: ' + str(args.lr))
     print('dimension of embedding: ' + str(args.embed_dim))
-    print('nb. latent preference components: ' + str(args.n_components))
+    print('number of latent components: ' + str(args.n_components))
 
     os.environ["CUDA_VISIBLE_DEVICES"] = "1,2,3"
 
@@ -150,26 +150,26 @@ def main():
     data_path = dataset_dir + dataset + ".pickle"
     data_file = open(data_path, 'rb')
 
-    ufeature, ifeature, u_adj, u_ratings, i_adj, i_ratings, \
+    ufeature, ifeature, u_adj, i_adj, \
     u_train, i_train, r_train, u_val, i_val, r_val, u_test, i_test, r_test = pickle.load(data_file)
     """
     ## dataset
     ufeature: users' feature
     ifeature: items' feature
 
-    u_adj, u_ratings: user's purchased history (item set in training set), and his/her rating score (dict)
-    i_adj, i_ratings: user set (in training set) who have interacted with the item, and rating score (dict)
+    u_adj: user's purchased history (item set in training set)
+    i_adj: user set (in training set) who have interacted with the item
 
     u_train, i_train, r_train: training set (user, item, rating)
     u_val, i_val, r_val: validating set (user, item, rating)
     u_test, i_test, r_test: testing set (user, item, rating)
     """
 
-    trainset = torch.utils.data.TensorDataset(torch.LongTensor(u_train), torch.LongTensor(v_train),
+    trainset = torch.utils.data.TensorDataset(torch.LongTensor(u_train), torch.LongTensor(i_train),
                                                 torch.FloatTensor(r_train))
-    valset = torch.utils.data.TensorDataset(torch.LongTensor(u_val), torch.LongTensor(v_val),
+    valset = torch.utils.data.TensorDataset(torch.LongTensor(u_val), torch.LongTensor(i_val),
                                                 torch.FloatTensor(r_val))
-    testset = torch.utils.data.TensorDataset(torch.LongTensor(u_test), torch.LongTensor(v_test),
+    testset = torch.utils.data.TensorDataset(torch.LongTensor(u_test), torch.LongTensor(i_test),
                                                 torch.FloatTensor(r_test))
 
     train = torch.utils.data.DataLoader(trainset, batch_size = args.batch_size,
@@ -190,35 +190,28 @@ def main():
     i_f2v_3 = decomposer(ifeature, ifeature_size, embed_dim, device)
 
     # user
-    u_agg_embed_1 = aggregator(u_f2v_1, i_f2v_1, embed_dim,
-                                cuda = device, is_user = True)
-    u_embed_1 = encoder(u_f2v_1, embed_dim, u_adj, u_ratings, u_agg_embed_1,
-                                cuda = device)
-    u_agg_embed_2 = aggregator(u_f2v_2, i_f2v_2, embed_dim,
-                                cuda = device, is_user = True)
-    u_embed_2 = encoder(u_f2v_2, embed_dim, u_adj, u_ratings, u_agg_embed_2,
-                                cuda = device)
-    u_agg_embed_3 = aggregator(u_f2v_3, i_f2v_3, embed_dim,
-                                cuda = device, is_user = True)
-    u_embed_3 = encoder(u_f2v_3, embed_dim, u_adj, u_ratings, u_agg_embed_3,
-                                cuda = device)
+    u_agg_embed_1 = aggregator(u_f2v_1, i_f2v_1, embed_dim, cuda = device,
+                                is_user = True)
+    u_embed_1 = encoder(u_f2v_1, embed_dim, u_adj, u_agg_embed_1, cuda = device)
+    u_agg_embed_2 = aggregator(u_f2v_2, i_f2v_2, embed_dim, cuda = device,
+                                is_user = True)
+    u_embed_2 = encoder(u_f2v_2, embed_dim, u_adj, u_agg_embed_2, cuda = device)
+    u_agg_embed_3 = aggregator(u_f2v_3, i_f2v_3, embed_dim, cuda = device,
+                                is_user = True)
+    u_embed_3 = encoder(u_f2v_3, embed_dim, u_adj, u_agg_embed_3, cuda = device)
 
-    u_final_embed = simpleAttention(u_embed_1, u_embed_2, u_embed_3,
-                                        cuda = device)
+    u_final_embed = simpleAttention(u_embed_1, u_embed_2, u_embed_3, cuda = device)
 
     # item
-    i_agg_embed_1 = aggregator(u_f2v_1, i_f2v_1, embed_dim,
-                                cuda = device, is_user = False)
-    i_embed_1 = encoder(i_f2v_1, embed_dim, i_adj, i_ratings, i_agg_embed_1,
-                                cuda = device)
-    i_agg_embed_2 = aggregator(u_f2v_2, i_f2v_2, embed_dim,
-                                cuda = device, is_user = False)
-    i_embed_2 = encoder(i_f2v_2, embed_dim, i_adj, i_ratings, i_agg_embed_2,
-                                cuda = device)
-    i_agg_embed_3 = aggregator(u_f2v_3, i_f2v_3, embed_dim,
-                                cuda = device, is_user = False)
-    i_embed_1 = encoder(i_f2v_3, embed_dim, i_adj, i_ratings, i_agg_embed_3,
-                                cuda = device)
+    i_agg_embed_1 = aggregator(u_f2v_1, i_f2v_1, embed_dim, cuda = device,
+                                is_user = False)
+    i_embed_1 = encoder(i_f2v_1, embed_dim, i_adj, i_agg_embed_1, cuda = device)
+    i_agg_embed_2 = aggregator(u_f2v_2, i_f2v_2, embed_dim, cuda = device,
+                                is_user = False)
+    i_embed_2 = encoder(i_f2v_2, embed_dim, i_adj, i_agg_embed_2, cuda = device)
+    i_agg_embed_3 = aggregator(u_f2v_3, i_f2v_3, embed_dim, cuda = device,
+                                is_user = False)
+    i_embed_3 = encoder(i_f2v_3, embed_dim, i_adj, i_agg_embed_3, cuda = device)
 
     i_final_embed = simpleAttention(i_embed_1, i_embed_2, i_embed_3, device)
 
@@ -232,9 +225,9 @@ def main():
     endure_count = 0
 
     for epoch in range(1, args.epochs + 1):
-        # ================   training    ============
+        # ================   training    ================
         train(wrjmodel, train, optimizer, epoch, rmse_mn, mae_mn, device)
-        # ================     val       ============
+        # ================     val       ================
         rmse, mae = test(wrjmodel, val, device)
 
         if rmse_mn > rmse:
